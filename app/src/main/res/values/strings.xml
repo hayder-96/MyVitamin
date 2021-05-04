@@ -1,0 +1,3430 @@
+<resources>
+    <string name="app_name">food elements </string>
+
+
+    <string name="veget">vegetables</string>
+    <string name="fruit">fruit</string>
+    <string name="meat">meat</string>
+    <string name="drinks">drinks</string>
+    <string name="legumes">legumes</string>
+    <string name="pills">cereals</string>
+    <string name="egg">Eggs and cheese</string>
+    <string name="Variousfoods">Various foods</string>
+
+
+
+     <string name="amountfood">The nutritional amount of 100 grams</string>
+
+
+
+
+
+
+    <string name="apple">apple</string>
+    <string name="banana">banana</string>
+    <string name="pomegranate">pomegranate</string>
+    <string name="Pineapple">Pineapple</string>
+    <string name="grib">grape</string>
+    <string name="orange">orange</string>
+    <string name="lemon">lemon</string>
+    <string name="melon">melon</string>
+    <string name="olives">olives</string>
+    <string name="peach">peach</string>
+    <string name="pear">pear</string>
+    <string name="quince">quince</string>
+    <string name="Strawberries">Strawberries</string>
+    <string name="watermelon">watermelon</string>
+    <string name="kiwi">kiwi</string>
+    <string name="blueberry">blueberry</string>
+    <string name="carrots">carrots</string>
+    <string name="cherries">cherries</string>
+    <string name="coconut">coconut</string>
+    <string name="dates">dates</string>
+    <string name="figs">figs</string>
+    <string name="avocado">avocado</string>
+    <string name="apricot">apricot</string>
+    <string name="tamarind">tamarind</string>
+    <string name="mango">mango</string>
+    <string name="plum">plum</string>
+
+
+
+
+
+
+
+    <string name="tmato">Tomatoes</string>
+    <string name="batata">Potato</string>
+    <string name="bathngan">Aubergine</string>
+    <string name="garlic">garlic</string>
+    <string name="cucumber">Cucumber</string>
+    <string name="green_beans">green beans</string>
+    <string name="okra">okra</string>
+    <string name="onions">onions</string>
+    <string name="green_paper">green pepper</string>
+    <string name="zucchini">zucchini</string>
+    <string name="brocoli">Broccoli</string>
+    <string name="cauliflowe">cauliflower</string>
+    <string name="celery">celery</string>
+    <string name="cowpea">bean</string>
+    <string name="ginger">ginger</string>
+    <string name="hotpepper">hot pepper</string>
+    <string name="peas">peas</string>
+    <string name="pumpkin">pumpkin</string>
+    <string name="spinach">spinach</string>
+    <string name="reedbeets">reed beets</string>
+    <string name="lettuce">lettuce</string>
+    <string name="basil">basil</string>
+    <string name="radish">radish</string>
+    <string name="turnip">Turnip</string>
+
+
+
+
+
+
+
+
+
+
+
+    <string name="tea">tea</string>
+    <string name="coffee">coffee</string>
+    <string name="waterr">water</string>
+    <string name="orangejuic">orangejuice</string>
+    <string name="applejuic">applejuice</string>
+    <string name="molasses">molasses</string>
+    <string name="carrotjuic">carrotjuice</string>
+    <string name="mangojuic">mangojuice</string>
+    <string name="pineapplejuice">pineapplejuice</string>
+    <string name="pomegranatejuic">pomegranatejuice</string>
+    <string name="lemonade">lemonade</string>
+    <string name="alcohol">alcohol</string>
+    <string name="redbull">redbull</string>
+    <string name="cappuccino">cappuccino</string>
+    <string name="hotchocolate">hotchocolate</string>
+    <string name="icecream">icecream</string>
+    <string name="grapejuice">grapejuice</string>
+    <string name="pepsi">pepsi</string>
+    <string name="tomatojuic">tomatojuice</string>
+
+
+
+
+
+
+
+
+
+
+    <string name="freshfish">fish</string>
+    <string name="freshchicken">chicken</string>
+    <string name="beef">beef</string>
+    <string name="beefveal">beefveal</string>
+    <string name="hamburger">hamburger</string>
+    <string name="dearmeat">dearmeat</string>
+    <string name="shapemeat">shapemeat</string>
+    <string name="turkeymeat">turkeymeat</string>
+    <string name="ostrichmeat">ostrichmeat</string>
+    <string name="quailmeat">quailmeat</string>
+    <string name="chickenthighs">chickenthighs</string>
+    <string name="chickenbreast">Chicken breast</string>
+
+
+
+
+
+
+
+
+
+    <string name="wheat">wheat</string>
+    <string name="barley">barley</string>
+    <string name="corn">corn</string>
+    <string name="groats">groats</string>
+    <string name="millet">millet</string>
+    <string name="rice">rice</string>
+    <string name="spaghetti">spaghettit</string>
+    <string name="sesame">sesame</string>
+    <string name="blackpepper">black pepper</string>
+    <string name="cardamom">cardamom</string>
+    <string name="raisin">raisin</string>
+    <string name="sunflower">sunflower</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="lentil">lentil</string>
+    <string name="chickpeas">chickpeas</string>
+    <string name="blackbeans">blackbeans</string>
+    <string name="mash">mash</string>
+    <string name="whitebeans">whitebeans</string>
+    <string name="peanuts">peanuts</string>
+    <string name="soybeans">soybeans</string>
+    <string name="cumin">cumin</string>
+
+
+
+
+
+
+
+
+
+    <string name="boiledeggs">boiled eggs</string>
+    <string name="mothermilk">mother milk</string>
+    <string name="friedeggs">fried eggs</string>
+    <string name="honey">honey</string>
+    <string name="milk">milk</string>
+    <string name="duckeggs">duck eggs</string>
+    <string name="sheepmilk">sheep milk</string>
+    <string name="cheese">cheese</string>
+    <string name="peanutbutter">peanutbutter</string>
+    <string name="buttermilk">buttermilk</string>
+    <string name="butter">butter</string>
+
+
+
+
+
+
+
+    <string name="oil">oil</string>
+    <string name="fishoil">fish oil</string>
+    <string name="salt">salt</string>
+    <string name="sugar">sugar</string>
+    <string name="cinnamon">cinnamon</string>
+    <string name="spices">spices</string>
+    <string name="sesameoil">sesame oil</string>
+    <string name="oliveoil">olive oil</string>
+    <string name="almonds">almonds</string>
+    <string name="nut">nut</string>
+    <string name="vinger">pickle</string>
+    <string name="pistachios">pistachios</string>
+    <string name="hazelnut">hazelnut</string>
+     <string name="pizza">pizza</string>
+     <string name="Falafel">Falafel</string>
+     <string name="potatochips">Potato Chips</string>
+     <string name="chocolate">chocolate</string>
+    <string name="caviar">caviar</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string-array name="apple">
+        <item>Calories =52  </item>
+        <item>Common fat=0 g    </item>
+        <item>Polyunsaturated fat =0.1 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>Carbohydrates=13.81g    </item>
+        <item>Water=85.56g    </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=1 mg    </item>
+        <item> potassium =107 mg    </item>
+        <item>Sugars =14 g     </item>
+        <item>Dietary fibers=2.4 g      </item>
+        <item>sugar=10 g        </item>
+        <item>protein=0.3 g       </item>
+        <item>Vitamin A=54 IU      </item>
+        <item>Calcium=6 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =4.6 mg     </item>
+        <item>iron=0.1 mg       </item>
+        <item>Vitamin B6=0 mg     </item>
+        <item> Magnesium =5 mg    </item>
+
+    </string-array>
+
+
+
+    <string-array name="Mango">
+        <item>Calories =59  </item>
+        <item>Common fat=0.1 g    </item>
+        <item>Polyunsaturated fat =0.1 g     </item>
+        <item>Monounsaturated fat=0.1 g </item>
+        <item>Carbohydrates=15g    </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=1 mg    </item>
+        <item> potassium =168 mg    </item>
+        <item>Sugars =15 g     </item>
+        <item>Dietary fibers=1.6 g      </item>
+        <item>sugar=14 g        </item>
+        <item>protein=0.8 g       </item>
+        <item>Vitamin A=82 IU      </item>
+        <item>Calcium=11 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =36.4 mg     </item>
+        <item>iron=0.2 mg       </item>
+        <item>Vitamin B6=0.1 mg     </item>
+        <item> Magnesium =10 mg    </item>
+
+    </string-array>
+
+
+    <string-array name="plum">
+        <item>Calories =45  </item>
+        <item>Common fat=0 g    </item>
+        <item>Polyunsaturated fat =0 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=0 mg    </item>
+        <item> potassium =157 mg    </item>
+        <item>Sugars =11 g     </item>
+        <item>Dietary fibers=1.4 g      </item>
+        <item>sugar=10 g        </item>
+        <item>protein=0.7 g       </item>
+        <item>Vitamin A=345 IU      </item>
+        <item>Calcium=6 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =9.5 mg     </item>
+        <item>iron=0.2 mg       </item>
+        <item>Vitamin B6=0 mg     </item>
+        <item> Magnesium =7 mg    </item>
+
+    </string-array>
+
+    <string-array name="banana">
+
+        <item>Calories =88  </item>
+        <item>Common fat=0.1 g    </item>
+        <item>Polyunsaturated fat =0.1 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>Carbohydrates=22.84g    </item>
+        <item>Water=74.91g    </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=1 mg    </item>
+        <item> potassium =358 mg    </item>
+        <item>Sugars =23 g     </item>
+        <item>Dietary fibers=2.6 g      </item>
+        <item>sugar=12 g        </item>
+        <item>protein=1.1 g       </item>
+        <item>Vitamin A=64 IU      </item>
+        <item>Calcium=5 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =8.7 mg     </item>
+        <item>iron=0.3 mg       </item>
+        <item>Vitamin B6=0.4 mg     </item>
+        <item> Magnesium =27 mg    </item>
+    </string-array>
+
+
+
+
+
+    <string-array name="pomegranate">
+
+        <item>Calories =82  </item>
+        <item>Common fat=0.1 g    </item>
+        <item>Polyunsaturated fat =0.1 g     </item>
+        <item>Monounsaturated fat=0.1 g </item>
+        <item>Carbohydrates=18.70g    </item>
+        <item>Water= 77.93g   </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=3 mg    </item>
+        <item> potassium =236 mg    </item>
+        <item>Sugars =19 g     </item>
+        <item>Dietary fibers=4 g      </item>
+        <item>sugar=14 g        </item>
+        <item>protein=1.7 g       </item>
+        <item>Vitamin A=0 IU      </item>
+        <item>Calcium=10 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =10.2 mg     </item>
+        <item>iron=0.3 mg       </item>
+        <item>Vitamin B6=0.1 mg     </item>
+        <item> Magnesium =12 mg    </item>
+    </string-array>
+
+
+    <string-array name="grib">
+
+        <item>Calories =66  </item>
+        <item>Common fat=0.1 g    </item>
+        <item>Polyunsaturated fat =0.1 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>Carbohydrates=18.10g    </item>
+        <item>Water=80.54g    </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=2 mg    </item>
+        <item> potassium =191 mg    </item>
+        <item>Sugars =17 g     </item>
+        <item>Dietary fibers=0.9 g      </item>
+        <item>sugar=16 g        </item>
+        <item>protein=0.6 g       </item>
+        <item>Vitamin A=100 IU      </item>
+        <item>Calcium=14 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =4 mg     </item>
+        <item>iron=0.3 mg       </item>
+        <item>Vitamin B6=0.1 mg     </item>
+        <item> Magnesium =5 mg    </item>
+    </string-array>
+
+    <string-array name="orange">
+
+    <item> Calories=86</item>
+    <item> Fats=0.22</item>
+    <item>Saturated fats=0</item>
+    <item>Carbohydrates=21.62</item>
+    <item>The fibers=4.4</item>
+    <item> Proteins=1.73</item>
+    <item> cholesterol=0</item>
+        <item>Water=87g    </item>
+
+    </string-array>
+
+    <string-array name="Pineapple">
+
+        <item>Calories =50  </item>
+        <item>Common fat=0 g    </item>
+        <item>Polyunsaturated fat =0 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>Carbohydrates=13.12g    </item>
+        <item>Water=86g    </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=1 mg    </item>
+        <item> potassium =109 mg    </item>
+        <item>Sugars =13 g     </item>
+        <item>Dietary fibers=1.4 g      </item>
+        <item>sugar=10 g        </item>
+        <item>protein=0.5 g       </item>
+        <item>Vitamin A=58 IU      </item>
+        <item>Calcium=13 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =47.8 mg     </item>
+        <item>iron=0.3 mg       </item>
+        <item>Vitamin B6=0.1 mg     </item>
+        <item> Magnesium =12 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="lemon">
+
+        <item>Calories =28  </item>
+        <item>Common fat=0 g    </item>
+        <item>Polyunsaturated fat =0.1 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>Carbohydrates =9.32g   </item>
+        <item>Water= 88.98g    </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=2 mg    </item>
+        <item> potassium =138 mg    </item>
+        <item>Sugars =9 g     </item>
+        <item>Dietary fibers=2.8 g      </item>
+        <item>sugar=2.5 g        </item>
+        <item>protein=1.1 g       </item>
+        <item>Vitamin A=22 IU      </item>
+        <item>Calcium=26 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =53 mg     </item>
+        <item>iron=0.6 mg       </item>
+        <item>Vitamin B6=0.1 mg     </item>
+        <item> Magnesium =8 mg    </item>
+    </string-array>
+
+
+
+
+
+    <string-array name="melon">
+
+        <item>Calories =33  </item>
+        <item>Common fat=0.1 g    </item>
+        <item>Polyunsaturated fat =0.1 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>Carbohydrates=8.16g    </item>
+        <item>Water=90.15g    </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=16 mg    </item>
+        <item> potassium =267 mg    </item>
+        <item>Sugars =8 g     </item>
+        <item>Dietary fibers=0.9 g      </item>
+        <item>sugar=8 g        </item>
+        <item>protein=0.8 g       </item>
+        <item>Vitamin A=82 IU      </item>
+        <item>Calcium=9 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =36.7 mg     </item>
+        <item>iron=0.2 mg       </item>
+        <item>Vitamin B6=0.1 mg     </item>
+        <item> Magnesium =12 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="olives">
+
+        <item>Calories =115  </item>
+        <item>Common fat=1.4 g    </item>
+        <item>Polyunsaturated fat =0.9 g     </item>
+        <item>Monounsaturated fat=8 g </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=735 mg    </item>
+        <item> potassium =8 mg    </item>
+        <item>Sugars =6 g     </item>
+        <item>Dietary fibers=3.2 g      </item>
+        <item>sugar=0 g        </item>
+        <item>protein=0.8 g       </item>
+        <item>Vitamin A=403 IU      </item>
+        <item>Calcium=88 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =0.9 mg     </item>
+        <item>iron=3.3 mg       </item>
+        <item>Vitamin B6=0 mg     </item>
+        <item> Magnesium =4 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="peach">
+
+        <item>Calories =39  </item>
+        <item>Common fat=0 g    </item>
+        <item>Polyunsaturated fat =0.1 g     </item>
+        <item>Monounsaturated fat=0.1 g </item>
+        <item>Carbohydrates=9.54g    </item>
+        <item>Water=88.87g    </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=0 mg    </item>
+        <item> potassium =190 mg    </item>
+        <item>Sugars =10 g     </item>
+        <item>Dietary fibers=1.5 g      </item>
+        <item>sugar=8 g        </item>
+        <item>protein=0.9 g       </item>
+        <item>Vitamin A=326 IU      </item>
+        <item>Calcium=6 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =6.6 mg     </item>
+        <item>iron=0.3 mg       </item>
+        <item>Vitamin B6=0 mg     </item>
+        <item> Magnesium =9 mg    </item>
+    </string-array>
+
+
+    <string-array name="quince">
+
+        <item>Calories =56  </item>
+        <item>Common fat=0 g    </item>
+        <item>Polyunsaturated fat =0.1 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>Carbohydrates=15.30g    </item>
+        <item>Water=83.80g    </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=4 mg    </item>
+        <item> potassium =197 mg    </item>
+        <item>Sugars =15 g     </item>
+        <item>Dietary fibers=1.9 g      </item>
+        <item>protein=0.4 g       </item>
+        <item>Vitamin A=40 IU      </item>
+        <item>Calcium=11 mg       </item>
+        <item>Vitamin C =15 mg     </item>
+        <item>iron=0.7 mg       </item>
+        <item>Vitamin B6=0 mg     </item>
+        <item> Magnesium =8 mg    </item>
+    </string-array>
+
+
+    <string-array name="Strawberries">
+
+        <item>Calories =32  </item>
+        <item>Common fat=0 g    </item>
+        <item>Polyunsaturated fat =0.2 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>Carbohydrates= 7.68g    </item>
+        <item>Water=90.95g    </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=1 mg    </item>
+        <item> potassium =153 mg    </item>
+        <item>Sugars =8 g     </item>
+        <item>Dietary fibers=2 g      </item>
+        <item>sugar=4.9 g        </item>
+        <item>protein=0.7 g       </item>
+        <item>Vitamin A=12 IU      </item>
+        <item>Calcium=16 mg       </item>
+        <item>Vitamin C =58.8 mg     </item>
+        <item>iron=0.4 mg       </item>
+        <item>Vitamin B6=0 mg     </item>
+        <item> Magnesium =13 mg    </item>
+    </string-array>
+
+
+    <string-array name="watermelon">
+
+        <item>Calories =30  </item>
+        <item>Common fat=0 g    </item>
+        <item>Polyunsaturated fat =0.1 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>Carbohydrates=7.55g    </item>
+        <item>Water=91.45g    </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=1 mg    </item>
+        <item> potassium =112 mg    </item>
+        <item>Sugars =8 g     </item>
+        <item>Dietary fibers=0.4 g      </item>
+        <item>sugar=6 g        </item>
+        <item>protein=0.6 g       </item>
+        <item>Vitamin A=569 IU      </item>
+        <item>Calcium=7 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =8.1 mg     </item>
+        <item>iron=0.2 mg       </item>
+        <item>Vitamin B6=0 mg     </item>
+        <item> Magnesium =10 mg    </item>
+    </string-array>
+
+    <string-array name="kiwi">
+
+        <item>Calories =60  </item>
+        <item>Common fat=0 g    </item>
+        <item>Polyunsaturated fat =0.3 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>Carbohydrates=14.66g    </item>
+        <item>Water=83.7    </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=3 mg    </item>
+        <item> potassium =312 mg    </item>
+        <item>Sugars =15 g     </item>
+        <item>Dietary fibers=3 g      </item>
+        <item>sugar=9 g        </item>
+        <item>protein=1.1 g       </item>
+        <item>Vitamin A=87 IU      </item>
+        <item>Calcium=34 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =92.7 mg     </item>
+        <item>iron=0.3 mg       </item>
+        <item>Vitamin B6=0.1 mg     </item>
+        <item> Magnesium =17 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="blueberry">
+
+        <item>Calories =75  </item>
+        <item>Common fat=0 g    </item>
+        <item>Polyunsaturated fat =0.1 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>Carbohydrates=14.49g    </item>
+        <item>Water=84.21g    </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=1 mg    </item>
+        <item> potassium =77 mg    </item>
+        <item>Sugars =14 g     </item>
+        <item>Dietary fibers=2.4 g      </item>
+        <item>sugar=10 g        </item>
+        <item>protein=0.7 g       </item>
+        <item>Vitamin A=54 IU      </item>
+        <item>Calcium=6 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =9.7 mg     </item>
+        <item>iron=0.3 mg       </item>
+        <item>Vitamin B6=0.1 mg     </item>
+        <item> Magnesium =6 mg    </item>
+    </string-array>
+
+
+    <string-array name="carrots">
+
+        <item>Calories =41  </item>
+        <item>Common fat=0 g    </item>
+        <item>Polyunsaturated fat =0.1 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>Carbohydrates =9.58g   </item>
+        <item>Water=88.29g    </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=69 mg    </item>
+        <item> potassium =320 mg    </item>
+        <item>Sugars =10 g     </item>
+        <item>Dietary fibers=2.8 g      </item>
+        <item>sugar=4.7 g        </item>
+        <item>protein=0.9 g       </item>
+        <item>Vitamin A=0.6 IU      </item>
+        <item>Calcium=33 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =5.9 mg     </item>
+        <item>iron=0.3 mg       </item>
+        <item>Vitamin B6=0.1 mg     </item>
+        <item> Magnesium =12 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="cherries">
+
+        <item>Calories =50  </item>
+        <item>Common fat=0.1 g    </item>
+        <item>Polyunsaturated fat =0.1 g     </item>
+        <item>Monounsaturated fat=0.1 g </item>
+        <item>Carbohydrates=16.1g    </item>
+        <item>Water=82.25g    </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=3 mg    </item>
+        <item> potassium =173 mg    </item>
+        <item>Sugars =12 g     </item>
+        <item>Dietary fibers=1.6 g      </item>
+        <item>sugar=8 g        </item>
+        <item>protein=1 g       </item>
+        <item>Vitamin A=83 IU      </item>
+        <item>Calcium=16 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =10 mg     </item>
+        <item>iron=0.3 mg       </item>
+        <item>Vitamin B6=0 mg     </item>
+        <item> Magnesium =9 mg    </item>
+    </string-array>
+
+
+    <string-array name="Coconut">
+
+        <item>Calories =354  </item>
+        <item>Common fat=30 g    </item>
+        <item>Polyunsaturated fat =0.4 g     </item>
+        <item>Monounsaturated fat=1.4 g </item>
+        <item>Carbohydrates =15.23g   </item>
+        <item>Water=47g    </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=20 mg    </item>
+        <item> potassium =356 mg    </item>
+        <item>Sugars =15 g     </item>
+        <item>Dietary fibers=9 g      </item>
+        <item>sugar=6 g        </item>
+        <item>protein=3.3 g       </item>
+        <item>Vitamin A=0 IU      </item>
+        <item>Calcium=14 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =3.3 mg     </item>
+        <item>iron=2.4 mg       </item>
+        <item>Vitamin B6=0.1 mg     </item>
+        <item> Magnesium =32 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="Dates">
+
+        <item>Calories =281  </item>
+        <item>Common fat=0 g    </item>
+        <item>Polyunsaturated fat =0 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>Carbohydrates=75g    </item>
+        <item>Water=21.33g    </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=2 mg    </item>
+        <item> potassium =656 mg    </item>
+        <item>Sugars =75 g     </item>
+        <item>Dietary fibers=8 g      </item>
+        <item>sugar=63 g        </item>
+        <item>protein=2.5 g       </item>
+        <item>Vitamin A=10 IU      </item>
+        <item>Calcium=39 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =0.4 mg     </item>
+        <item>iron=1 mg       </item>
+        <item>Vitamin B6=0.2 mg     </item>
+        <item> Magnesium =43 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="Figs">
+
+        <item> Calories=47</item>
+        <item> Fats=0.19 g</item>
+        <item>Saturated fat=0 g</item>
+        <item>Carbohydrates=12.28 g</item>
+        <item> The fibers=1.9 g</item>
+        <item>Proteins=0.48 g</item>
+        <item>Cholesterol=0 mg</item>
+        <item>Water=80g    </item>
+
+    </string-array>
+
+
+    <string-array name="avocado">
+
+        <item>Calories =160  </item>
+        <item>Common fat=2.1 g    </item>
+        <item>Polyunsaturated fat =1.8 g     </item>
+        <item>Monounsaturated fat=10 g </item>
+        <item>Carbohydrates=8.64g    </item>
+        <item>Water=72.33g    </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=7 mg    </item>
+        <item> potassium =485 mg    </item>
+        <item>Sugars =0.7 g     </item>
+        <item>Dietary fibers=7 g      </item>
+        <item>sugar=0.7 g        </item>
+        <item>protein=2 g       </item>
+        <item>Vitamin A=146 IU      </item>
+        <item>Calcium=12 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =10 mg     </item>
+        <item>iron=0.6 mg       </item>
+        <item>Vitamin B6=0.3 mg     </item>
+        <item> Magnesium =29 mg    </item>
+    </string-array>
+
+    <string-array name="apricot">
+
+        <item>Calories =48  </item>
+        <item>Common fat=0 g    </item>
+        <item>Polyunsaturated fat =0.1 g     </item>
+        <item>Monounsaturated fat=0.2 g </item>
+        <item>Carbohydrates=11.12g    </item>
+        <item>Water=86.35g    </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=1 mg    </item>
+        <item> potassium =259 mg    </item>
+        <item>Sugars =11 g     </item>
+        <item>Dietary fibers=2 g      </item>
+        <item>sugar=9 g        </item>
+        <item>protein=1.4 g       </item>
+        <item>Vitamin A=26 IU      </item>
+        <item>Calcium=13 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =10 mg     </item>
+        <item>iron=0.4 mg       </item>
+        <item>Vitamin B6=0.1 mg     </item>
+        <item> Magnesium =10 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="tamarind">
+
+        <item> Water=31.4g</item>
+        <item>Proteins=2.8g</item>
+        <item>Calories==239</item>
+        <item> Fats=0.6g</item>
+        <item>The fibers=5.1g</item>
+        <item>sugar=38.8g</item>
+        <item>Calcium=74 m g</item>
+        <item>iron=2.8 m g</item>
+        <item>carbohydrate=62.50g</item>
+
+    </string-array>
+    <string-array name="Pear">
+
+        <item>Calories =57  </item>
+        <item>Common fat=0 g    </item>
+        <item>Polyunsaturated fat =0.1 g     </item>
+        <item>Monounsaturated fat=0.1 g </item>
+        <item>Carbohydrates=15.23g    </item>
+        <item>Water=83.96g    </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=1 mg    </item>
+        <item> potassium =116 mg    </item>
+        <item>Sugars =15 g     </item>
+        <item>Dietary fibers=3.1 g      </item>
+        <item>sugar=10 g        </item>
+        <item>protein=0.4 g       </item>
+        <item>Vitamin A=25 IU      </item>
+        <item>Calcium=9 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =4.3 mg     </item>
+        <item>iron=0.2 mg       </item>
+        <item>Vitamin B6=0 mg     </item>
+        <item> Magnesium =7 mg    </item>
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<string-array name="Tomatoes">
+
+<item>Calories =17  </item>
+<item>Common fat=0 g    </item>
+<item>Polyunsaturated fat =0.1 g     </item>
+<item>Monounsaturated fat=0 g </item>
+<item>Carbohydrates=3.89g    </item>
+<item>Water=94.52g    </item>
+<item>cholesterol=0 mg    </item>
+<item>sodium=5 mg    </item>
+<item> potassium =237 mg    </item>
+<item>Sugars =3.9 g     </item>
+<item>Dietary fibers=1.2 g      </item>
+<item>sugar=2.6 g        </item>
+<item>protein=0.9 g       </item>
+<item>Vitamin A=833 IU      </item>
+<item>Calcium=10 mg       </item>
+<item>Vitamin D=0 IU    </item>
+<item>Vitamin C =13.7 mg     </item>
+<item>iron=0.3 mg       </item>
+<item>Vitamin B6=0.1 mg     </item>
+<item> Magnesium =11 mg    </item>
+</string-array>
+
+
+
+    <string-array name="Potato">
+
+        <item>Calories =85  </item>
+        <item>Common fat=0 g    </item>
+        <item>Polyunsaturated fat =0 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>Carbohydrates=18.7g    </item>
+        <item>Water=78.58g    </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=55 mg    </item>
+        <item> potassium =337 mg    </item>
+        <item>Sugars =20 g     </item>
+        <item>Dietary fibers=3 g      </item>
+        <item>sugar=4.2 g        </item>
+        <item>protein=1.6 g       </item>
+        <item>Vitamin A=87 IU      </item>
+        <item>Calcium=30 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =2.4 mg     </item>
+        <item>iron=0.6 mg       </item>
+        <item>Vitamin B6=0.2 mg     </item>
+        <item> Magnesium =25 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="Basil">
+
+        <item>Calories =22  </item>
+        <item>Common fat=0 g    </item>
+        <item>Polyunsaturated fat =0.4 g     </item>
+        <item>Monounsaturated fat=0.1 g </item>
+        <item>Carbohydrates=2.65 g    </item>
+        <item>Water=3.15g    </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=4 mg    </item>
+        <item> potassium =295 mg    </item>
+        <item>Sugars =2.7 g     </item>
+        <item>Dietary fibers=1.6 g      </item>
+        <item>sugar=0.3 g        </item>
+        <item>protein=3.2 g       </item>
+        <item>Vitamin A=75 IU      </item>
+        <item>Calcium=177 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =18 mg     </item>
+        <item>iron=3.2 mg       </item>
+        <item>Vitamin B6=0.2 mg     </item>
+        <item> Magnesium =64 mg    </item>
+    </string-array>
+
+
+
+
+    <string-array name="Lettuce">
+
+        <item>Calories =14  </item>
+        <item>Common fat=0 g    </item>
+        <item>Polyunsaturated fat =0.1 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>Carbohydrates=18.7g    </item>
+        <item>Water=78.58g    </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=28 mg    </item>
+        <item> potassium =194 mg    </item>
+        <item>Sugars =2.9 g     </item>
+        <item>Dietary fibers=1.3 g      </item>
+        <item>sugar=0.8 g        </item>
+        <item>protein=1.4 g       </item>
+        <item>Vitamin A=5 IU      </item>
+        <item>Calcium=36 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =9.2 mg     </item>
+        <item>iron=0.9 mg       </item>
+        <item>Vitamin B6=0.1 mg     </item>
+        <item> Magnesium =13 mg    </item>
+    </string-array>
+
+
+
+
+    <string-array name="Radish">
+
+        <item>Calories =15  </item>
+        <item>Common fat=0 g    </item>
+        <item>Polyunsaturated fat =0 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>Carbohydrates=3.40g    </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=39 mg    </item>
+        <item> potassium =233 mg    </item>
+        <item>Sugars =3.4 g     </item>
+        <item>Dietary fibers=1.6 g      </item>
+        <item>sugar=1.9 g        </item>
+        <item>protein=0.7 g       </item>
+        <item>Vitamin A=7 IU      </item>
+        <item>Calcium=25 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =14.8 mg     </item>
+        <item>iron=0.3 mg       </item>
+        <item>Vitamin B6=0.1 mg     </item>
+        <item> Magnesium =10 mg    </item>
+    </string-array>
+
+
+
+
+    <string-array name="Greenpapper">
+
+        <item>Calories =23  </item>
+        <item>fats=0.17 g    </item>
+        <item>Carbohydrates=4.64g    </item>
+        <item>Water=93.89g    </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=3 mg    </item>
+        <item> potassium =175 mg    </item>
+        <item>Sugars =2.4 g     </item>
+        <item>Dietary fibers=1.7 g      </item>
+        <item>protein=0.86 g       </item>
+        <item>Vitamin A=370 IU      </item>
+        <item>Calcium=10 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>iron=0.34 mg       </item>
+        <item>Vitamin B6=0.22 mg     </item>
+        <item> Magnesium =10 mg    </item>
+    </string-array>
+
+
+
+
+    <string-array name="Aubergine">
+
+        <item>Calories =24  </item>
+        <item>Common fat=0 g    </item>
+        <item>Polyunsaturated fat =0.1 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>Carbohydrates=5.88g    </item>
+        <item>Water=92.30g    </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=2 mg    </item>
+        <item> potassium =229 mg    </item>
+        <item>Sugars =6 g     </item>
+        <item>Dietary fibers=3 g      </item>
+        <item>sugar=3.5 g        </item>
+        <item>protein=1 g       </item>
+        <item>Vitamin A=23 IU      </item>
+        <item>Calcium=9 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =2.2 mg     </item>
+        <item>iron=0.2 mg       </item>
+        <item>Vitamin B6=0.1 mg     </item>
+        <item> Magnesium =14 mg    </item>
+    </string-array>
+
+
+
+
+    <string-array name="greenbeans">
+
+        <item>Calories =88  </item>
+        <item>Common fat=0 g    </item>
+        <item>Polyunsaturated fat =0.3 g     </item>
+        <item>Monounsaturated fat=0.1 g </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=25 mg    </item>
+        <item> potassium =332 mg    </item>
+        <item>Sugars =18 g     </item>
+        <item>Dietary fibers=8 g      </item>
+        <item>sugar=9 g        </item>
+        <item>protein=8 g       </item>
+        <item>Vitamin A=333 IU      </item>
+        <item>Calcium=37 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =3.7 mg     </item>
+        <item>iron=1.6 mg       </item>
+        <item>Vitamin B6=0.1 mg     </item>
+        <item> Magnesium =33 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="Onions">
+
+        <item>Calories =39  </item>
+        <item>Common fat=0 g    </item>
+        <item>Polyunsaturated fat =0 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>Carbohydrates=9.34g    </item>
+        <item>Water=89.11g    </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=4 mg    </item>
+        <item> potassium =146 mg    </item>
+        <item>Sugars =9 g     </item>
+        <item>Dietary fibers=1.7 g      </item>
+        <item>sugar=4.2 g        </item>
+        <item>protein=1.1 g       </item>
+        <item>Vitamin A=2 IU      </item>
+        <item>Calcium=23 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =7.4 mg     </item>
+        <item>iron=0.2 mg       </item>
+        <item>Vitamin B6=0.1 mg     </item>
+        <item> Magnesium =10 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="Okra">
+
+        <item>Calories =33  </item>
+        <item>Common fat=0 g    </item>
+        <item>Polyunsaturated fat =0 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>Carbohydrates=7.454g    </item>
+        <item>Water=89.58g    </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=7 mg    </item>
+        <item> potassium =299 mg    </item>
+        <item>Sugars =7 g     </item>
+        <item>Dietary fibers=3.2 g      </item>
+        <item>sugar=1.5 g        </item>
+        <item>protein=1.9 g       </item>
+        <item>Vitamin A=716 IU      </item>
+        <item>Calcium=82 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =23 mg     </item>
+        <item>iron=0.6 mg       </item>
+        <item>Vitamin B6=0.2 mg     </item>
+        <item> Magnesium =57 mg    </item>
+    </string-array>
+
+
+    <string-array name="zucchini">
+
+        <item>Calories =16  </item>
+        <item>Common fat=0.1 g    </item>
+        <item>Polyunsaturated fat =0.1 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>Carbohydrates=3.114g    </item>
+        <item>Water=92.73g    </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=8 mg    </item>
+        <item> potassium =261 mg    </item>
+        <item>Sugars =3.1 g     </item>
+        <item>Dietary fibers=1 g      </item>
+        <item>sugar=2.5 g        </item>
+        <item>protein=1.2 g       </item>
+        <item>Vitamin A=200 IU      </item>
+        <item>Calcium=16 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =17.9 mg     </item>
+        <item>iron=0.4 mg       </item>
+        <item>Vitamin B6=0.2 mg     </item>
+        <item> Magnesium =18 mg    </item>
+    </string-array>
+
+
+    <string-array name="Broccoli">
+
+        <item>Calories =33  </item>
+        <item>Common fat=0 g    </item>
+        <item>Polyunsaturated fat =0 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>Carbohydrates=6.64g    </item>
+        <item>Water= 98.30g    </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=33 mg    </item>
+        <item> potassium =316 mg    </item>
+        <item>Sugars =7 g     </item>
+        <item>Dietary fibers=2.6 g      </item>
+        <item>sugar=1.7 g        </item>
+        <item>protein=2.8 g       </item>
+        <item>Vitamin A=623 IU      </item>
+        <item>Calcium=47 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =89.2 mg     </item>
+        <item>iron=0.7 mg       </item>
+        <item>Vitamin B6=0.2 mg     </item>
+        <item> Magnesium =21 mg    </item>
+    </string-array>
+
+
+    <string-array name="cauliflower">
+
+        <item>Calories =24  </item>
+        <item>Common fat=0.1 g    </item>
+        <item>Polyunsaturated fat =0 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>Carbohydrates=4.97g    </item>
+        <item>Water= 92.7g    </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=30 mg    </item>
+        <item> potassium =299 mg    </item>
+        <item>Sugars =5 g     </item>
+        <item>Dietary fibers=2 g      </item>
+        <item>sugar=1.9 g        </item>
+        <item>protein=1.9 g       </item>
+        <item>Vitamin A=0 IU      </item>
+        <item>Calcium=22 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =48.2 mg     </item>
+        <item>iron=0.4 mg       </item>
+        <item>Vitamin B6=0.2 mg     </item>
+        <item> Magnesium =15 mg    </item>
+    </string-array>
+
+    <string-array name="celery">
+
+        <item>Calories =36  </item>
+        <item>Common fat=0.1 g    </item>
+        <item>Polyunsaturated fat =0.1 g     </item>
+        <item>Monounsaturated fat=0.3 g </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=56 mg    </item>
+        <item> potassium =554 mg    </item>
+        <item>Sugars =6 g     </item>
+        <item>Dietary fibers=3.3 g      </item>
+        <item>sugar=0.9 g        </item>
+        <item>protein=3 g       </item>
+        <item>Vitamin A=24 IU      </item>
+        <item>Calcium=138 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =133 mg     </item>
+        <item>iron=6.2 mg       </item>
+        <item>Vitamin B6=0.1 mg     </item>
+        <item> Magnesium =50 mg    </item>
+    </string-array>
+
+
+<string-array name="cowpeanc">
+
+    <item>Calories= 44</item>
+    <item>Fat= 0.35</item>
+    <item>Saturated fat= 0</item>
+    <item>Carbohydrates= 9.85</item>
+    <item>Fiber= 4</item>
+    <item>Proteins= 2.36</item>
+    <item>Cholesterol= 0</item>
+
+
+</string-array>
+
+
+    <string-array name="ginger">
+
+        <item>Calories =79  </item>
+        <item>Common fat=0.2 g    </item>
+        <item>Polyunsaturated fat =0.2 g     </item>
+        <item>Monounsaturated fat=0.2 g </item>
+        <item>Carbohydrates=17.77g    </item>
+        <item>Water= 78.89g    </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=13 mg    </item>
+        <item> potassium =415 mg    </item>
+        <item>Sugars =1.7 g     </item>
+        <item>Dietary fibers=2 g      </item>
+        <item>sugar=1.7 g        </item>
+        <item>protein=1.8 g       </item>
+        <item>Vitamin A=0 IU      </item>
+        <item>Calcium=16 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =5 mg     </item>
+        <item>iron=0.6 mg       </item>
+        <item>Vitamin B6=0.2 mg     </item>
+        <item> Magnesium =43 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="hotpapper">
+
+        <item>Calories =39  </item>
+        <item>Common fat=0 g    </item>
+        <item>Polyunsaturated fat =0.2 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>Carbohydrates=8.80g    </item>
+        <item>Water= 88g    </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=9 mg    </item>
+        <item> potassium =322 mg    </item>
+        <item>Sugars =9 g     </item>
+        <item>Dietary fibers=1.5 g      </item>
+        <item>sugar=5 g        </item>
+        <item>protein=1.9 g       </item>
+        <item>Vitamin A=0 IU      </item>
+        <item>Calcium=14 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =3.7 mg     </item>
+        <item>iron=1 mg       </item>
+        <item>Vitamin B6=0.5 mg     </item>
+        <item> Magnesium =23 mg    </item>
+    </string-array>
+
+
+    <string-array name="peas">
+
+        <item>Calories =81  </item>
+        <item>Common fat=0.1 g    </item>
+        <item>Polyunsaturated fat =0.2 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>Carbohydrates=63.74g    </item>
+        <item>Water= 8.62g    </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=5 mg    </item>
+        <item> potassium =244 mg    </item>
+        <item>Sugars =14 g     </item>
+        <item>Dietary fibers=5 g      </item>
+        <item>sugar=6 g        </item>
+        <item>protein=5 g       </item>
+        <item>Vitamin A=0 IU      </item>
+        <item>Calcium=25 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =40 mg     </item>
+        <item>iron=1.5 mg       </item>
+        <item>Vitamin B6=0.2 mg     </item>
+        <item> Magnesium =33 mg    </item>
+    </string-array>
+
+
+    <string-array name="reedbeats">
+
+        <item>Calories =43  </item>
+        <item>Common fat=0 g    </item>
+        <item>Polyunsaturated fat =0.1 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=78 mg    </item>
+        <item> potassium =325 mg    </item>
+        <item>Sugars =10 g     </item>
+        <item>Dietary fibers=2.8 g      </item>
+        <item>sugar=7 g        </item>
+        <item>protein=1.6 g       </item>
+        <item>Vitamin A=33 IU      </item>
+        <item>Calcium=16 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =4.9 mg     </item>
+        <item>iron=0.8 mg       </item>
+        <item>Vitamin B6=0.1 mg     </item>
+        <item> Magnesium =23 mg    </item>
+    </string-array>
+
+    <string-array name="pumpkin">
+
+        <item>Calories =26  </item>
+        <item>Common fat=0.1 g    </item>
+        <item>Polyunsaturated fat =0 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>Carbohydrates=8.59g    </item>
+        <item>Water= 89.76g    </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=1 mg    </item>
+        <item> potassium =340 mg    </item>
+        <item>Sugars =7 g     </item>
+        <item>Dietary fibers=0.5 g      </item>
+        <item>sugar=2.8 g        </item>
+        <item>protein=1 g       </item>
+        <item>Vitamin A=13 IU      </item>
+        <item>Calcium=21 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =9 mg     </item>
+        <item>iron=0.8 mg       </item>
+        <item>Vitamin B6=0.1 mg     </item>
+        <item> Magnesium =12 mg    </item>
+    </string-array>
+
+
+    <string-array name="Turnip">
+
+        <item>Calories =28  </item>
+        <item>Common fat=0 g    </item>
+        <item>Polyunsaturated fat =0.1 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>Carbohydrates=10g    </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=67 mg    </item>
+        <item> potassium =191 mg    </item>
+        <item>Sugars =6 g     </item>
+        <item>Dietary fibers=1.8 g      </item>
+        <item>sugar=3.8 g        </item>
+        <item>protein=0.9 g       </item>
+        <item>Vitamin A=0 IU      </item>
+        <item>Calcium=30 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =21 mg     </item>
+        <item>iron=0.3 mg       </item>
+        <item>Vitamin B6=0.1 mg     </item>
+        <item> Magnesium =11 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="garlic">
+
+        <item>Calories=149g   </item>
+        <item>Carbohydrates=33.6g   </item>
+        <item>Sugar=1g   </item>
+        <item>Dietary fibers=2.1g   </item>
+        <item>protein=6.36g   </item>
+        <item>Fats=0.5g   </item>
+        <item>Vitamin B6=1.235m g   </item>
+        <item>Calcium=181m g   </item>
+        <item>iron=1.7m g   </item>
+        <item>Magnesium=25m g   </item>
+        <item>potassium=401m g   </item>
+        <item> sodium=17m g   </item>
+
+    </string-array>
+
+
+    <string-array name="spinach">
+
+        <item>Calories=23g   </item>
+        <item>Carbohydrates=3.6g   </item>
+       <item>water=91.4     </item>
+        <item>Sugar=0.4g   </item>
+        <item>Dietary fibers=2.2g   </item>
+        <item>protein=2.9g   </item>
+        <item>Fats=0.4g   </item>
+        <item>Vitamin B6=0.195m g   </item>
+        <item>Calcium=99m g   </item>
+        <item>iron=2.71m g   </item>
+        <item>Magnesium=79m g   </item>
+        <item>potassium=558m g   </item>
+        <item> sodium=79m g   </item>
+
+    </string-array>
+
+
+    <string-array name="cucumber">
+
+        <item>Calories=15</item>
+        <item>protein=650 m g  </item>
+        <item>potassium=147 m g   </item>
+        <item> Fats=110 m g  </item>
+        <item>Calcium=16 m g   </item>
+        <item> Water=95.23m g   </item>
+        <item> Carbohydrates=3.36g  </item>
+        <item>The fibers=0.5g  </item>
+        <item> Sugars=1.67g  </item>
+        <item> sodium=2m g  </item>
+        <item>iron=0.28m g  </item>
+        <item>Magnesium=13m g   </item>
+
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string-array name="fish">
+
+        <item>Calories =205  </item>
+        <item>Common fat=2.5 g    </item>
+        <item>Polyunsaturated fat =4.4 g     </item>
+        <item>Monounsaturated fat=4.4 g </item>
+        <item>cholesterol=63 mg    </item>
+        <item>sodium=61 mg    </item>
+        <item> potassium =384 mg    </item>
+        <item>Sugars =0 g     </item>
+        <item>Dietary fibers=0 g      </item>
+        <item>protein=22 g       </item>
+        <item>Vitamin A=50 IU      </item>
+        <item>Calcium=15 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =3.7 mg     </item>
+        <item>iron=0.3 mg       </item>
+        <item>Vitamin B6=0.6 mg     </item>
+        <item> Magnesium =30 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="chicken">
+
+        <item>Calories =239  </item>
+        <item>Common fat=3.8 g    </item>
+        <item>Polyunsaturated fat =3 g     </item>
+        <item>Monounsaturated fat=5 g </item>
+        <item>cholesterol=88 mg    </item>
+        <item>sodium=82 mg    </item>
+        <item> potassium =223 mg    </item>
+        <item>Sugars =0 g     </item>
+        <item>Dietary fibers=0 g      </item>
+        <item>protein=27 g       </item>
+        <item>Vitamin A=161 IU      </item>
+        <item>Calcium=15 mg       </item>
+        <item>Vitamin D=2 IU    </item>
+        <item>Vitamin C =0 mg     </item>
+        <item>iron=1.3 mg       </item>
+        <item>Vitamin B6=0.4 mg     </item>
+        <item> Magnesium =23 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="beef">
+
+        <item>Calories =250  </item>
+        <item>Common fat=6 g    </item>
+        <item>Polyunsaturated fat =0.5 g     </item>
+        <item>Monounsaturated fat=7 g </item>
+        <item>cholesterol=90 mg    </item>
+        <item>sodium=72 mg    </item>
+        <item> potassium =318 mg    </item>
+        <item>Sugars =0 g     </item>
+        <item>Dietary fibers=0 g      </item>
+        <item>protein=26 g       </item>
+        <item>Vitamin A=0 IU      </item>
+        <item>Calcium=18 mg       </item>
+        <item>Vitamin D=7 IU    </item>
+        <item>Vitamin C =0 mg     </item>
+        <item>iron=2.6 mg       </item>
+        <item>Vitamin B6=0.4 mg     </item>
+        <item> Magnesium =21 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="beefveal">
+
+        <item>Calories =172  </item>
+        <item>Common fat=3 g    </item>
+        <item>Polyunsaturated fat =0.6 g     </item>
+        <item>Monounsaturated fat=2.8 g </item>
+        <item>cholesterol=103 mg    </item>
+        <item>sodium=83 mg    </item>
+        <item> potassium =337 mg    </item>
+        <item>Sugars =0 g     </item>
+        <item>Dietary fibers=0 g      </item>
+        <item>protein=24 g       </item>
+        <item>Vitamin A=0 IU      </item>
+        <item>Calcium=17 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =0 mg     </item>
+        <item>iron=1 mg       </item>
+        <item>Vitamin B6=0.4 mg     </item>
+        <item> Magnesium =24 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="dearmeat">
+
+        <item>Calories =158  </item>
+        <item>Common fat=1.3 g    </item>
+        <item>Polyunsaturated fat =0.6 g     </item>
+        <item>Monounsaturated fat=0.9 g </item>
+        <item>cholesterol=112 mg    </item>
+        <item>sodium=54 mg    </item>
+        <item> potassium =335 mg    </item>
+        <item>Sugars =0 g     </item>
+        <item>Dietary fibers=0 g      </item>
+        <item>protein=30 g       </item>
+        <item>Vitamin A=0 IU      </item>
+        <item>Calcium=7 mg       </item>
+        <item>Vitamin C =0 mg     </item>
+        <item>iron=4.5 mg       </item>
+        <item> Magnesium =24 mg    </item>
+    </string-array>
+
+
+    <string-array name="shapemeat">
+
+        <item>Calories =294  </item>
+        <item>Common fat=9 g    </item>
+        <item>Polyunsaturated fat =1.5 g     </item>
+        <item>Monounsaturated fat=9 g </item>
+        <item>cholesterol=97 mg    </item>
+        <item>sodium=72 mg    </item>
+        <item> potassium =310 mg    </item>
+        <item>Sugars =0 g     </item>
+        <item>Dietary fibers=0 g      </item>
+        <item>protein=25 g       </item>
+        <item>Vitamin A=0 IU      </item>
+        <item>Calcium=17 mg       </item>
+        <item>Vitamin D=2 IU    </item>
+        <item>Vitamin C =0 mg     </item>
+        <item>iron=1.9 mg       </item>
+        <item>Vitamin B6=0.1 mg     </item>
+        <item> Magnesium =23 mg    </item>
+    </string-array>
+
+
+    <string-array name="turkeymeat">
+
+        <item>Calories =188  </item>
+        <item>Common fat=2.2 g    </item>
+        <item>Polyunsaturated fat =2.1 g     </item>
+        <item>Monounsaturated fat=2.6 g </item>
+        <item>cholesterol=109 mg    </item>
+        <item>sodium=103 mg    </item>
+        <item> potassium =239 mg    </item>
+        <item>Sugars =0.1 g     </item>
+        <item>Dietary fibers=0 g      </item>
+        <item>protein=29 g       </item>
+        <item>Vitamin A=39 IU      </item>
+        <item>Calcium=14 mg       </item>
+        <item>Vitamin D=15 IU    </item>
+        <item>Vitamin C =0 mg     </item>
+        <item>iron=1.1 mg       </item>
+        <item>Vitamin B6=0.6 mg     </item>
+        <item> Magnesium =30 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="ostrichmeat">
+
+        <item>Calories =144  </item>
+        <item>Common fat=1 g    </item>
+        <item>Polyunsaturated fat =0.4 g     </item>
+        <item>Monounsaturated fat=1 g </item>
+        <item>cholesterol=85 mg    </item>
+        <item>sodium=80 mg    </item>
+        <item> potassium =362 mg    </item>
+        <item>Sugars =0 g     </item>
+        <item>Dietary fibers=0 g      </item>
+        <item>protein=28 g       </item>
+        <item>Vitamin A=0 IU      </item>
+        <item>Calcium=6 mg       </item>
+        <item>Vitamin C =0 mg     </item>
+        <item>iron=2.8 mg       </item>
+        <item>Vitamin B6=0.5 mg     </item>
+        <item> Magnesium =25 mg    </item>
+    </string-array>
+
+
+    <string-array name="quailmeat">
+
+        <item>Calories =227  </item>
+        <item>Common fat=4 g    </item>
+        <item>Polyunsaturated fat =3.5 g     </item>
+        <item>Monounsaturated fat=4.9 g </item>
+        <item>cholesterol=86 mg    </item>
+        <item>sodium=52 mg    </item>
+        <item> potassium =216 mg    </item>
+        <item>Sugars =0 g     </item>
+        <item>Dietary fibers=0 g      </item>
+        <item>protein=25 g       </item>
+        <item>Vitamin A=234 IU      </item>
+        <item>Calcium=15 mg       </item>
+        <item>Vitamin D=8 IU    </item>
+        <item>Vitamin C =2.3 mg     </item>
+        <item>iron=4.4 mg       </item>
+        <item>Vitamin B6=0.6 mg     </item>
+        <item> Magnesium =22 mg    </item>
+    </string-array>
+
+
+
+
+    <string-array name="Hamberger">
+
+        <item>Calories =294  </item>
+        <item>Common fat=5 g    </item>
+        <item>Polyunsaturated fat =0.4 g     </item>
+        <item>Monounsaturated fat=5 g </item>
+        <item>cholesterol=47 mg    </item>
+        <item>sodium=414 mg    </item>
+        <item> potassium =226 mg    </item>
+        <item>Sugars =24 g     </item>
+        <item>Dietary fibers=0.9 g      </item>
+        <item>protein=17 g       </item>
+        <item>Vitamin A=0 IU      </item>
+        <item>Calcium=101 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =0 mg     </item>
+        <item>iron=2.9 mg       </item>
+        <item> Magnesium =20 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="Chickenthighs">
+
+        <item>Calories =177  </item>
+        <item>Common fat=2.3 g    </item>
+        <item>Polyunsaturated fat =1.6 g     </item>
+        <item>Monounsaturated fat=3.4 g </item>
+        <item>cholesterol=135 mg    </item>
+        <item>sodium=87 mg    </item>
+        <item> potassium =277 mg    </item>
+        <item>Sugars =0 g     </item>
+        <item>Dietary fibers=0 g      </item>
+        <item>protein=24 g       </item>
+        <item>Vitamin A=27 IU      </item>
+        <item>Calcium=10 mg       </item>
+        <item>Vitamin D=7 IU    </item>
+        <item>Vitamin C =0 mg     </item>
+        <item>iron=1.1 mg       </item>
+        <item> Magnesium =24 mg    </item>
+    </string-array>
+
+
+
+
+    <string-array name="Chickenbreast">
+
+        <item>Calories =164  </item>
+        <item>Common fat=1 g    </item>
+        <item>Polyunsaturated fat =0.8 g     </item>
+        <item>Monounsaturated fat=1.2 g </item>
+        <item>cholesterol=85 mg    </item>
+        <item>sodium=74 mg    </item>
+        <item> potassium =256 mg    </item>
+        <item>Sugars =0 g     </item>
+        <item>Dietary fibers=0 g      </item>
+        <item>protein=31 g       </item>
+        <item>Vitamin A=21 IU      </item>
+        <item>Calcium=15 mg       </item>
+        <item>Vitamin D=5 IU    </item>
+        <item>Vitamin C =0 mg     </item>
+        <item>iron=1 mg       </item>
+        <item> Magnesium =29 mg    </item>
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string-array name="tea">
+
+        <item>Calories =1  </item>
+        <item>Common fat=0 g    </item>
+        <item>Polyunsaturated fat =0 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=4 mg    </item>
+        <item> potassium =18 mg    </item>
+        <item>Sugars =0.2 g     </item>
+        <item>Dietary fibers=0 g      </item>
+        <item>sugar=0 g        </item>
+        <item>protein=0.1 g       </item>
+        <item>caffeine=11  </item>
+        <item>Vitamin A=0 IU      </item>
+        <item>Calcium=3 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =0 mg     </item>
+        <item>iron=0 mg       </item>
+        <item>Vitamin B6=0 mg     </item>
+        <item> Magnesium =2 mg    </item>
+    </string-array>
+
+    <string-array name="coffee">
+
+        <item>Calories =0  </item>
+        <item>Common fat=0 g    </item>
+        <item>Polyunsaturated fat =0 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=2 mg    </item>
+        <item> potassium =49 mg    </item>
+        <item>Sugars =0 g     </item>
+        <item>Dietary fibers=0 g      </item>
+        <item>sugar=0 g        </item>
+        <item>protein=0.1 g       </item>
+        <item>caffeine=40  </item>
+        <item>Vitamin A=0 IU      </item>
+        <item>Calcium=2 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =0 mg     </item>
+        <item>iron=0 mg       </item>
+        <item>Vitamin B6=0 mg     </item>
+        <item> Magnesium =3 mg    </item>
+    </string-array>
+
+
+    <string-array name="water">
+
+        <item>Calories =0  </item>
+        <item>sodium=5 mg    </item>
+        <item>Sugars =0 g     </item>
+        <item>Dietary fibers=0 g      </item>
+        <item>protein=0 g       </item>
+        <item>Calcium=3 mg       </item>
+        <item>iron=0 mg       </item>
+        <item> Magnesium =1 mg    </item>
+    </string-array>
+
+
+
+
+    <string-array name="orangejuice">
+
+        <item>Calories =44  </item>
+        <item>Common fat=0 g    </item>
+        <item>Polyunsaturated fat =0 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=1 mg    </item>
+        <item> potassium =200 mg    </item>
+        <item>Sugars =10 g     </item>
+        <item>Dietary fibers=0.2 g      </item>
+        <item>sugar=8 g        </item>
+        <item>protein=0.7 g       </item>
+        <item>Vitamin A=200 IU      </item>
+        <item>Calcium=11 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =50 mg     </item>
+        <item>iron=0.2 mg       </item>
+        <item>Vitamin B6=0 mg     </item>
+        <item> Magnesium =11 mg    </item>
+    </string-array>
+
+
+    <string-array name="Applejuice">
+
+        <item>Calories =45  </item>
+        <item>Common fat=0 g    </item>
+        <item>Polyunsaturated fat =0 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=4 mg    </item>
+        <item> potassium =101 mg    </item>
+        <item>Sugars =11 g     </item>
+        <item>Dietary fibers=0.2 g      </item>
+        <item>sugar=10 g        </item>
+        <item>protein=0.1 g       </item>
+        <item>Vitamin A=1 IU      </item>
+        <item>Calcium=8 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =0.9 mg     </item>
+        <item>iron=0.1 mg       </item>
+        <item>Vitamin B6=0 mg     </item>
+        <item> Magnesium =5 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="lemonejuice">
+
+        <item>Calories =21  </item>
+        <item>Common fat=0 g    </item>
+        <item>Polyunsaturated fat =0 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=1 mg    </item>
+        <item> potassium =103 mg    </item>
+        <item>Sugars =7 g     </item>
+        <item>Dietary fibers=0.3 g      </item>
+        <item>sugar=2.5 g        </item>
+        <item>protein=0.4 g       </item>
+        <item>Vitamin A=6 IU      </item>
+        <item>Calcium=6 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =38.7 mg     </item>
+        <item>iron=0.1 mg       </item>
+        <item>Vitamin B6=0 mg     </item>
+        <item> Magnesium =6 mg    </item>
+    </string-array>
+
+
+
+
+    <string-array name="Grapejuice">
+
+        <item>Calories =60  </item>
+        <item>Common fat=0 g    </item>
+        <item>Polyunsaturated fat =0 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=5 mg    </item>
+        <item> potassium =104 mg    </item>
+        <item>Sugars =15 g     </item>
+        <item>Dietary fibers=0.2 g      </item>
+        <item>sugar=14 g        </item>
+        <item>protein=0.4 g       </item>
+        <item>Vitamin A=8 IU      </item>
+        <item>Calcium=11 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =0.1 mg     </item>
+        <item>iron=0.3 mg       </item>
+        <item>Vitamin B6=0 mg     </item>
+        <item> Magnesium =10 mg    </item>
+    </string-array>
+
+
+    <string-array name="Pineapplejuice">
+
+        <item>Calories =60  </item>
+        <item>Common fat=0 g    </item>
+        <item>Polyunsaturated fat =0 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=1 mg    </item>
+        <item> potassium =124 mg    </item>
+        <item>Sugars =16 g     </item>
+        <item>Dietary fibers=1.3 g      </item>
+        <item>sugar=14 g        </item>
+        <item>protein=0.5 g       </item>
+        <item>Vitamin A=50 IU      </item>
+        <item>Calcium=16 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =9.4 mg     </item>
+        <item>iron=0.3 mg       </item>
+        <item>Vitamin B6=0.1 mg     </item>
+        <item> Magnesium =15 mg    </item>
+    </string-array>
+
+
+
+
+
+    <string-array name="Alchool">
+
+        <item>Calories =326  </item>
+        <item>Common fat=0.1 g    </item>
+        <item>Polyunsaturated fat =0.1 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=8 mg    </item>
+        <item> potassium =30 mg    </item>
+        <item>Sugars =47 g     </item>
+        <item>Dietary fibers=0 g      </item>
+        <item>sugar=46 g        </item>
+        <item>protein=0.1 g       </item>
+        <item>caffeine=26  </item>
+        <item>Vitamin A=0 IU      </item>
+        <item>Calcium=1 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =0 mg     </item>
+        <item>iron=0.1 mg       </item>
+        <item>Vitamin B6=0 mg     </item>
+        <item> Magnesium =3 mg    </item>
+    </string-array>
+
+
+    <string-array name="Icecream">
+
+        <item>Calories =207  </item>
+        <item>Common fat=7 g    </item>
+        <item>Polyunsaturated fat =0.5 g     </item>
+        <item>Monounsaturated fat=3 g </item>
+        <item>cholesterol=44 mg    </item>
+        <item>sodium=80 mg    </item>
+        <item> potassium =199 mg    </item>
+        <item>Sugars =24 g     </item>
+        <item>Dietary fibers=0.7 g      </item>
+        <item>sugar=21 g        </item>
+        <item>protein=3.5 g       </item>
+        <item>Vitamin A=421 IU      </item>
+        <item>Calcium=128 mg       </item>
+        <item>Vitamin D=8 IU    </item>
+        <item>Vitamin C =0.6 mg     </item>
+        <item>iron=0.1 mg       </item>
+        <item>Vitamin B6=0 mg     </item>
+        <item> Magnesium =14 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="Tomatojuice">
+
+        <item>Calories =17  </item>
+        <item>Common fat=0 g    </item>
+        <item>Polyunsaturated fat =0 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=10 mg    </item>
+        <item> potassium =229 mg    </item>
+        <item>Sugars =4.2 g     </item>
+        <item>Dietary fibers=0.4 g      </item>
+        <item>sugar=3.6 g        </item>
+        <item>protein=0.8 g       </item>
+        <item>Vitamin A=450 IU      </item>
+        <item>Calcium=10 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =18.3 mg     </item>
+        <item>iron=0.4 mg       </item>
+        <item>Vitamin B6=0.1 mg     </item>
+        <item> Magnesium =11 mg    </item>
+    </string-array>
+
+
+    <string-array name="Carrotjuice">
+
+        <item>Calories =39  </item>
+        <item>Common fat=0 g    </item>
+        <item>Polyunsaturated fat =0.1 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=66 mg    </item>
+        <item> potassium =292 mg    </item>
+        <item>Sugars =9 g     </item>
+        <item>Dietary fibers=0.8 g      </item>
+        <item>sugar=3.9 g        </item>
+        <item>protein=1 g       </item>
+        <item>Vitamin A=24 IU      </item>
+        <item>Calcium=24 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =8.5 mg     </item>
+        <item>iron=0.5 mg       </item>
+        <item>Vitamin B6=0.2 mg     </item>
+        <item> Magnesium =14 mg    </item>
+    </string-array>
+
+
+    <string-array name="Pomegranatejuic">
+
+        <item>Calories =54  </item>
+        <item>Common fat=0.1 g    </item>
+        <item>Polyunsaturated fat =0.1 g     </item>
+        <item>Monounsaturated fat=0.1 g </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=9 mg    </item>
+        <item> potassium =214 mg    </item>
+        <item>Sugars =13 g     </item>
+        <item>Dietary fibers=0.1 g      </item>
+        <item>sugar=13 g        </item>
+        <item>protein=0.2 g       </item>
+        <item>Vitamin A=0 IU      </item>
+        <item>Calcium=11 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =0.1 mg     </item>
+        <item>iron=0.1 mg       </item>
+        <item>Vitamin B6=0 mg     </item>
+        <item> Magnesium =7 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="Hotchclate">
+
+        <item>Calories =77  </item>
+        <item>Common fat=1.4 g    </item>
+        <item>Polyunsaturated fat =0.1 g     </item>
+        <item>Monounsaturated fat=0.7 g </item>
+        <item>cholesterol=8 mg    </item>
+        <item>sodium=44 mg    </item>
+        <item> potassium =197 mg    </item>
+        <item>Sugars =11 g     </item>
+        <item>Dietary fibers=1 g      </item>
+        <item>sugar=10 g        </item>
+        <item>protein=3.5 g       </item>
+        <item>caffeine=2  </item>
+        <item>Vitamin A=176 IU      </item>
+        <item>Calcium=114 mg       </item>
+        <item>Vitamin D=45 IU    </item>
+        <item>Vitamin C =0.2 mg     </item>
+        <item>iron=0.4 mg       </item>
+        <item>Vitamin B6=0 mg     </item>
+        <item> Magnesium =23 mg    </item>
+    </string-array>
+
+
+
+
+    <string-array name="Cola">
+
+        <item>Calories =37  </item>
+        <item>Common fat=0 g    </item>
+        <item>Polyunsaturated fat =0 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=4mg    </item>
+        <item> potassium =2 mg    </item>
+        <item>Sugars =10 g     </item>
+        <item>Dietary fibers=0 g      </item>
+        <item>sugar=9 g        </item>
+        <item>protein=0.1 g       </item>
+        <item>caffeine=8  </item>
+        <item>Vitamin A=0 IU      </item>
+        <item>Calcium=2 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =0 mg     </item>
+        <item>iron=0.1 mg       </item>
+        <item>Vitamin B6=0 mg     </item>
+        <item> Magnesium =0 mg    </item>
+    </string-array>
+
+
+
+
+    <string-array name="Redbull">
+
+        <item>Calories =45  </item>
+        <item>Common fat=0 g    </item>
+        <item>Polyunsaturated fat =0 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=38 mg    </item>
+        <item> potassium =3 mg    </item>
+        <item>Sugars =11 g     </item>
+        <item>Dietary fibers=0 g      </item>
+        <item>sugar=10 g        </item>
+        <item>protein=0.3 g       </item>
+        <item>caffeine=30  </item>
+        <item>Vitamin A=0 IU      </item>
+        <item>Calcium=13 mg       </item>
+        <item>Vitamin D=0 IU    </item>
+        <item>Vitamin C =0 mg     </item>
+        <item>iron=0 mg       </item>
+        <item>Vitamin B6=2 mg     </item>
+        <item> Magnesium =3 mg    </item>
+    </string-array>
+
+
+
+
+    <string-array name="Cappuccino">
+
+        <item>Calories =76  </item>
+        <item>fats=4 g    </item>
+        <item>cholesterol=17 mg    </item>
+        <item>sodium=61 mg    </item>
+        <item>protein=4 g       </item>
+        <item>caffeine=77  </item>
+        <item>Carbohydrates=6g   </item>
+
+    </string-array>
+
+
+
+
+    <string-array name="Molasses">
+
+        <item>Calories =290  </item>
+        <item>fats=0 g    </item>
+        <item>cholesterol=0 mg    </item>
+        <item>Saturated fat=0 mg    </item>
+        <item>protein=0 g       </item>
+        <item>The fibers=0  </item>
+        <item>Carbohydrates=74.75g   </item>
+
+    </string-array>
+
+
+
+    <string-array name="Mangojuice">
+
+        <item>Calories =128  </item>
+        <item>potassium=61 g    </item>
+        <item>Calcium=43 mg    </item>
+        <item>sodium=13 mg    </item>
+        <item>Magnesium=8 g       </item>
+        <item>iron=0.9  </item>
+        <item>Phosphorus=5g   </item>
+
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string-array name="wheat">
+
+        <item>Calories =337  </item>
+        <item>Common fat=0.4 g    </item>
+        <item>Polyunsaturated fat =1.3 g     </item>
+        <item>Monounsaturated fat=0.4 g </item>
+        <item>Carbohydrates=71.1g   </item>
+        <item>water=91.94     </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=8 mg    </item>
+        <item> potassium =388 mg    </item>
+        <item>Sugars =70 g     </item>
+        <item>Dietary fibers=11 g      </item>
+        <item>sugar=7 g        </item>
+        <item>protein=15 g       </item>
+        <item>Vitamin A=10 IU      </item>
+        <item>Calcium=27 mg       </item>
+        <item>Vitamin C =0 mg     </item>
+        <item>iron=4.4 mg       </item>
+        <item>Vitamin B6=0.2 mg     </item>
+        <item> Magnesium =136 mg    </item>
+    </string-array>
+
+
+    <string-array name="Barley">
+
+        <item>Calories =354  </item>
+        <item>Common fat=0.5 g    </item>
+        <item>Polyunsaturated fat =1.1 g     </item>
+        <item>Monounsaturated fat=0.3 g </item>
+        <item>Carbohydrates=77.72g   </item>
+        <item>water=10.9     </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=12 mg    </item>
+        <item> potassium =452 mg    </item>
+        <item>Sugars =73 g     </item>
+        <item>Dietary fibers=17 g      </item>
+        <item>sugar=0.8 g        </item>
+        <item>protein=12 g       </item>
+        <item>Vitamin A=22 IU      </item>
+        <item>Calcium=33 mg       </item>
+        <item>Vitamin C =0 mg     </item>
+        <item>iron=3.6 mg       </item>
+        <item>Vitamin B6=0.3 mg     </item>
+        <item> Magnesium =133 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="Millet">
+
+        <item>Calories =378  </item>
+        <item>fats=4.22 g    </item>
+        <item>Carbohydrates=72.85g   </item>
+        <item>water=8.67g     </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=15 mg    </item>
+        <item> potassium =195 mg    </item>
+        <item>Dietary fibers=8.5 g      </item>
+        <item>protein=11.2 g       </item>
+        <item>Vitamin A=0 IU      </item>
+        <item>Calcium=8 mg       </item>
+        <item>Vitamin C =0 mg     </item>
+        <item>iron=3 mg       </item>
+        <item>Vitamin B6=0.384 mg     </item>
+        <item> Magnesium =114mg    </item>
+    </string-array>
+
+
+
+
+    <string-array name="Sunflower">
+
+        <item>Calories =584  </item>
+        <item>fats=51 g    </item>
+        <item>Carbohydrates=20g   </item>
+        <item>water=4.73g     </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=9 mg    </item>
+        <item> potassium =645 mg    </item>
+        <item>Dietary fibers=9 g      </item>
+        <item>protein=21 g       </item>
+        <item>Vitamin A=50 IU      </item>
+        <item>Calcium=78 mg       </item>
+        <item>Vitamin C =1.4 mg     </item>
+        <item>iron=5.3 mg       </item>
+        <item>Vitamin B6=1.3 mg     </item>
+        <item> Magnesium =325mg    </item>
+    </string-array>
+
+
+    <string-array name="Corn">
+
+        <item>    Calories= 86</item>
+        <item>    Fat= 1.35</item>
+        <item>      Carbohydrates= 18.7</item>
+        <item> Fiber= 2</item>
+        <item> Sugar= 6.26</item>
+        <item>Proteins= 3.27</item>
+
+    </string-array>
+
+
+    <string-array name="Groats">
+
+        <item>Calories =342  </item>
+        <item>Common fat=0.2 g    </item>
+        <item>Polyunsaturated fat =0.5 g     </item>
+        <item>Monounsaturated fat=0.2 g </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=17 mg    </item>
+        <item> potassium =410 mg    </item>
+        <item>Sugars =76 g     </item>
+        <item>Dietary fibers=18 g      </item>
+        <item>sugar=0.4 g        </item>
+        <item>protein=12 g       </item>
+        <item>Vitamin A=9 IU      </item>
+        <item>Calcium=35 mg       </item>
+        <item>Vitamin C =0 mg     </item>
+        <item>iron=2.5 mg       </item>
+        <item>Vitamin B6=0.3 mg     </item>
+        <item> Magnesium =164 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="Rise">
+
+        <item>Calories =130  </item>
+        <item>Common fat=0.1 g    </item>
+        <item>Polyunsaturated fat =1.1 g     </item>
+        <item>Monounsaturated fat=0.1 g </item>
+        <item>Carbohydrates=80g   </item>
+        <item>water=11.62     </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=1 mg    </item>
+        <item> potassium =35 mg    </item>
+        <item>Sugars =28 g     </item>
+        <item>Dietary fibers=0.4 g      </item>
+        <item>sugar=0.1 g        </item>
+        <item>protein=2.7 g       </item>
+        <item>Vitamin A=0 IU      </item>
+        <item>Calcium=10 mg       </item>
+        <item>Vitamin C =0 mg     </item>
+        <item>iron=0.2 mg       </item>
+        <item>Vitamin B6=0.1 mg     </item>
+        <item> Magnesium =12 mg    </item>
+    </string-array>
+
+    <string-array name="Spaghetti">
+
+        <item>Calories =131  </item>
+        <item>Common fat=0.2 g    </item>
+        <item>Polyunsaturated fat =0.4 g     </item>
+        <item>Monounsaturated fat=0.1 g </item>
+        <item>cholesterol=33 mg    </item>
+        <item>sodium=6 mg    </item>
+        <item> potassium =24 mg    </item>
+        <item>Sugars =25 g     </item>
+        <item>protein=5 g       </item>
+        <item>Vitamin A=20 IU      </item>
+        <item>Calcium=6 mg       </item>
+        <item>Vitamin C =0 mg     </item>
+        <item>iron=1.1 mg       </item>
+        <item>Vitamin B6=0 mg     </item>
+        <item> Magnesium =18 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="Sesame">
+
+        <item>Calories =572  </item>
+        <item>Common fat=7 g    </item>
+        <item>Polyunsaturated fat =22 g     </item>
+        <item>Monounsaturated fat=19 g </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=11 mg    </item>
+        <item> potassium =468 mg    </item>
+        <item>Sugars =23 g     </item>
+        <item>Dietary fibers=12 g      </item>
+        <item>sugar=0.3 g        </item>
+        <item>protein=18 g       </item>
+        <item>Vitamin A=9 IU      </item>
+        <item>Calcium=975 mg       </item>
+        <item>Vitamin C =0 mg     </item>
+        <item>iron=14.6 mg       </item>
+        <item>Vitamin B6=0.8 mg     </item>
+        <item> Magnesium =351 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="Blackpepper">
+
+        <item>Calories =251  </item>
+        <item>Common fat=1.4 g    </item>
+        <item>Polyunsaturated fat =1 g     </item>
+        <item>Monounsaturated fat=0.7 g </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=20 mg    </item>
+        <item> potassium =1329 mg    </item>
+        <item>Sugars =64 g     </item>
+        <item>Dietary fibers=25 g      </item>
+        <item>sugar=0.6 g        </item>
+        <item>protein=10 g       </item>
+        <item>Vitamin A=547 IU      </item>
+        <item>Calcium=443 mg       </item>
+        <item>Vitamin C =0 mg     </item>
+        <item>iron=9.7 mg       </item>
+        <item>Vitamin B6=0.3 mg     </item>
+        <item> Magnesium =171 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="Cardamom">
+
+        <item>Calories =311  </item>
+        <item>Common fat=0.7 g    </item>
+        <item>Polyunsaturated fat =0.4 g     </item>
+        <item>Monounsaturated fat=0.9 g </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=18 mg    </item>
+        <item> potassium =1119 mg    </item>
+        <item>Sugars =68 g     </item>
+        <item>Dietary fibers=28 g      </item>
+        <item>protein=11 g       </item>
+        <item>Vitamin A=0 IU      </item>
+        <item>Calcium=383 mg       </item>
+        <item>Vitamin C =21 mg     </item>
+        <item>iron=14 mg       </item>
+        <item>Vitamin B6=0.2 mg     </item>
+        <item> Magnesium =229 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="Raisin">
+
+        <item>Calories =299  </item>
+        <item>Common fat=0.1 g    </item>
+        <item>Polyunsaturated fat =0 g     </item>
+        <item>Monounsaturated fat=0.1 g </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=11 mg    </item>
+        <item> potassium =749 mg    </item>
+        <item>Sugars =79 g     </item>
+        <item>Dietary fibers=3.7 g      </item>
+        <item>sugar=59 g        </item>
+        <item>protein=3.1 g       </item>
+        <item>Vitamin A=0 IU      </item>
+        <item>Calcium=50 mg       </item>
+        <item>Vitamin C =2.3 mg     </item>
+        <item>iron=1.9 mg       </item>
+        <item>Vitamin B6=0.2 mg     </item>
+        <item> Magnesium =32 mg    </item>
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string-array name="Lentil">
+
+        <item>Calories =116  </item>
+        <item>Common fat=0.1 g    </item>
+        <item>Polyunsaturated fat =0.2 g     </item>
+        <item>Monounsaturated fat=0.1 g </item>
+        <item>Carbohydrates=63.10g   </item>
+        <item>water=7.82     </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=2 mg    </item>
+        <item> potassium =369 mg    </item>
+        <item>Sugars =20 g     </item>
+        <item>Dietary fibers=8 g      </item>
+        <item>sugar=1.8 g        </item>
+        <item>protein=9 g       </item>
+        <item>Vitamin A=8 IU      </item>
+        <item>Calcium=19 mg       </item>
+        <item>Vitamin C =1.5 mg     </item>
+        <item>iron=3.3 mg       </item>
+        <item>Vitamin B6=0.2 mg     </item>
+        <item> Magnesium =36 mg    </item>
+    </string-array>
+
+
+
+
+    <string-array name="Chickpeas">
+
+        <item>Calories =364  </item>
+        <item>Common fat=0.6 g    </item>
+        <item>Polyunsaturated fat =2.7 g     </item>
+        <item>Monounsaturated fat=1.4 g </item>
+        <item>Carbohydrates=62.95g   </item>
+        <item>water=7.68     </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=24 mg    </item>
+        <item> potassium =875 mg    </item>
+        <item>Sugars =24 g     </item>
+        <item>Dietary fibers=17 g      </item>
+        <item>sugar=11 g        </item>
+        <item>protein=19 g       </item>
+        <item>Vitamin A=67 IU      </item>
+        <item>Calcium=105 mg       </item>
+        <item>Vitamin C =4 mg     </item>
+        <item>iron=6.2 mg       </item>
+        <item>Vitamin B6=0.5 mg     </item>
+        <item> Magnesium =115 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="Mash">
+
+        <item>Calories =347  </item>
+        <item>Common fat=0.3 g    </item>
+        <item>Polyunsaturated fat =0.4 g     </item>
+        <item>Monounsaturated fat=0.2 g </item>
+        <item>Carbohydrates=62.95g   </item>
+        <item>water=7.68     </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=15 mg    </item>
+        <item> potassium =1246 mg    </item>
+        <item>Sugars =63 g     </item>
+        <item>Dietary fibers=16 g      </item>
+        <item>sugar=7 g        </item>
+        <item>protein=24 g       </item>
+        <item>Vitamin A=114 IU      </item>
+        <item>Calcium=132 mg       </item>
+        <item>Vitamin C =4.8 mg     </item>
+        <item>iron=6.7 mg       </item>
+        <item>Vitamin B6=0.4 mg     </item>
+        <item> Magnesium =189 mg    </item>
+    </string-array>
+
+
+
+
+    <string-array name="Blackbeans">
+
+        <item>    Calories= 350</item>
+        <item>    Fat= 0.90</item>
+        <item>      Carbohydrates= 63.25</item>
+        <item> Fiber=24.9</item>
+        <item> Sugar= 2.25</item>
+        <item>Proteins= 21.25</item>
+        <item>water=11     </item>
+
+    </string-array>
+
+
+
+
+    <string-array name="Whitebeans">
+
+        <item>Calories =347  </item>
+        <item>Common fat=0.2 g    </item>
+        <item>Polyunsaturated fat =0.4 g     </item>
+        <item>Monounsaturated fat=0.2 g </item>
+        <item>Carbohydrates=60.27g   </item>
+        <item>water=11.32     </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=12 mg    </item>
+        <item> potassium =1393 mg    </item>
+        <item>Sugars =63 g     </item>
+        <item>Dietary fibers=16 g      </item>
+        <item>sugar=2.1 g        </item>
+        <item>protein=21 g       </item>
+        <item>Vitamin A=0 IU      </item>
+        <item>Calcium=113 mg       </item>
+        <item>Vitamin C =6.3 mg     </item>
+        <item>iron=5.1 mg       </item>
+        <item>Vitamin B6=0.5 mg     </item>
+        <item> Magnesium =176 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="peanuts">
+
+        <item>Calories =576  </item>
+        <item>Common fat=7 g    </item>
+        <item>Polyunsaturated fat =16 g     </item>
+        <item>Monounsaturated fat=24 g </item>
+        <item>Carbohydrates=16.13g   </item>
+        <item>water=6.50     </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=18 mg    </item>
+        <item> potassium =705 mg    </item>
+        <item>Sugars =16 g     </item>
+        <item>Dietary fibers=9 g      </item>
+        <item>sugar=4 g        </item>
+        <item>protein=26 g       </item>
+        <item>Vitamin A=0 IU      </item>
+        <item>Calcium=92 mg       </item>
+        <item>Vitamin C =0 mg     </item>
+        <item>iron=4.6 mg       </item>
+        <item>Vitamin B6=0.3 mg     </item>
+        <item> Magnesium =168 mg    </item>
+    </string-array>
+
+
+    <string-array name="Soybeans">
+
+        <item>Calories =446  </item>
+        <item>Common fat=2.9 g    </item>
+        <item>Polyunsaturated fat =11 g     </item>
+        <item>Monounsaturated fat=4.4 g </item>
+        <item>Carbohydrates=30.16g   </item>
+        <item>water=8.54     </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=2 mg    </item>
+        <item> potassium =1797 mg    </item>
+        <item>Sugars =30 g     </item>
+        <item>Dietary fibers=9 g      </item>
+        <item>sugar=7 g        </item>
+        <item>protein=36 g       </item>
+        <item>Vitamin A=22 IU      </item>
+        <item>Calcium=277 mg       </item>
+        <item>Vitamin C =6 mg     </item>
+        <item>iron=15.7 mg       </item>
+        <item>Vitamin B6=0.4 mg     </item>
+        <item> Magnesium =280 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="Cumin">
+
+        <item>Calories =374  </item>
+        <item>Common fat=1.5 g    </item>
+        <item>Polyunsaturated fat =3.3 g     </item>
+        <item>Monounsaturated fat=14 g </item>
+        <item>Carbohydrates=44.24g   </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=168 mg    </item>
+        <item> potassium =1788 mg    </item>
+        <item>Sugars =44 g     </item>
+        <item>Dietary fibers=11 g      </item>
+        <item>sugar=2.3 g        </item>
+        <item>protein=18 g       </item>
+        <item>Vitamin A=70 IU      </item>
+        <item>Calcium=931 mg       </item>
+        <item>Vitamin C =7.7 mg     </item>
+        <item>iron=66.4 mg       </item>
+        <item>Vitamin B6=0.4 mg     </item>
+        <item> Magnesium =366 mg    </item>
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string-array name="boiledeggs">
+
+        <item>Calories =155  </item>
+        <item>Common fat=3.3 g    </item>
+        <item>Polyunsaturated fat =1.4 g     </item>
+        <item>Monounsaturated fat=4.1 g </item>
+        <item>cholesterol=373 mg    </item>
+        <item>sodium=124 mg    </item>
+        <item> potassium =126 mg    </item>
+        <item>Sugars =1.1 g     </item>
+        <item>Dietary fibers=0 g      </item>
+        <item>sugar=1.1 g        </item>
+        <item>protein=13 g       </item>
+        <item>Vitamin A=520 IU      </item>
+        <item>Calcium=50 mg       </item>
+        <item>Vitamin C =0 mg     </item>
+        <item>iron=1.2 mg       </item>
+        <item>Vitamin B6=0.1 mg     </item>
+        <item> Magnesium =10 mg    </item>
+    </string-array>
+
+
+    <string-array name="friedeggs">
+
+        <item>Calories =195  </item>
+        <item>Common fat=4.29 g    </item>
+        <item>Polyunsaturated fat =0 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>cholesterol=457 mg    </item>
+        <item>sodium=204 mg    </item>
+        <item> potassium =147 mg    </item>
+        <item>Sugars =0.83 g     </item>
+        <item>Dietary fibers=0 g      </item>
+        <item>protein=13.62 g       </item>
+        <item>Vitamin A=729 IU      </item>
+        <item>Calcium=59 mg       </item>
+        <item>Vitamin C =0 mg     </item>
+        <item>iron=0.98 mg       </item>
+        <item>Vitamin B6=0.16 mg     </item>
+        <item> Magnesium =13 mg    </item>
+    </string-array>
+
+
+    <string-array name="Duckeggs">
+
+        <item>Calories =180  </item>
+        <item>fats=13.77 g    </item>
+        <item>cholesterol=884 mg    </item>
+        <item>sodium=146 mg    </item>
+        <item> potassium =222 mg    </item>
+        <item>Sugars =0.93 g     </item>
+        <item>Dietary fibers=0 g      </item>
+        <item>protein=12.81 g       </item>
+        <item>Vitamin A=674 IU      </item>
+        <item>Calcium=64 mg       </item>
+        <item>Vitamin C =0 mg     </item>
+        <item>iron=3.85 mg       </item>
+        <item>Vitamin B6=0.25 mg     </item>
+        <item> Magnesium =17 mg    </item>
+    </string-array>
+
+
+    <string-array name="honey">
+
+        <item>Calories =304  </item>
+        <item>Common fat=0 g    </item>
+        <item>Polyunsaturated fat =0 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>Carbohydrates=82.4g   </item>
+        <item>water= 17.10    </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=4 mg    </item>
+        <item> potassium =52 mg    </item>
+        <item>Sugars =82 g     </item>
+        <item>Dietary fibers=0.2 g      </item>
+        <item>sugar=82 g        </item>
+        <item>protein=0.3 g       </item>
+        <item>Vitamin A=0 IU      </item>
+        <item>Calcium=6 mg       </item>
+        <item>Vitamin C =0.5 mg     </item>
+        <item>iron=0.4 mg       </item>
+        <item>Vitamin B6=0 mg     </item>
+        <item> Magnesium =2 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="Buttermilk">
+
+        <item>Calories =40  </item>
+        <item>Common fat=0.5 g    </item>
+        <item>Polyunsaturated fat =0 g     </item>
+        <item>Monounsaturated fat=0.3 g </item>
+        <item>cholesterol=4 mg    </item>
+        <item>sodium=105 mg    </item>
+        <item> potassium =151 mg    </item>
+        <item>Sugars =4.8 g     </item>
+        <item>Dietary fibers=0 g      </item>
+        <item>sugar=4.8 g        </item>
+        <item>protein=3.3 g       </item>
+        <item>Vitamin A=47 IU      </item>
+        <item>Calcium=116 mg       </item>
+        <item>Vitamin C =1 mg     </item>
+        <item>iron=0.1 mg       </item>
+        <item>Vitamin B6=0 mg     </item>
+        <item> Magnesium =11 mg    </item>
+    </string-array>
+
+
+    <string-array name="milk">
+
+        <item>Calories =42  </item>
+        <item>Common fat=0.6 g    </item>
+        <item>Polyunsaturated fat =0 g     </item>
+        <item>Monounsaturated fat=0.3 g </item>
+        <item>Carbohydrates=4.78g   </item>
+        <item>water= 88.13    </item>
+        <item>cholesterol=5 mg    </item>
+        <item>sodium=44 mg    </item>
+        <item> potassium =150 mg    </item>
+        <item>Sugars =5 g     </item>
+        <item>Dietary fibers=0 g      </item>
+        <item>sugar=5 g        </item>
+        <item>protein=3.4 g       </item>
+        <item>Vitamin A=47 IU      </item>
+        <item>Calcium=125 mg       </item>
+        <item>Vitamin C =0 mg     </item>
+        <item>iron=0 mg       </item>
+        <item>Vitamin B6=0 mg     </item>
+        <item> Magnesium =11 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="Mothermilk">
+
+        <item>Calories =69  </item>
+        <item>Common fat=2 g    </item>
+        <item>Polyunsaturated fat =0.5 g     </item>
+        <item>Monounsaturated fat=1.7 g </item>
+        <item>Carbohydrates=6.89g   </item>
+        <item>water= 87.50g    </item>
+        <item>cholesterol=14 mg    </item>
+        <item>sodium=17 mg    </item>
+        <item> potassium =51 mg    </item>
+        <item>Sugars =7 g     </item>
+        <item>Dietary fibers=0 g      </item>
+        <item>sugar=57 g        </item>
+        <item>protein=1 g       </item>
+        <item>Vitamin A=212 IU      </item>
+        <item>Calcium=32 mg       </item>
+        <item>Vitamin C =5 mg     </item>
+        <item>iron=0 mg       </item>
+        <item>Vitamin B6=0 mg     </item>
+        <item> Magnesium =3 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="Cheese">
+
+        <item>Calories =402  </item>
+        <item>Common fat=21 g    </item>
+        <item>Polyunsaturated fat =0.9 g     </item>
+        <item>Monounsaturated fat=9 g </item>
+        <item>cholesterol=105 mg    </item>
+        <item>sodium=621 mg    </item>
+        <item> potassium =98 mg    </item>
+        <item>Sugars =1.3 g     </item>
+        <item>Dietary fibers=0 g      </item>
+        <item>sugar=0.5 g        </item>
+        <item>protein=25 g       </item>
+        <item>Vitamin A=2 IU      </item>
+        <item>Calcium=721 mg       </item>
+        <item>Vitamin C =5 mg     </item>
+        <item>iron=0.7 mg       </item>
+        <item>Vitamin B6=0.1 mg     </item>
+        <item> Magnesium =28 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="Shapemilk">
+
+        <item>Calories =107  </item>
+        <item>Common fat=4.6 g    </item>
+        <item>Polyunsaturated fat =0.3 g     </item>
+        <item>Monounsaturated fat=1.7 g </item>
+        <item>Carbohydrates=5.1g   </item>
+        <item>water= 83    </item>
+        <item>cholesterol=27 mg    </item>
+        <item>sodium=44 mg    </item>
+        <item> potassium =137 mg    </item>
+        <item>Sugars =5 g     </item>
+        <item>Dietary fibers=0 g      </item>
+        <item>protein=6 g       </item>
+        <item>Vitamin A=147 IU      </item>
+        <item>Calcium=193 mg       </item>
+        <item>Vitamin C =4.2 mg     </item>
+        <item>iron=0.1 mg       </item>
+        <item> Magnesium =18 mg    </item>
+    </string-array>
+
+
+
+
+    <string-array name="Butter">
+
+        <item>Calories =716  </item>
+        <item>Common fat=51 g    </item>
+        <item>Polyunsaturated fat =3 g     </item>
+        <item>Monounsaturated fat=21 g </item>
+        <item>Carbohydrates=0g   </item>
+        <item>cholesterol=215 mg    </item>
+        <item>sodium=11 mg    </item>
+        <item> potassium =24 mg    </item>
+        <item>Sugars =0.1 g     </item>
+        <item>Dietary fibers=0 g      </item>
+        <item>protein=0.9 g       </item>
+        <item>Vitamin A=99 IU      </item>
+        <item>Calcium=24 mg       </item>
+        <item>Vitamin C =0 mg     </item>
+        <item>iron=0 mg       </item>
+        <item> Magnesium =2 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="peanutbutter">
+
+        <item>Calories =588  </item>
+        <item>Common fat=10 g    </item>
+        <item>Polyunsaturated fat =14 g     </item>
+        <item>Monounsaturated fat=24 g </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=17 mg    </item>
+        <item> potassium =649 mg    </item>
+        <item>Sugars =20 g     </item>
+        <item>Dietary fibers=6 g      </item>
+        <item>sugar=9 g        </item>
+        <item>protein=25 g       </item>
+        <item>Vitamin A=0 IU      </item>
+        <item>Calcium=43 mg       </item>
+        <item>Vitamin C =0 mg     </item>
+        <item>iron=1.9 mg       </item>
+        <item>Vitamin B6=0.5 mg     </item>
+        <item> Magnesium =154 mg    </item>
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<string-array name="Oil">
+
+<item>Calories =884  </item>
+<item>Common fat=13 g    </item>
+<item>Polyunsaturated fat =36 g     </item>
+<item>Monounsaturated fat=46 g </item>
+<item>Carbohydrates=0g   </item>
+<item>cholesterol=0 mg    </item>
+<item>sodium=0 mg    </item>
+<item> potassium =0 mg    </item>
+<item>Sugars =0 g     </item>
+<item>Dietary fibers=0 g      </item>
+<item>protein=0 g       </item>
+<item>Vitamin A=0 IU      </item>
+<item>Calcium=0 mg       </item>
+<item>Vitamin C =0 mg     </item>
+<item>iron=0 mg       </item>
+<item> Magnesium =0 mg    </item>
+</string-array>
+
+
+
+    <string-array name="FishOil">
+
+        <item>Calories =902  </item>
+        <item>Common fat=21 g    </item>
+        <item>Polyunsaturated fat =16 g     </item>
+        <item>Monounsaturated fat=57 g </item>
+        <item>cholesterol=766 mg    </item>
+        <item>sodium=0 mg    </item>
+        <item> potassium =0 mg    </item>
+        <item>Sugars =0 g     </item>
+        <item>Dietary fibers=0 g      </item>
+        <item>protein=0 g       </item>
+        <item>Vitamin A=0 IU      </item>
+        <item>Calcium=0 mg       </item>
+        <item>Vitamin C =0 mg     </item>
+        <item>iron=0 mg       </item>
+        <item> Magnesium =0 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="Salt">
+
+        <item>Calories =0  </item>
+        <item>Common fat=0 g    </item>
+        <item>Polyunsaturated fat =0 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=38758 mg    </item>
+        <item> potassium =8 mg    </item>
+        <item>Sugars =0 g     </item>
+        <item>Dietary fibers=0 g      </item>
+        <item>protein=0 g       </item>
+        <item>Vitamin A=0 IU      </item>
+        <item>Calcium=24 mg       </item>
+        <item>Vitamin C =0 mg     </item>
+        <item>iron=0 mg       </item>
+        <item> Magnesium =1 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="Sugar">
+
+        <item>Calories =386  </item>
+        <item>Common fat=0 g    </item>
+        <item>Polyunsaturated fat =0 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=1 mg    </item>
+        <item> potassium =2 mg    </item>
+        <item>Sugars =100 g     </item>
+        <item>Dietary fibers=0 g      </item>
+        <item>sugar=100</item>
+        <item>protein=0 g       </item>
+        <item>Vitamin A=0 IU      </item>
+        <item>Calcium=1 mg       </item>
+        <item>Vitamin C =0 mg     </item>
+        <item>iron=0.1 mg       </item>
+        <item> Magnesium =1 mg    </item>
+    </string-array>
+
+
+
+
+    <string-array name="cinnamon">
+
+        <item>Calories =247  </item>
+        <item>Common fat=0.3 g    </item>
+        <item>Polyunsaturated fat =0.1 g     </item>
+        <item>Monounsaturated fat=0.2 g </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=10 mg    </item>
+        <item> potassium =431 mg    </item>
+        <item>Sugars =81 g     </item>
+        <item>Dietary fibers=53 g      </item>
+        <item>sugar=2.2</item>
+        <item>protein=4 g       </item>
+        <item>Vitamin A=295 IU      </item>
+        <item>Calcium=2 mg       </item>
+        <item>Vitamin C =3.8 mg     </item>
+        <item>iron=8.3 mg       </item>
+        <item> Magnesium =60 mg    </item>
+    </string-array>
+
+
+    <string-array name="spices">
+
+        <item>Calories =251  </item>
+        <item>Common fat=1.4 g    </item>
+        <item>Polyunsaturated fat =1 g     </item>
+        <item>Monounsaturated fat=0.7 g </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=20 mg    </item>
+        <item> potassium =1329 mg    </item>
+        <item>Sugars =64 g     </item>
+        <item>Dietary fibers=25 g      </item>
+        <item>sugar=0.6</item>
+        <item>protein=10 g       </item>
+        <item>Vitamin A=547 IU      </item>
+        <item>Calcium=443 mg       </item>
+        <item>Vitamin C =0 mg     </item>
+        <item>iron=9.7 mg       </item>
+        <item> Magnesium =171 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="Sesameoil">
+
+        <item>Calories =884  </item>
+        <item>Common fat=14 g    </item>
+        <item>Polyunsaturated fat =42 g     </item>
+        <item>Monounsaturated fat=40 g </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=0 mg    </item>
+        <item> potassium =0 mg    </item>
+        <item>Sugars =0 g     </item>
+        <item>Dietary fibers=0 g      </item>
+        <item>sugar=0</item>
+        <item>protein=0 g       </item>
+        <item>Vitamin A=0 IU      </item>
+        <item>Calcium=0 mg       </item>
+        <item>Vitamin C =0 mg     </item>
+        <item>iron=0 mg       </item>
+        <item> Magnesium =0 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="oliveoil">
+
+        <item>Calories =884  </item>
+        <item>Common fat=14 g    </item>
+        <item>Polyunsaturated fat =1 g     </item>
+        <item>Monounsaturated fat=73 g </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=2 mg    </item>
+        <item> potassium =1 mg    </item>
+        <item>Sugars =0 g     </item>
+        <item>Dietary fibers=0 g      </item>
+        <item>sugar=0</item>
+        <item>protein=0 g       </item>
+        <item>Vitamin A=0 IU      </item>
+        <item>Calcium=1 mg       </item>
+        <item>Vitamin C =0 mg     </item>
+        <item>iron=0.6 mg       </item>
+        <item> Magnesium =0 mg    </item>
+    </string-array>
+
+
+    <string-array name="almonds">
+
+        <item>Calories =576  </item>
+        <item>Common fat=3.73 g    </item>
+        <item>fats =49.42 g     </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=1 mg    </item>
+        <item> potassium =705 mg    </item>
+        <item> Carbohydrates=21.7g  </item>
+        <item>Dietary fibers=0 g      </item>
+        <item>sugar=3.89</item>
+        <item>protein=21.22 g       </item>
+        <item>Vitamin A=1 IU      </item>
+        <item>Calcium=264 mg       </item>
+        <item>iron=3.72 mg       </item>
+        <item> Magnesium =268 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="Nut">
+
+        <item>Calories =654  </item>
+        <item>Common fat=6 g    </item>
+        <item>Polyunsaturated fat =47 g     </item>
+        <item>Monounsaturated fat=9 g </item>
+        <item>Carbohydrates=13.71g   </item>
+        <item>water= 4.7    </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=2 mg    </item>
+        <item> potassium =441 mg    </item>
+        <item>Sugars =14 g     </item>
+        <item>Dietary fibers=7 g      </item>
+        <item>sugar=2.6</item>
+        <item>protein=15 g       </item>
+        <item>Vitamin A=20 IU      </item>
+        <item>Calcium=98 mg       </item>
+        <item>Vitamin C =1.3 mg     </item>
+        <item>iron=2.9 mg       </item>
+        <item> Magnesium =158 mg    </item>
+    </string-array>
+
+
+    <string-array name="Pistachio">
+
+        <item>Calories =562  </item>
+        <item>Common fat=6 g    </item>
+        <item>Polyunsaturated fat =14 g     </item>
+        <item>Monounsaturated fat=24 g </item>
+        <item>Carbohydrates=27.17g   </item>
+        <item>water= 4.37    </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=1 mg    </item>
+        <item> potassium =1025 mg    </item>
+        <item>Sugars =28 g     </item>
+        <item>Dietary fibers=10 g      </item>
+        <item>sugar=8</item>
+        <item>protein=20 g       </item>
+        <item>Vitamin A=415 IU      </item>
+        <item>Calcium=105 mg       </item>
+        <item>Vitamin C =5.6 mg     </item>
+        <item>iron=3.9 mg       </item>
+        <item> Magnesium =121 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="Hazelnut">
+
+        <item>Calories =628  </item>
+        <item>Common fat=4.5 g    </item>
+        <item>Polyunsaturated fat =8 g     </item>
+        <item>Monounsaturated fat=46 g </item>
+        <item>Carbohydrates=16.7g   </item>
+        <item>water= 5.31    </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=0 mg    </item>
+        <item> potassium =680 mg    </item>
+        <item>Sugars =217 g     </item>
+        <item>Dietary fibers=10 g      </item>
+        <item>sugar=4.3</item>
+        <item>protein=15 g       </item>
+        <item>Vitamin A=20 IU      </item>
+        <item>Calcium=114 mg       </item>
+        <item>Vitamin C =6.3 mg     </item>
+        <item>iron=4.7 mg       </item>
+        <item> Magnesium =163 mg    </item>
+    </string-array>
+
+
+    <string-array name="Vinger">
+
+        <item>Calories =18  </item>
+        <item>Common fat=0 g    </item>
+        <item>Polyunsaturated fat =0 g     </item>
+        <item>Monounsaturated fat=0 g </item>
+        <item>Carbohydrates=0.81g   </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=2 mg    </item>
+        <item> potassium =2 mg    </item>
+        <item>Sugars =0 g     </item>
+        <item>Dietary fibers=0 g      </item>
+        <item>sugar=0</item>
+        <item>protein=0 g       </item>
+        <item>Vitamin A=0 IU      </item>
+        <item>Calcium=6 mg       </item>
+        <item>Vitamin C =0 mg     </item>
+        <item>iron=0 mg       </item>
+        <item> Magnesium =1 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="Pizza">
+
+        <item>Calories =266  </item>
+        <item>Common fat=4.5 g    </item>
+        <item>Polyunsaturated fat =1.7 g     </item>
+        <item>Monounsaturated fat=2.6 g </item>
+        <item>Carbohydrates=14g   </item>
+        <item>cholesterol=17 mg    </item>
+        <item>sodium=598 mg    </item>
+        <item> potassium =172 mg    </item>
+        <item>Sugars =33 g     </item>
+        <item>Dietary fibers=2.3 g      </item>
+        <item>sugar=3.6</item>
+        <item>protein=11 g       </item>
+        <item>Vitamin A=358 IU      </item>
+        <item>Calcium=188 mg       </item>
+        <item>Vitamin C =1.4 mg     </item>
+        <item>iron=2.5 mg       </item>
+        <item> Magnesium =24 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="Falafel">
+
+        <item>Calories =332  </item>
+        <item>Common fat=2.4 g    </item>
+        <item>Polyunsaturated fat =4.2 g     </item>
+        <item>Monounsaturated fat=10 g </item>
+        <item>Carbohydrates=28g   </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=294 mg    </item>
+        <item> potassium =585 mg    </item>
+        <item>Sugars =32 g     </item>
+        <item>protein=13 g       </item>
+        <item>Vitamin A=13 IU      </item>
+        <item>Calcium=54 mg       </item>
+        <item>Vitamin C =1.6 mg     </item>
+        <item>iron=3.4 mg       </item>
+        <item> Magnesium =82 mg    </item>
+    </string-array>
+
+
+
+
+    <string-array name="PotatoChips">
+
+        <item>Calories =536  </item>
+        <item>Common fat=11 g    </item>
+        <item>Polyunsaturated fat =12 g     </item>
+        <item>Monounsaturated fat=10 g </item>
+        <item>cholesterol=0 mg    </item>
+        <item>sodium=8 mg    </item>
+        <item> potassium =1275 mg    </item>
+        <item>Sugars =53 g     </item>
+        <item>Dietary fibers=4.8 g      </item>
+        <item>sugar=0.2</item>
+        <item>protein=7 g       </item>
+        <item>Vitamin A=0 IU      </item>
+        <item>Calcium=24 mg       </item>
+        <item>Vitamin C =31.1 mg     </item>
+        <item>iron=1.6 mg       </item>
+        <item> Magnesium =67 mg    </item>
+    </string-array>
+
+
+
+
+    <string-array name="chocolate">
+
+        <item>Calories =545  </item>
+        <item>Common fat=19 g    </item>
+        <item>Polyunsaturated fat =1.1 g     </item>
+        <item>Monounsaturated fat=10 g </item>
+        <item>cholesterol=8 mg    </item>
+        <item>sodium=24 mg    </item>
+        <item> potassium =559 mg    </item>
+        <item>Sugars =61 g     </item>
+        <item>Dietary fibers=7 g  </item>
+        <item>sugar=48</item>
+        <item>protein=4.9 g       </item>
+        <item>caffeine=  43m g  </item>
+        <item>Vitamin A=50 IU      </item>
+        <item>Calcium=56 mg       </item>
+        <item>Vitamin C =0 mg     </item>
+        <item>iron=8 mg       </item>
+        <item> Magnesium =146 mg    </item>
+    </string-array>
+
+
+
+    <string-array name="caviar">
+
+        <item>Calories =264  </item>
+        <item>Common fat=4.1 g    </item>
+        <item>Polyunsaturated fat =7 g     </item>
+        <item>Monounsaturated fat=4.6 g </item>
+        <item>Carbohydrates=4g   </item>
+        <item>cholesterol=588 mg    </item>
+        <item>sodium=1500 mg    </item>
+        <item> potassium =181 mg    </item>
+        <item>Sugars =4 g     </item>
+        <item>Dietary fibers=0 g      </item>
+        <item>sugar=0</item>
+        <item>protein=25 g       </item>
+        <item>Vitamin A=905 IU      </item>
+        <item>Calcium=275 mg       </item>
+        <item>Vitamin C =0 mg     </item>
+        <item>iron=11.9 mg       </item>
+        <item> Magnesium =300 mg    </item>
+    </string-array>
+
+
+
+
+
+
+</resources>

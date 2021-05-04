@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EFECEC"
+    android:orientation="vertical">
+
+    <com.google.android.gms.ads.AdView
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-1707823485728314/2078265249">
+    </com.google.android.gms.ads.AdView>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+
+                android:layout_width="0dp"
+                android:layout_height="165dp"
+                android:layout_margin="7dp"
+                android:layout_weight="1"
+                android:background="@drawable/fruit"
+                android:onClick="gofruit" />
+
+
+            <Button
+
+                android:layout_width="0dp"
+                android:layout_height="165dp"
+                android:layout_margin="7dp"
+                android:layout_weight="1"
+                android:background="@drawable/veget"
+                android:onClick="govigeti"
+
+                />
+        </LinearLayout>
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:orientation="horizontal">
+
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/fruit"
+                android:textColor="#0B0B0B"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:text="@string/veget"
+                android:textColor="#090909"
+                android:textSize="15sp" />
+        </RelativeLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+
+                android:layout_width="0dp"
+                android:layout_height="165dp"
+                android:layout_margin="7dp"
+                android:layout_weight="1"
+                android:background="@drawable/meat"
+                android:onClick="gomeat" />
+
+
+            <Button
+
+                android:layout_width="0dp"
+                android:layout_height="165dp"
+                android:layout_margin="7dp"
+                android:layout_weight="1"
+                android:background="@drawable/drinks"
+                android:onClick="godrinks"
+
+                />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:orientation="horizontal">
+
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/meat"
+                android:textColor="#0B0B0B"
+                android:textSize="15sp" />
+
+            <TextView
+
+                android:layout_width="wrap_content"
+
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:text="@string/drinks"
+                android:textColor="#090909"
+                android:textSize="15sp" />
+        </RelativeLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+
+                android:layout_width="0dp"
+                android:layout_height="165dp"
+                android:layout_margin="7dp"
+                android:layout_weight="1"
+                android:background="@drawable/legumes"
+                android:onClick="gomlegumes" />
+
+
+            <Button
+
+                android:layout_width="0dp"
+                android:layout_height="165dp"
+                android:layout_margin="7dp"
+                android:layout_weight="1"
+                android:background="@drawable/pills"
+                android:onClick="gopills"
+
+                />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/legumes"
+                android:textColor="#0B0B0B"
+                android:textSize="15sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:text="@string/pills"
+                android:textColor="#090909"
+                android:textSize="15sp" />
+        </RelativeLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+
+                android:layout_width="0dp"
+                android:layout_height="165dp"
+                android:layout_margin="7dp"
+                android:layout_weight="1"
+                android:background="@drawable/egg_and_cheese"
+                android:onClick="goeggs" />
+
+
+            <Button
+
+                android:layout_width="0dp"
+                android:layout_height="165dp"
+                android:layout_margin="7dp"
+                android:layout_weight="1"
+                android:background="@drawable/variousfoods"
+                android:onClick="goother"
+
+                />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="20dp"
+            android:layout_marginStart="20dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/egg"
+                android:textColor="#0B0B0B"
+                android:textSize="15sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:text="@string/Variousfoods"
+                android:textColor="#090909"
+                android:textSize="15sp" />
+        </RelativeLayout>
+
+
+
+    </LinearLayout>
+
+    </ScrollView>
+</LinearLayout>

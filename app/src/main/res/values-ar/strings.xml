@@ -1,0 +1,3351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">القيم الغذائية</string>
+
+
+
+
+    <string name="veget">خضار</string>
+    <string name="fruit">فواكه</string>
+    <string name="meat">لحوم</string>
+    <string name="drinks">مشروبات</string>
+    <string name="legumes">بقوليات</string>
+    <string name="pills">حبوب</string>
+    <string name="egg">بيض واجبان</string>
+    <string name="Variousfoods">اغذية متنوعة</string>
+
+    
+    <string name="amountfood">الكمية الغذائية ل 100 غرام</string>
+
+
+
+
+
+    <string name="apple">تفاح</string>
+    <string name="banana">موز</string>
+    <string name="pomegranate">رمان</string>
+    <string name="Pineapple">اناناس</string>
+    <string name="grib">عنب</string>
+    <string name="orange">برتقال</string>
+    <string name="lemon">ليمون</string>
+    <string name="melon">بطيخ</string>
+    <string name="olives">زيتون</string>
+    <string name="peach">خوخ</string>
+    <string name="pear">كمثرى</string>
+    <string name="quince">سفرجل</string>
+    <string name="Strawberries">فراولة</string>
+    <string name="watermelon">رقي</string>
+    <string name="kiwi">كيوي</string>
+    <string name="blueberry">توت</string>
+    <string name="carrots">جزر</string>
+    <string name="cherries">كرز</string>
+    <string name="coconut">جوزهند</string>
+    <string name="dates">تمر</string>
+    <string name="figs">تين</string>
+    <string name="avocado">افوكادو</string>
+    <string name="apricot">مشمش</string>
+    <string name="tamarind">تمر هندي</string>
+    <string name="mango">مانجو</string>
+    <string name="plum">برقوق</string>
+
+
+
+
+
+
+
+
+
+    <string name="tmato" >طماطم</string>
+    <string name="batata">بطاطا</string>
+    <string name="bathngan">باذنجان</string>
+    <string name="cucumber">خيار</string>
+    <string name="garlic">ثوم</string>
+    <string name="green_beans">باقلاء خضراء</string>
+    <string name="okra">بامية</string>
+    <string name="onions">بصل</string>
+    <string name="green_paper">فلفل اخضر</string>
+    <string name="zucchini">كوسة</string>
+    <string name="brocoli">بروكلي</string>
+    <string name="cauliflowe">قرنبيط</string>
+    <string name="celery">كرفس</string>
+    <string name="cowpea">لوبيا</string>
+    <string name="ginger">زنجبيل</string>
+    <string name="hotpepper">فلفل حار</string>
+    <string name="peas">بازلاء</string>
+    <string name="pumpkin">يقطين</string>
+    <string name="spinach">سبانخ</string>
+    <string name="reedbeets">شمندر</string>
+    <string name="lettuce">خس</string>
+   <string name="basil">ريحان</string>
+    <string name="radish">فجل</string>
+    <string name="turnip">لفت</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="tea">شاي</string>
+    <string name="coffee">قهوة</string>
+    <string name="waterr">ماء</string>
+    <string name="orangejuic">عصيربرتقال</string>
+    <string name="applejuic">عصير التفاح</string>
+    <string name="molasses">دبس التمر</string>
+    <string name="carrotjuic">عصير جزر</string>
+    <string name="mangojuic">عصير مانجو</string>
+    <string name="pineapplejuice">عصير اناناس</string>
+    <string name="pomegranatejuic">عصير رمان</string>
+    <string name="lemonade">عصير ليمون</string>
+    <string name="alcohol">كحول</string>
+    <string name="redbull">مشروب طاقة</string>
+    <string name="cappuccino">كابتشينو</string>
+    <string name="hotchocolate">شراب الكاكاو</string>
+    <string name="icecream">مثلجات</string>
+    <string name="grapejuice">عصير العنب</string>
+    <string name="pepsi">بيبسي</string>
+    <string name="tomatojuic">عصير الطماطم</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="freshfish">سمك</string>
+    <string name="freshchicken">دجاج</string>
+    <string name="beef">لحم بقر</string>
+    <string name="beefveal">لحم عجل</string>
+    <string name="hamburger">هامبرغر</string>
+    <string name="dearmeat">لحم غزال</string>
+    <string name="shapemeat">لحم غنم</string>
+    <string name="turkeymeat">ديك رومي</string>
+    <string name="ostrichmeat">لحم نعامة</string>
+    <string name="quailmeat">لحم السمان</string>
+    <string name="chickenthighs">افخاذ دجاج</string>
+    <string name="chickenbreast">صدر دجاج</string>
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+
+
+    <string name="wheat">قمح</string>
+    <string name="barley">شعير</string>
+    <string name="corn">ذرة</string>
+    <string name="groats">برغل</string>
+    <string name="millet">دخن</string>
+    <string name="rice">رز</string>
+    <string name="spaghetti">معكرونة</string>
+    <string name="sesame">سمسم</string>
+    <string name="blackpepper">فلفل اسود</string>
+    <string name="cardamom">هيل</string>
+    <string name="raisin">زبيب</string>
+    <string name="sunflower">حب عبادالشمس</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    <string name="lentil">عدس</string>
+    <string name="chickpeas">حمص</string>
+    <string name="blackbeans">فاصولياء سوداء</string>
+    <string name="mash">ماش</string>
+    <string name="whitebeans">فاصولياء بيضاء</string>
+    <string name="peanuts">فول سوداني</string>
+    <string name="soybeans">فول الصويا</string>
+    <string name="cumin">كمون</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="boiledeggs">بيض مسلوق</string>
+    <string name="mothermilk">حليب الام</string>
+    <string name="friedeggs">بيض مقلي</string>
+    <string name="honey">عسل</string>
+    <string name="milk">حليب</string>
+    <string name="duckeggs">بيض البط</string>
+    <string name="sheepmilk">حليب الغنم</string>
+    <string name="cheese">جبن</string>
+    <string name="peanutbutter">زبدة الفول</string>
+    <string name="buttermilk">لبن رائب</string>
+    <string name="butter">زبدة</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="oil">زيت عبادالشمس</string>
+    <string name="fishoil">زيت السمك</string>
+    <string name="salt">ملح</string>
+    <string name="sugar">سكر</string>
+    <string name="cinnamon">قرفة</string>
+    <string name="spices">بهارات</string>
+    <string name="sesameoil">زيت السمسم</string>
+    <string name="oliveoil">زيت الزيتون</string>
+    <string name="almonds">لوز</string>
+    <string name="nut">جوز</string>
+    <string name="vinger">خل</string>
+    <string name="pistachios">فستق</string>
+    <string name="hazelnut">بندق</string>
+    <string name="pizza">بيتزا</string>
+    <string name="Falafel">فلافل</string>
+    <string name="potatochips">شيبس بطاطا</string>
+    <string name="chocolate">شوكولاتة</string>
+    <string name="caviar">كافيار</string>
+
+
+
+
+
+
+
+
+
+
+    <string-array name="apple">
+
+        <item>سعرات حرارية=   52</item>
+        <item>دهن مشبع=     0غ</item>
+        <item>دهن عديد اللاتشبيع=      0.1غ</item>
+        <item>دهون احادية عدم التشبيع=          0غ</item>
+        <item>كاربوهيدرات=   13.81غ   </item>
+        <item>ماء=    85.56غ   </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=         1م غ</item>
+        <item>بوتاسيوم=        107م غ</item>
+        <item>سكريات=       14غ</item>
+        <item>الياف غذائية=       2.4غ</item>
+        <item>سكر=      10غ</item>
+        <item>بروتين=0.3غ</item>
+        <item>فيتامين الف=   54و_د</item>
+        <item>كالسيوم=    6م غ</item>
+        <item>فيتامين دي=  0و_د</item>
+        <item>فيتامين سي=   4.6م غ</item>
+        <item>حديد=    0.1م غ</item>
+        <item>فيتامين ب =   0م غ</item>
+        <item>مغنسيوم=    5م غ</item>
+
+
+    </string-array>
+
+
+
+    <string-array name="Mango">
+
+        <item>سعرات حرارية=   59</item>
+        <item>دهن مشبع=     0.1غ</item>
+        <item>دهن عديد اللاتشبيع=      0.1غ</item>
+        <item>دهون احادية عدم التشبيع=          0.1غ</item>
+        <item>كاربوهيدرات=   15غ   </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=         1م غ</item>
+        <item>بوتاسيوم=        168م غ</item>
+        <item>سكريات=       15غ</item>
+        <item>الياف غذائية=       1.6غ</item>
+        <item>سكر=      14غ</item>
+        <item>بروتين=0.8غ</item>
+        <item>فيتامين الف=   82و_د</item>
+        <item>كالسيوم=    11م غ</item>
+        <item>فيتامين دي=  0و_د</item>
+        <item>فيتامين سي=   36.4م غ</item>
+        <item>حديد=    0.2م غ</item>
+        <item>فيتامين ب =   0.1م غ</item>
+        <item>مغنسيوم=    10م غ</item>
+
+    </string-array>
+
+
+    <string-array name="plum">
+
+        <item>سعرات حرارية=   45</item>
+        <item>دهن مشبع=     0غ</item>
+        <item>دهن عديد اللاتشبيع=      0غ</item>
+        <item>دهون احادية عدم التشبيع=          0غ</item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        0م غ</item>
+        <item>بوتاسيوم=        157م غ</item>
+        <item>سكريات=       11غ</item>
+        <item>الياف غذائية=       1.4غ</item>
+        <item>سكر=      10غ</item>
+        <item>بروتين=0.7غ</item>
+        <item>فيتامين الف=   345و_د</item>
+        <item>كالسيوم=    6م غ</item>
+        <item>فيتامين دي=  0و_د</item>
+        <item>فيتامين سي=   9.5م غ</item>
+        <item>حديد=    0.2م غ</item>
+        <item>فيتامين ب =   0م غ</item>
+        <item>مغنسيوم=    7م غ</item>
+
+    </string-array>
+
+    <string-array name="banana">
+
+        <item>سعرات حرارية=   88</item>
+        <item>دهن مشبع=     0.1غ</item>
+        <item>دهن عديد اللاتشبيع=      0.1غ</item>
+        <item>دهون احادية عدم التشبيع=          0غ</item>
+        <item>كاربوهيدرات=   22.84غ   </item>
+        <item>ماء=    74.91غ   </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=         1م غ</item>
+        <item>بوتاسيوم=         358م غ</item>
+        <item>سكريات=     23غ</item>
+        <item>الياف غذائية=       2.6غ</item>
+        <item>سكر=    12غ</item>
+        <item>بروتين=1.1غ</item>
+        <item>فيتامين الف=   64و_د</item>
+        <item>كالسيوم=    5م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي=   8.7م غ</item>
+        <item>حديد=    0.3م غ</item>
+        <item>فيتامين ب =  0.4م غ</item>
+        <item>مغنسيوم=    27م غ</item>
+    </string-array>
+
+    <string-array name="pomegranate">
+
+        <item>سعرات حرارية=   82</item>
+        <item>دهن مشبع=     0.1غ</item>
+        <item>دهن عديد اللاتشبيع=       0.1غ</item>
+        <item>دهون احادية عدم التشبيع=         0.1غ</item>
+        <item>كاربوهيدرات=  18.70غ    </item>
+        <item>ماء=   77.93غ    </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=         3م غ</item>
+        <item>بوتاسيوم=        236م غ</item>
+        <item>سكريات=     19غ</item>
+        <item>الياف غذائية=       4غ</item>
+        <item>سكر=    14غ</item>
+        <item>بروتين=1.7غ</item>
+        <item>فيتامين الف=   0و_د</item>
+        <item>كالسيوم=    10م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي=   10.2م غ</item>
+        <item>حديد=    0.3م غ</item>
+        <item>فيتامين ب =  0.1م غ</item>
+        <item>مغنسيوم=    12م غ</item>
+    </string-array>
+
+
+    <string-array name="grib">
+
+        <item>سعرات حرارية=   66</item>
+        <item>دهن مشبع=     0.1غ</item>
+        <item>دهن عديد اللاتشبيع=       0.1غ</item>
+        <item>دهون احادية عدم التشبيع=           0غ</item>
+        <item>كاربوهيدرات=   18.10غ   </item>
+        <item>ماء=    80.54غ   </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=         2م غ</item>
+        <item>بوتاسيوم=        191م غ</item>
+        <item>سكريات=     17غ</item>
+        <item>الياف غذائية=       0.9غ</item>
+        <item>سكر=    16غ</item>
+        <item>بروتين=0.6غ</item>
+        <item>فيتامين الف=   100و_د</item>
+        <item>كالسيوم=    14م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي=   4م غ</item>
+        <item>حديد=    0.3م غ</item>
+        <item>فيتامين ب =  0.1م غ</item>
+        <item>مغنسيوم=    5م غ</item>
+    </string-array>
+
+    <string-array name="orange">
+
+        <item>السعرات الحرارية=86</item>
+        <item>الدهون=0.22</item>
+        <item>الدهون المشبعة=0</item>
+        <item>الكاربوهيدرات=21.62</item>
+        <item>الالياف=4.4</item>
+        <item>البروتينات=1.73</item>
+        <item>الكوليسترول=0</item>
+        <item>ماء=    87غ   </item>
+    </string-array>
+
+
+
+    <string-array name="Pineapple">
+
+        <item>سعرات حرارية=   50</item>
+        <item>دهن مشبع=     0غ</item>
+        <item>دهن عديد اللاتشبيع=       0غ</item>
+        <item>دهون احادية عدم التشبيع=           0غ</item>
+        <item>كاربوهيدرات=   13.12غ   </item>
+        <item>ماء=    86غ   </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=         1م غ</item>
+        <item>بوتاسيوم=        109م غ</item>
+        <item>سكريات=     13غ</item>
+        <item>الياف غذائية=       1.4غ</item>
+        <item>سكر=    10غ</item>
+        <item>بروتين=0.5غ</item>
+        <item>فيتامين الف=   58و_د</item>
+        <item>كالسيوم=    13م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي=   47.8م غ</item>
+        <item>حديد=    0.3م غ</item>
+        <item>فيتامين ب =  0.1م غ</item>
+        <item>مغنسيوم=    12م غ</item>
+    </string-array>
+
+
+
+    <string-array name="lemon">
+
+        <item>سعرات حرارية=   28</item>
+        <item>دهن مشبع=     0.1غ</item>
+        <item>دهن عديد اللاتشبيع=       0غ</item>
+        <item>دهون احادية عدم التشبيع=           0غ</item>
+        <item>كاربوهيدرات=   9.32غ   </item>
+        <item>ماء=    88.98غ   </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=         2م غ</item>
+        <item>بوتاسيوم=        138م غ</item>
+        <item>سكريات=     9غ</item>
+        <item>الياف غذائية=       2.8غ</item>
+        <item>سكر=    2.5غ</item>
+        <item>بروتين=1.1غ</item>
+        <item>فيتامين الف=   22و_د</item>
+        <item>كالسيوم=    26م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي=   53م غ</item>
+        <item>حديد=    0.6م غ</item>
+        <item>فيتامين ب =  0.1م غ</item>
+        <item>مغنسيوم=    8م غ</item>
+    </string-array>
+
+
+
+    <string-array name="melon">
+
+        <item>سعرات حرارية=   33</item>
+        <item>دهن مشبع=     0.1غ</item>
+        <item>دهن عديد اللاتشبيع=       0.1غ</item>
+        <item>دهون احادية عدم التشبيع=           0غ</item>
+        <item>كاربوهيدرات=    8.16غ  </item>
+        <item>ماء=     90.15غ  </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=         16م غ</item>
+        <item>بوتاسيوم=        267م غ</item>
+        <item>سكريات=     8غ</item>
+        <item>الياف غذائية=       0.9غ</item>
+        <item>سكر=    8غ</item>
+        <item>بروتين=0.8غ</item>
+        <item>فيتامين الف=   82و_د</item>
+        <item>كالسيوم=    9م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي=   36.7م غ</item>
+        <item>حديد=    0.2م غ</item>
+        <item>فيتامين ب =  0.1م غ</item>
+        <item>مغنسيوم=    12م غ</item>
+    </string-array>
+
+
+    <string-array name="olives">
+
+        <item>سعرات حرارية=   115</item>
+        <item>دهن مشبع=     1.4غ</item>
+        <item>دهن عديد اللاتشبيع=      0.9غ</item>
+        <item>دهون احادية عدم التشبيع=          8غ</item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=         735م غ</item>
+        <item>بوتاسيوم=        8م غ</item>
+        <item>سكريات=   6غ</item>
+        <item>الياف غذائية=       3.2غ</item>
+        <item>سكر=    0غ</item>
+        <item>بروتين=0.8غ</item>
+        <item>فيتامين الف=   403و_د</item>
+        <item>كالسيوم=    88م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي=   0.9م غ</item>
+        <item>حديد=    3.3م غ</item>
+        <item>فيتامين ب =  0م غ</item>
+        <item>مغنسيوم=    4م غ</item>
+    </string-array>
+
+
+    <string-array name="peach">
+
+        <item>سعرات حرارية=   39</item>
+        <item>دهن مشبع=    0غ</item>
+        <item>دهن عديد اللاتشبيع=       0.1غ</item>
+        <item>دهون احادية عدم التشبيع=          0.1غ</item>
+        <item>كاربوهيدرات=   9.54غ   </item>
+        <item>ماء=    88.87غ   </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=         0م غ</item>
+        <item>بوتاسيوم=        190م غ</item>
+        <item>سكريات=    10غ</item>
+        <item>الياف غذائية=       1.5غ</item>
+        <item>سكر=    8غ</item>
+        <item>بروتين=0.9غ</item>
+        <item>فيتامين الف=   326و_د</item>
+        <item>كالسيوم=    6م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي=   6.6م غ</item>
+        <item>حديد=    0.3م غ</item>
+        <item>فيتامين ب =  0م غ</item>
+        <item>مغنسيوم=   9م غ</item>
+    </string-array>
+
+
+    <string-array name="quince">
+
+        <item>سعرات حرارية=   56</item>
+        <item>دهن مشبع=    0غ</item>
+        <item>دهن عديد اللاتشبيع=       0.1غ</item>
+        <item>دهون احادية عدم التشبيع=          0غ</item>
+        <item>كاربوهيدرات=  15.30غ    </item>
+        <item>ماء=   83.80غ    </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=         4م غ</item>
+        <item>بوتاسيوم=        197م غ</item>
+        <item>سكريات=    15غ</item>
+        <item>الياف غذائية=       1.9غ</item>
+        <item>بروتين=0.4غ</item>
+        <item>فيتامين الف=   40و_د</item>
+        <item>كالسيوم=    11م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي=   15م غ</item>
+        <item>حديد=    0.7م غ</item>
+        <item>مغنسيوم=   8م غ</item>
+    </string-array>
+
+
+    <string-array name="Strawberries">
+
+        <item>سعرات حرارية=   32</item>
+        <item>دهن مشبع=    0غ</item>
+        <item>دهن عديد اللاتشبيع=       0.2غ</item>
+        <item>دهون احادية عدم التشبيع=          0غ</item>
+        <item>كاربوهيدرات=   7.68غ   </item>
+        <item>ماء=    90.95غ   </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=         1م غ</item>
+        <item>بوتاسيوم=        153م غ</item>
+        <item>سكريات=    8غ</item>
+        <item>الياف غذائية=       2غ</item>
+        <item>سكر=    4.9غ</item>
+        <item>بروتين=0.7غ</item>
+        <item>فيتامين الف=   12و_د</item>
+        <item>كالسيوم=    16م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي=   58.8م غ</item>
+        <item>حديد=    0.4م غ</item>
+        <item>مغنسيوم=  13م غ</item>
+    </string-array>
+
+
+
+    <string-array name="watermelon">
+
+        <item>سعرات حرارية=   30</item>
+        <item>دهن مشبع=    0غ</item>
+        <item>دهن عديد اللاتشبيع=       0.1غ</item>
+        <item>دهون احادية عدم التشبيع=          0غ</item>
+        <item>كاربوهيدرات=  7.55غ    </item>
+        <item>ماء=   91.45غ    </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=         1م غ</item>
+        <item>بوتاسيوم=        112م غ</item>
+        <item>سكريات=    8غ</item>
+        <item>الياف غذائية=       0.4غ</item>
+        <item>سكر=    6غ</item>
+        <item>بروتين=0.6غ</item>
+        <item>فيتامين الف=   569و_د</item>
+        <item>كالسيوم=    7م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي=   8.1م غ</item>
+        <item>حديد=    0.2م غ</item>
+        <item>فيتامين ب =  0م غ</item>
+        <item>مغنسيوم=   10م غ</item>
+    </string-array>
+
+
+    <string-array name="kiwi">
+
+        <item>سعرات حرارية=   60</item>
+        <item>دهن مشبع=    0غ</item>
+        <item>دهن عديد اللاتشبيع=       0.3غ</item>
+        <item>دهون احادية عدم التشبيع=          0غ</item>
+        <item>كاربوهيدرات=    14.66غ  </item>
+        <item>ماء=     83.7غ  </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=         3م غ</item>
+        <item>بوتاسيوم=        312م غ</item>
+        <item>سكريات=    15غ</item>
+        <item>الياف غذائية=       3غ</item>
+        <item>سكر=    9غ</item>
+        <item>بروتين=1.1غ</item>
+        <item>فيتامين الف=   87و_د</item>
+        <item>كالسيوم=    34م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي=   92.7م غ</item>
+        <item>حديد=   30.2م غ</item>
+        <item>فيتامين ب =  0.1م غ</item>
+        <item>مغنسيوم=  17م غ</item>
+    </string-array>
+
+
+    <string-array name="blueberry">
+
+        <item>سعرات حرارية=   57</item>
+        <item>دهن مشبع=    0غ</item>
+        <item>دهن عديد اللاتشبيع=       0.1غ</item>
+        <item>دهون احادية عدم التشبيع=          0غ</item>
+        <item>كاربوهيدرات=   14.49غ   </item>
+        <item>ماء=   84.21غ    </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=         1م غ</item>
+        <item>بوتاسيوم=        77م غ</item>
+        <item>سكريات=   14غ</item>
+        <item>الياف غذائية=       2.4غ</item>
+        <item>سكر=    10غ</item>
+        <item>بروتين=0.7غ</item>
+        <item>فيتامين الف=   54و_د</item>
+        <item>كالسيوم=    6م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي=   9.7م غ</item>
+        <item>حديد=   0.3م غ</item>
+        <item>فيتامين ب =  0.1م غ</item>
+        <item>مغنسيوم=  6م غ</item>
+    </string-array>
+
+
+    <string-array name="carrots">
+
+        <item>سعرات حرارية=   41</item>
+        <item>دهن مشبع=    0.1غ</item>
+        <item>دهن عديد اللاتشبيع=       0غ</item>
+        <item>دهون احادية عدم التشبيع=          0غ</item>
+        <item>كاربوهيدرات=  9.58غ    </item>
+        <item>ماء=88.29غ       </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        69م غ</item>
+        <item>بوتاسيوم=        320م غ</item>
+        <item>سكريات=   10غ</item>
+        <item>الياف غذائية=       2.8غ</item>
+        <item>سكر=    4.7غ</item>
+        <item>بروتين=0.9غ</item>
+        <item>فيتامين الف=   0.6و_د</item>
+        <item>كالسيوم=    33م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي=   5.9م غ</item>
+        <item>حديد=   0.3م غ</item>
+        <item>فيتامين ب =  0.1م غ</item>
+        <item>مغنسيوم=  12م غ</item>
+    </string-array>
+
+    <string-array name="cherries">
+
+        <item>سعرات حرارية=  50</item>
+        <item>دهن مشبع=    0.1غ</item>
+        <item>دهن عديد اللاتشبيع=       0.1غ</item>
+        <item>دهون احادية عدم التشبيع=         0.1غ</item>
+        <item>كاربوهيدرات=   16.1غ   </item>
+        <item>ماء=    82.25غ   </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        3م غ</item>
+        <item>بوتاسيوم=        173م غ</item>
+        <item>سكريات=  12غ</item>
+        <item>الياف غذائية=       1.6غ</item>
+        <item>سكر=    8غ</item>
+        <item>بروتين=1غ</item>
+        <item>فيتامين الف=   83و_د</item>
+        <item>كالسيوم=    33م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي=   10م غ</item>
+        <item>حديد=   0.3م غ</item>
+        <item>فيتامين ب =  0م غ</item>
+        <item>مغنسيوم=  9م غ</item>
+    </string-array>
+
+
+    <string-array name="Coconut">
+
+        <item>سعرات حرارية=  354</item>
+        <item>دهن مشبع=    30غ</item>
+        <item>دهن عديد اللاتشبيع=       0.4غ</item>
+        <item>دهون احادية عدم التشبيع=         1.4غ</item>
+        <item>كاربوهيدرات=   15.23غ   </item>
+        <item>ماء=    47غ   </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        20م غ</item>
+        <item>بوتاسيوم=        356م غ</item>
+        <item>سكريات=  15غ</item>
+        <item>الياف غذائية=       9غ</item>
+        <item>سكر=    6غ</item>
+        <item>بروتين=3.3غ</item>
+        <item>فيتامين الف=   0و_د</item>
+        <item>كالسيوم=    14م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي=   3.3م غ</item>
+        <item>حديد=   2.4م غ</item>
+        <item>فيتامين ب =  0.1م غ</item>
+        <item>مغنسيوم=  32م غ</item>
+    </string-array>
+
+
+    <string-array name="Dates">
+
+        <item>سعرات حرارية=  281</item>
+        <item>دهن مشبع=    0غ</item>
+        <item>دهن عديد اللاتشبيع=       0غ</item>
+        <item>دهون احادية عدم التشبيع=         0غ</item>
+        <item>كاربوهيدرات=  75غ    </item>
+        <item>ماء=   21.33غ    </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        2م غ</item>
+        <item>بوتاسيوم=        656م غ</item>
+        <item>سكريات=  75غ</item>
+        <item>الياف غذائية=       8غ</item>
+        <item>سكر=    63غ</item>
+        <item>بروتين=2.5غ</item>
+        <item>فيتامين الف=  100و_د</item>
+        <item>كالسيوم=    39م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي=   0.4م غ</item>
+        <item>حديد=   1م غ</item>
+        <item>فيتامين ب =  0.2م غ</item>
+        <item>مغنسيوم=  43م غ</item>
+    </string-array>
+
+
+    <string-array name="Figs">
+
+        <item>السعرات الخرارية=47</item>
+        <item>الدهون=   0.19غ</item>
+        <item>الدهون المشبعة=  0غ</item>
+        <item>الكاربوهيدرات=12.28غ</item>
+        <item>الالياف=  1.9غ</item>
+        <item>البروتينات=  0.48</item>
+        <item>الكولسترول=  0م غ</item>
+        <item>ماء=    80غ   </item>
+
+    </string-array>
+
+
+    <string-array name="avocado">
+
+        <item>سعرات حرارية=  160</item>
+        <item>دهن مشبع=   2.1غ</item>
+        <item>دهن عديد اللاتشبيع=       1.8غ</item>
+        <item>دهون احادية عدم التشبيع=         10غ</item>
+        <item>كاربوهيدرات=  8.64غ    </item>
+        <item>ماء=   72.33غ    </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        7م غ</item>
+        <item>بوتاسيوم=        485م غ</item>
+        <item>سكريات=  9غ</item>
+        <item>الياف غذائية=       7غ</item>
+        <item>سكر=    0.7غ</item>
+        <item>بروتين=2غ</item>
+        <item>فيتامين الف=  146و_د</item>
+        <item>كالسيوم=    12م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي=   0.4م غ</item>
+        <item>حديد=   10م غ</item>
+        <item>فيتامين ب =  0.3م غ</item>
+        <item>مغنسيوم=  29م غ</item>
+    </string-array>
+
+
+    <string-array name="apricot">
+
+        <item>سعرات حرارية= 48</item>
+        <item>دهن مشبع=   0غ</item>
+        <item>دهن عديد اللاتشبيع=       0.1غ</item>
+        <item>دهون احادية عدم التشبيع=         0.2غ</item>
+        <item>كاربوهيدرات=  11.12غ    </item>
+        <item>ماء=   86.35غ    </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        1م غ</item>
+        <item>بوتاسيوم=        259م غ</item>
+        <item>سكريات=  11غ</item>
+        <item>الياف غذائية=       2غ</item>
+        <item>سكر=    9غ</item>
+        <item>بروتين=1.4غ</item>
+        <item>فيتامين الف=  26و_د</item>
+        <item>كالسيوم=    13م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي=   10م غ</item>
+        <item>حديد=   0.4م غ</item>
+        <item>فيتامين ب =  0.1م غ</item>
+        <item>مغنسيوم=  10م غ</item>
+    </string-array>
+
+<string-array name="tamarind">
+    <item>السعرات الحرارية=   239غ</item>
+    <item>الماء=  31.4غ</item>
+    <item>بروتينات=  2.8غ</item>
+    <item>دهون=   0.6غ</item>
+    <item>الياف=  5.1غ</item>
+    <item>سكر=  38.8غ</item>
+    <item>كالسيوم=  74م غ</item>
+    <item>حديد= 2.8م غ </item>
+    <item>كاربوهيدرات=62.50غ    </item>
+
+</string-array>
+
+    <string-array name="Pear">
+
+        <item>سعرات حرارية= 57</item>
+        <item>دهن مشبع=   0غ</item>
+        <item>دهن عديد اللاتشبيع=       0.1غ</item>
+        <item>دهون احادية عدم التشبيع=         0.1غ</item>
+        <item>كاربوهيدرات=  15.23غ    </item>
+        <item>ماء=   83.96غ    </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        1م غ</item>
+        <item>بوتاسيوم=        116م غ</item>
+        <item>سكريات=  15غ</item>
+        <item>الياف غذائية=       3.1غ</item>
+        <item>سكر=   10غ</item>
+        <item>بروتين=0.4غ</item>
+        <item>فيتامين الف=  25و_د</item>
+        <item>كالسيوم=    9م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي=   4.3م غ</item>
+        <item>حديد=   0.2م غ</item>
+        <item>فيتامين ب =  0م غ</item>
+        <item>مغنسيوم=  7م غ</item>
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string-array name="Tomatoes">
+
+        <item>سعرات حرارية= 17</item>
+        <item>دهن مشبع=   0غ</item>
+        <item>دهن عديد اللاتشبيع=       0.1غ</item>
+        <item>دهون احادية عدم التشبيع=         0غ</item>
+        <item>كاربوهيدرات=  3.89غ    </item>
+        <item>ماء=   94.52غ    </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        5م غ</item>
+        <item>بوتاسيوم=        237م غ</item>
+        <item>سكريات=  3.9غ</item>
+        <item>الياف غذائية=       1.2غ</item>
+        <item>سكر=   2.6غ</item>
+        <item>بروتين=0.9غ</item>
+        <item>فيتامين الف=  833و_د</item>
+        <item>كالسيوم=    10م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي=   13.7م غ</item>
+        <item>حديد=   0.3م غ</item>
+        <item>فيتامين ب =  0.1 م غ</item>
+        <item>مغنسيوم=  11م غ</item>
+    </string-array>
+
+
+
+
+
+
+    <string-array name="Potato">
+
+        <item>سعرات حرارية= 85</item>
+        <item>دهن مشبع=   0غ</item>
+        <item>دهن عديد اللاتشبيع=       0غ</item>
+        <item>دهون احادية عدم التشبيع=         0غ</item>
+        <item>كاربوهيدرات=  18.7غ    </item>
+        <item>ماء=   78.58غ    </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        55م غ</item>
+        <item>بوتاسيوم=        337م غ</item>
+        <item>سكريات=    20غ</item>
+        <item>الياف غذائية=     3  غ</item>
+        <item>سكر=     4.2غ</item>
+        <item>بروتين=1.6غ</item>
+        <item>فيتامين الف=  87و_د</item>
+        <item>كالسيوم=    30م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي=   2.4م غ</item>
+        <item>حديد=   0.6م غ</item>
+        <item>فيتامين ب =  0.2 م غ</item>
+        <item>مغنسيوم=  25م غ</item>
+    </string-array>
+
+
+
+    <string-array name="Lettuce">
+
+        <item>سعرات حرارية= 14</item>
+        <item>دهن مشبع=   0غ</item>
+        <item>دهن عديد اللاتشبيع=       0.1غ</item>
+        <item>دهون احادية عدم التشبيع=         0غ</item>
+        <item>كاربوهيدرات=  2.23 غ    </item>
+        <item>ماء=   95.63غ    </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        28م غ</item>
+        <item>بوتاسيوم=        194م غ</item>
+        <item>سكريات=    2.9غ</item>
+        <item>الياف غذائية=     1.3  غ</item>
+        <item>سكر=     0.8غ</item>
+        <item>بروتين=1.4غ</item>
+        <item>فيتامين الف=  5و_د</item>
+        <item>كالسيوم=    36م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي=   9.2م غ</item>
+        <item>حديد=   0.9م غ</item>
+        <item>فيتامين ب =  0.1 م غ</item>
+        <item>مغنسيوم=  13م غ</item>
+    </string-array>
+
+
+
+
+    <string-array name="Basil">
+
+        <item>سعرات حرارية= 22</item>
+        <item>دهن مشبع=   0غ</item>
+        <item>دهن عديد اللاتشبيع=       0.4غ</item>
+        <item>دهون احادية عدم التشبيع=         0.1غ</item>
+        <item>كاربوهيدرات=  2.65غ    </item>
+        <item>ماء=   3.15 غ    </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        4م غ</item>
+        <item>بوتاسيوم=        295م غ</item>
+        <item>سكريات=    2.7غ</item>
+        <item>الياف غذائية=     1.6  غ</item>
+        <item>سكر=     0.3غ</item>
+        <item>بروتين=3.2غ</item>
+        <item>فيتامين الف=  75و_د</item>
+        <item>كالسيوم=    177م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي=   18م غ</item>
+        <item>حديد=  3.2م غ</item>
+        <item>فيتامين ب =  0.2 م غ</item>
+        <item>مغنسيوم=  64م غ</item>
+    </string-array>
+
+
+
+
+    <string-array name="Radish">
+
+        <item>سعرات حرارية= 15</item>
+        <item>دهن مشبع=   0غ</item>
+        <item>دهن عديد اللاتشبيع=       0غ</item>
+        <item>دهون احادية عدم التشبيع=         0غ</item>
+        <item>كاربوهيدرات=  3.40غ    </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=       39م غ</item>
+        <item>بوتاسيوم=        233م غ</item>
+        <item>سكريات=    3.4غ</item>
+        <item>الياف غذائية=     1.6  غ</item>
+        <item>سكر=     1.9غ</item>
+        <item>بروتين=0.7غ</item>
+        <item>فيتامين الف=  7و_د</item>
+        <item>كالسيوم=    25م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي=   14.8م غ</item>
+        <item>حديد=  0.3م غ</item>
+        <item>فيتامين ب =  0.1 م غ</item>
+        <item>مغنسيوم=  10م غ</item>
+    </string-array>
+
+
+
+    <string-array name="Greenpapper">
+
+        <item>سعرات حرارية= 23</item>
+        <item>دهون=   0.17غ</item>
+        <item>كاربوهيدرات=  4.64غ    </item>
+        <item>ماء=   93.89غ    </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        3م غ</item>
+        <item>بوتاسيوم=        175م غ</item>
+        <item>سكريات=    2.4غ</item>
+        <item>الياف غذائية=     1.7  غ</item>
+        <item>بروتين=0.86غ</item>
+        <item>فيتامين الف=  370و_د</item>
+        <item>كالسيوم=    10م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>حديد=   0.34م غ</item>
+        <item>فيتامين ب =  0.22 م غ</item>
+        <item>مغنسيوم=  10م غ</item>
+    </string-array>
+
+
+    <string-array name="Aubergine">
+
+        <item>سعرات حرارية= 24</item>
+        <item>دهن مشبع=   0غ</item>
+        <item>دهن عديد اللاتشبيع=       0.1غ</item>
+        <item>دهون احادية عدم التشبيع=         0غ</item>
+        <item>كاربوهيدرات=  5.88غ    </item>
+        <item>ماء=   92.30غ    </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        2م غ</item>
+        <item>بوتاسيوم=        229م غ</item>
+        <item>سكريات=    6غ</item>
+        <item>الياف غذائية=     3  غ</item>
+        <item>سكر=     3.5غ</item>
+        <item>بروتين=1غ</item>
+        <item>فيتامين الف=  23و_د</item>
+        <item>كالسيوم=    9م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي=   2.2م غ</item>
+        <item>حديد=   0.2م غ</item>
+        <item>فيتامين ب =  0.1 م غ</item>
+        <item>مغنسيوم=  14م غ</item>
+    </string-array>
+
+
+
+    <string-array name="greenbeans">
+
+        <item>سعرات حرارية= 88</item>
+        <item>دهن مشبع=   0.1غ</item>
+        <item>دهن عديد اللاتشبيع=       0.3غ</item>
+        <item>دهون احادية عدم التشبيع=         0.1غ</item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        25م غ</item>
+        <item>بوتاسيوم=        332م غ</item>
+        <item>سكريات=    18غ</item>
+        <item>الياف غذائية=     8  غ</item>
+        <item>سكر=     9غ</item>
+        <item>بروتين=8غ</item>
+        <item>فيتامين الف=  333و_د</item>
+        <item>كالسيوم=    37م غ</item>
+        <item>فيتامين دي=  0و_د</item>
+        <item>فيتامين سي=   3.7م غ</item>
+        <item>حديد=   1.6م غ</item>
+        <item>فيتامين ب =  0.1 م غ</item>
+        <item>مغنسيوم=  33م غ</item>
+    </string-array>
+
+
+
+    <string-array name="Onions">
+
+        <item>سعرات حرارية= 39</item>
+        <item>دهن مشبع=   0غ</item>
+        <item>دهن عديد اللاتشبيع=       0غ</item>
+        <item>دهون احادية عدم التشبيع=         0غ</item>
+        <item>كاربوهيدرات=  9.34غ    </item>
+        <item>ماء=   89.11غ    </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        4م غ</item>
+        <item>بوتاسيوم=        146م غ</item>
+        <item>سكريات=    9غ</item>
+        <item>الياف غذائية=     1.7  غ</item>
+        <item>سكر=     4.2غ</item>
+        <item>بروتين=  1.1  غ</item>
+        <item>فيتامين الف=  2و_د</item>
+        <item>كالسيوم=    23م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي=  7.4م غ</item>
+        <item>حديد=   0.2م غ</item>
+        <item>فيتامين ب =  0.1 م غ</item>
+        <item>مغنسيوم=  10م غ</item>
+    </string-array>
+
+
+    <string-array name="Okra">
+
+        <item>سعرات حرارية= 33</item>
+        <item>دهن مشبع=   0غ</item>
+        <item>دهن عديد اللاتشبيع=       0غ</item>
+        <item>دهون احادية عدم التشبيع=         0غ</item>
+        <item>كاربوهيدرات=  7.45غ    </item>
+        <item>ماء=   89.58غ    </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        7م غ</item>
+        <item>بوتاسيوم=        299م غ</item>
+        <item>سكريات=    7غ</item>
+        <item>الياف غذائية=     3.2  غ</item>
+        <item>سكر=     1.5غ</item>
+        <item>بروتين=  1.9  غ</item>
+        <item>فيتامين الف= 716و_د</item>
+        <item>كالسيوم=    82م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي=  23م غ</item>
+        <item>حديد=   0.6م غ</item>
+        <item>فيتامين ب =  0.2 م غ</item>
+        <item>مغنسيوم=  57م غ</item>
+    </string-array>
+
+
+    <string-array name="zucchini">
+
+        <item>سعرات حرارية= 16</item>
+        <item>دهن مشبع=   0.1غ</item>
+        <item>دهن عديد اللاتشبيع=       0.1غ</item>
+        <item>دهون احادية عدم التشبيع=         0غ</item>
+        <item>كاربوهيدرات=  3.11غ    </item>
+        <item>ماء=   92.73غ    </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        8م غ</item>
+        <item>بوتاسيوم=        261م غ</item>
+        <item>سكريات=    3.1غ</item>
+        <item>الياف غذائية=     1  غ</item>
+        <item>سكر=     2.5غ</item>
+        <item>بروتين=  1.2  غ</item>
+        <item>فيتامين الف= 200و_د</item>
+        <item>كالسيوم=    16م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي=  17.9م غ</item>
+        <item>حديد=   0.4م غ</item>
+        <item>فيتامين ب =  0.2 م غ</item>
+        <item>مغنسيوم=  18م غ</item>
+    </string-array>
+
+
+    <string-array name="Broccoli">
+
+        <item>سعرات حرارية=   33</item>
+        <item>دهن مشبع=   0غ</item>
+        <item>دهن عديد اللاتشبيع=       0غ</item>
+        <item>دهون احادية عدم التشبيع=         0غ</item>
+        <item>كاربوهيدرات=  6.64غ    </item>
+        <item>ماء=   98.30غ    </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        33م غ</item>
+        <item>بوتاسيوم=        316م غ</item>
+        <item>سكريات=    7غ</item>
+        <item>الياف غذائية=     2.6  غ</item>
+        <item>سكر=     1.7غ</item>
+        <item>بروتين=  2.8  غ</item>
+        <item>فيتامين الف= 623و_د</item>
+        <item>كالسيوم=    47م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي=  89.2م غ</item>
+        <item>حديد=   0.7م غ</item>
+        <item>فيتامين ب =  0.2 م غ</item>
+        <item>مغنسيوم=   21م غ</item>
+    </string-array>
+
+
+    <string-array name="cauliflower">
+
+        <item>سعرات حرارية=   24</item>
+        <item>دهن مشبع=   0.1غ</item>
+        <item>دهن عديد اللاتشبيع=       0غ</item>
+        <item>دهون احادية عدم التشبيع=         0غ</item>
+        <item>كاربوهيدرات=  4.97غ    </item>
+        <item>ماء=   92.7غ    </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        30م غ</item>
+        <item>بوتاسيوم=        299م غ</item>
+        <item>سكريات=    5غ</item>
+        <item>الياف غذائية=     2  غ</item>
+        <item>سكر=     1.9غ</item>
+        <item>بروتين=  1.9  غ</item>
+        <item>فيتامين الف= 0و_د</item>
+        <item>كالسيوم=    22م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي=  48.2م غ</item>
+        <item>حديد=   0.4م غ</item>
+        <item>فيتامين ب =  0.2 م غ</item>
+        <item>مغنسيوم=   15م غ</item>
+    </string-array>
+
+
+    <string-array name="celery">
+
+        <item>سعرات حرارية=   36</item>
+        <item>دهن مشبع=   0.1غ</item>
+        <item>دهن عديد اللاتشبيع=       0.1غ</item>
+        <item>دهون احادية عدم التشبيع=        0.3غ</item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        65م غ</item>
+        <item>بوتاسيوم=        554م غ</item>
+        <item>سكريات=    6غ</item>
+        <item>الياف غذائية=     3.3  غ</item>
+        <item>سكر=     0.9غ</item>
+        <item>بروتين=  3  غ</item>
+        <item>فيتامين الف= 24و_د</item>
+        <item>كالسيوم=    138م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي=  133م غ</item>
+        <item>حديد=   6.2م غ</item>
+        <item>فيتامين ب =  0.1 م غ</item>
+        <item>مغنسيوم=   50م غ</item>
+    </string-array>
+
+
+    <string-array name="cowpeanc">
+        <item>لسعرات الحرارية= 44</item>
+        <item>الدهون= 0.35</item>
+        <item>الدهون المشبعة= 0</item>
+        <item>الكاربوهيدرات= 9.85</item>
+        <item>الألياف= 4</item>
+        <item>البروتينات= 2.36</item>
+        <item>الكولسترول= 0</item>
+
+    </string-array>
+
+
+    <string-array name="ginger">
+
+        <item>سعرات حرارية=   79</item>
+        <item>دهن مشبع=   0.2غ</item>
+        <item>دهن عديد اللاتشبيع=      0.2غ</item>
+        <item>دهون احادية عدم التشبيع=         0.2غ</item>
+        <item>كاربوهيدرات=  17.77غ    </item>
+        <item>ماء=   78.89غ    </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        13م غ</item>
+        <item>بوتاسيوم=        415م غ</item>
+        <item>سكريات=    18غ</item>
+        <item>الياف غذائية=     2  غ</item>
+        <item>سكر=     1.7غ</item>
+        <item>بروتين=  1.8  غ</item>
+        <item>فيتامين الف= 0و_د</item>
+        <item>كالسيوم=    16م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي=  5م غ</item>
+        <item>حديد=   0.6م غ</item>
+        <item>فيتامين ب =  0.2 م غ</item>
+        <item>مغنسيوم=   43م غ</item>
+    </string-array>
+
+    <string-array name="hotpapper">
+
+        <item>سعرات حرارية=   39</item>
+        <item>دهن مشبع=   0غ</item>
+        <item>دهن عديد اللاتشبيع=      0.2غ</item>
+        <item>دهون احادية عدم التشبيع=         0غ</item>
+        <item>كاربوهيدرات=  8.80غ    </item>
+        <item>ماء=   88غ    </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        9م غ</item>
+        <item>بوتاسيوم=        322م غ</item>
+        <item>سكريات=    9غ</item>
+        <item>الياف غذائية=     1.5  غ</item>
+        <item>سكر=     5غ</item>
+        <item>بروتين=  1.9  غ</item>
+        <item>فيتامين الف= 952و_د</item>
+        <item>كالسيوم=    14م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي=  3.7م غ</item>
+        <item>حديد=   1م غ</item>
+        <item>فيتامين ب =  0.5 م غ</item>
+        <item>مغنسيوم=   23م غ</item>
+    </string-array>
+
+
+    <string-array name="peas">
+
+        <item>سعرات حرارية=  81</item>
+        <item>دهن مشبع=   0.1غ</item>
+        <item>دهن عديد اللاتشبيع=      0.2غ</item>
+        <item>دهون احادية عدم التشبيع=         0غ</item>
+        <item>كاربوهيدرات=  63.74غ    </item>
+        <item>ماء=  8.62غ    </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        5م غ</item>
+        <item>بوتاسيوم=        244م غ</item>
+        <item>سكريات=    14غ</item>
+        <item>الياف غذائية=     5  غ</item>
+        <item>سكر=     6غ</item>
+        <item>بروتين=  5  غ</item>
+        <item>فيتامين الف= 765و_د</item>
+        <item>كالسيوم=    25م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي=  40م غ</item>
+        <item>حديد=   1.5م غ</item>
+        <item>فيتامين ب =  0.2 م غ</item>
+        <item>مغنسيوم=   33م غ</item>
+    </string-array>
+
+
+    <string-array name="reedbeats">
+
+        <item>سعرات حرارية=  43</item>
+        <item>دهن مشبع=   0غ</item>
+        <item>دهن عديد اللاتشبيع=      0.1غ</item>
+        <item>دهون احادية عدم التشبيع=         0غ</item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        78م غ</item>
+        <item>بوتاسيوم=        325م غ</item>
+        <item>سكريات=    10غ</item>
+        <item>الياف غذائية=     2.8  غ</item>
+        <item>سكر=     7غ</item>
+        <item>بروتين=  1.6  غ</item>
+        <item>فيتامين الف= 33و_د</item>
+        <item>كالسيوم=    16م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي=  4.9م غ</item>
+        <item>حديد=   0.8م غ</item>
+        <item>فيتامين ب =  0.1 م غ</item>
+        <item>مغنسيوم=   23م غ</item>
+    </string-array>
+
+
+    <string-array name="pumpkin">
+
+        <item>سعرات حرارية=  26</item>
+        <item>دهن مشبع=   0.1غ</item>
+        <item>دهن عديد اللاتشبيع=      0غ</item>
+        <item>دهون احادية عدم التشبيع=         0غ</item>
+        <item>كاربوهيدرات=  8.59غ    </item>
+        <item>ماء=  89.76غ    </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        1م غ</item>
+        <item>بوتاسيوم=        340م غ</item>
+        <item>سكريات=    7غ</item>
+        <item>الياف غذائية=     0.5  غ</item>
+        <item>سكر=     2.8غ</item>
+        <item>بروتين=  1  غ</item>
+        <item>فيتامين الف= 13و_د</item>
+        <item>كالسيوم=    21م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي=  9م غ</item>
+        <item>حديد=   0.8م غ</item>
+        <item>فيتامين ب =  0.1 م غ</item>
+        <item>مغنسيوم=   12م غ</item>
+    </string-array>
+
+
+    <string-array name="Turnip">
+
+        <item>سعرات حرارية=  28</item>
+        <item>دهن مشبع=   0غ</item>
+        <item>دهن عديد اللاتشبيع=      0.1غ</item>
+        <item>دهون احادية عدم التشبيع=         0غ</item>
+        <item>كاربوهيدرات=  10غ    </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        67م غ</item>
+        <item>بوتاسيوم=        191م غ</item>
+        <item>سكريات=    6غ</item>
+        <item>الياف غذائية=     1.8  غ</item>
+        <item>سكر=     3.8غ</item>
+        <item>بروتين=  0.9  غ</item>
+        <item>فيتامين الف= 0و_د</item>
+        <item>كالسيوم=    30م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي=  21م غ</item>
+        <item>حديد=   0.3م غ</item>
+        <item>فيتامين ب =  0.1 م غ</item>
+        <item>مغنسيوم=   11م غ</item>
+    </string-array>
+
+
+    <string-array name="garlic">
+
+    <item>    السعرات الحرارية=149   </item>
+    <item>     الكاربوهيدرات=33.6غ</item>
+    <item>    السكر=1غ</item>
+    <item>    الياف غذائية=2.1غ</item>
+    <item>    بروتين=6.36غ</item>
+    <item>    دهون=0.5غ</item>
+    <item>    فيتامين بي=1.235م غ</item>
+    <item>    كالسيوم=181م غ</item>
+    <item>    حديد=1.7م غ</item>
+    <item>   مغنسيوم=25م غ </item>
+    <item>    بوتاسيوم=401م غ</item>
+    <item>    صوديوم=17م غ</item>
+
+</string-array>
+
+
+    <string-array name="spinach">
+
+        <item>    السعرات الحرارية=23   </item>
+        <item>     الكاربوهيدرات=3.6غ</item>
+        <item>      ماء =   91.4غ   </item>
+        <item>    السكر=0.4غ</item>
+        <item>    الياف غذائية=2.2غ</item>
+        <item>    بروتين=2.9غ</item>
+        <item>    دهون=0.4غ</item>
+        <item>    فيتامين بي=0.195م غ</item>
+        <item>    كالسيوم=99م غ</item>
+        <item>    حديد=2.71م غ</item>
+        <item>   مغنسيوم=79م غ </item>
+        <item>    بوتاسيوم=558م غ</item>
+        <item>    صوديوم=79م غ</item>
+
+
+    </string-array>
+
+    <string-array name="cucumber">
+
+        <item> سعرات حرارية=15   </item>
+        <item>بروتين= 650م غ  </item>
+        <item>بوتاسيوم= 147م غ  </item>
+        <item> دهون= 110م غ  </item>
+        <item>كالسيوم= 16م غ  </item>
+        <item>ماء= 95.23م غ  </item>
+        <item> كاربوهيدرات= 3.63g  </item>
+        <item> الياف=0.5غ   </item>
+        <item> سكريات=1.67غ   </item>
+        <item>صوديوم=2م غ   </item>
+        <item> حديد=0.28 م غ   </item>
+        <item> مغنسيوم=13م غ   </item>
+
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string-array name="fish">
+
+        <item>سعرات حرارية=  205</item>
+        <item>دهن مشبع=   2.5غ</item>
+        <item>دهن عديد اللاتشبيع=      4.4غ</item>
+        <item>دهون احادية عدم التشبيع=         4.4غ</item>
+        <item>كولسترول=         63م غ</item>
+        <item>صوديوم=        61م غ</item>
+        <item>بوتاسيوم=        384م غ</item>
+        <item>سكريات=    0غ</item>
+        <item>الياف غذائية=     0  غ</item>
+        <item>بروتين=  22  غ</item>
+        <item>فيتامين الف= 50و_د</item>
+        <item>كالسيوم=    15م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي=  3.7م غ</item>
+        <item>حديد=   0.3م غ</item>
+        <item>فيتامين ب =  0.6 م غ</item>
+        <item>مغنسيوم=   30م غ</item>
+    </string-array>
+
+
+    <string-array name="chicken">
+
+        <item>سعرات حرارية=  239</item>
+        <item>دهن مشبع=   3.8غ</item>
+        <item>دهن عديد اللاتشبيع=      3غ</item>
+        <item>دهون احادية عدم التشبيع=         5غ</item>
+        <item>كولسترول=         88م غ</item>
+        <item>صوديوم=        82م غ</item>
+        <item>بوتاسيوم=        223م غ</item>
+        <item>سكريات=    0غ</item>
+        <item>الياف غذائية=     0  غ</item>
+        <item>بروتين=  27  غ</item>
+        <item>فيتامين الف= 161و_د</item>
+        <item>كالسيوم=    15م غ</item>
+        <item>فيتامين دي=   2و_د</item>
+        <item>فيتامين سي=  0م غ</item>
+        <item>حديد=   1.3م غ</item>
+        <item>فيتامين ب =  0.4 م غ</item>
+        <item>مغنسيوم=  23م غ</item>
+    </string-array>
+
+
+    <string-array name="beef">
+
+        <item>سعرات حرارية=  250</item>
+        <item>دهن مشبع=   6غ</item>
+        <item>دهن عديد اللاتشبيع=      0.5غ</item>
+        <item>دهون احادية عدم التشبيع=         7غ</item>
+        <item>كولسترول=         90م غ</item>
+        <item>صوديوم=        72م غ</item>
+        <item>بوتاسيوم=        318م غ</item>
+        <item>سكريات=    0غ</item>
+        <item>الياف غذائية=     0  غ</item>
+        <item>بروتين=  26  غ</item>
+        <item>فيتامين الف= 0و_د</item>
+        <item>كالسيوم=    18م غ</item>
+        <item>فيتامين دي=   7و_د</item>
+        <item>فيتامين سي=  0م غ</item>
+        <item>حديد=   2.6م غ</item>
+        <item>فيتامين ب =  0.4 م غ</item>
+        <item>مغنسيوم=  21م غ</item>
+    </string-array>
+
+
+    <string-array name="beefveal">
+
+        <item>سعرات حرارية=  172</item>
+        <item>دهن مشبع=   3غ</item>
+        <item>دهن عديد اللاتشبيع=      0.6غ</item>
+        <item>دهون احادية عدم التشبيع=         2.8غ</item>
+        <item>كولسترول=         103م غ</item>
+        <item>صوديوم=        83م غ</item>
+        <item>بوتاسيوم=        337م غ</item>
+        <item>سكريات=    0غ</item>
+        <item>الياف غذائية=     0  غ</item>
+        <item>بروتين=  24  غ</item>
+        <item>فيتامين الف= 0و_د</item>
+        <item>كالسيوم=    17م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي=  0م غ</item>
+        <item>حديد=   1م غ</item>
+        <item>فيتامين ب =  0.4 م غ</item>
+        <item>مغنسيوم=  24م غ</item>
+    </string-array>
+
+
+    <string-array name="dearmeat">
+
+        <item>سعرات حرارية=  158</item>
+        <item>دهن مشبع=   1.3غ</item>
+        <item>دهن عديد اللاتشبيع=      0.6غ</item>
+        <item>دهون احادية عدم التشبيع=         0.9غ</item>
+        <item>كولسترول=         112م غ</item>
+        <item>صوديوم=        54م غ</item>
+        <item>بوتاسيوم=        335م غ</item>
+        <item>سكريات=    0غ</item>
+        <item>الياف غذائية=     0  غ</item>
+        <item>بروتين=  30  غ</item>
+        <item>فيتامين الف= 0و_د</item>
+        <item>كالسيوم=    7م غ</item>
+        <item>فيتامين سي=  0م غ</item>
+        <item>حديد=   4.5م غ</item>
+        <item>مغنسيوم=  24م غ</item>
+    </string-array>
+
+
+    <string-array name="shapemeat">
+
+        <item>سعرات حرارية=  294</item>
+        <item>دهن مشبع=   9غ</item>
+        <item>دهن عديد اللاتشبيع=      1.5غ</item>
+        <item>دهون احادية عدم التشبيع=         9غ</item>
+        <item>كولسترول=         97م غ</item>
+        <item>صوديوم=        72م غ</item>
+        <item>بوتاسيوم=        310م غ</item>
+        <item>سكريات=    0غ</item>
+        <item>الياف غذائية=     0  غ</item>
+        <item>بروتين=  25  غ</item>
+        <item>فيتامين الف= 0و_د</item>
+        <item>كالسيوم=    17م غ</item>
+        <item>فيتامين دي=  2و_د</item>
+        <item>فيتامين سي=  0م غ</item>
+        <item>حديد=   1.9م غ</item>
+        <item>فيتامين ب =  0.1 م غ</item>
+        <item>مغنسيوم=  23م غ</item>
+    </string-array>
+
+
+    <string-array name="turkeymeat">
+
+        <item>سعرات حرارية=  188</item>
+        <item>دهن مشبع=   2.2غ</item>
+        <item>دهن عديد اللاتشبيع=      2.1غ</item>
+        <item>دهون احادية عدم التشبيع=         2.6غ</item>
+        <item>كولسترول=         109م غ</item>
+        <item>صوديوم=        103م غ</item>
+        <item>بوتاسيوم=        239م غ</item>
+        <item>سكريات=    0.1غ</item>
+        <item>الياف غذائية=     0  غ</item>
+        <item>بروتين=  29  غ</item>
+        <item>فيتامين الف= 39و_د</item>
+        <item>كالسيوم=    14م غ</item>
+        <item>فيتامين دي=  15و_د</item>
+        <item>فيتامين سي=  0م غ</item>
+        <item>حديد=   1.1م غ</item>
+        <item>فيتامين ب =  0.6 م غ</item>
+        <item>مغنسيوم= 30م غ</item>
+    </string-array>
+
+
+    <string-array name="ostrichmeat">
+
+        <item>سعرات حرارية=  144</item>
+        <item>دهن مشبع=   1غ</item>
+        <item>دهن عديد اللاتشبيع=      0.4غ</item>
+        <item>دهون احادية عدم التشبيع=         1غ</item>
+        <item>كولسترول=         85م غ</item>
+        <item>صوديوم=        80م غ</item>
+        <item>بوتاسيوم=        362م غ</item>
+        <item>سكريات=    0غ</item>
+        <item>الياف غذائية=     0  غ</item>
+        <item>بروتين=  28  غ</item>
+        <item>فيتامين الف= 0و_د</item>
+        <item>كالسيوم=    6م غ</item>
+        <item>فيتامين سي=  0م غ</item>
+        <item>حديد=   2.8م غ</item>
+        <item>فيتامين ب =  0.5 م غ</item>
+        <item>مغنسيوم= 25م غ</item>
+    </string-array>
+
+
+    <string-array name="quailmeat">
+
+        <item>سعرات حرارية=  227</item>
+        <item>دهن مشبع=   4غ</item>
+        <item>دهن عديد اللاتشبيع=      3.5غ</item>
+        <item>دهون احادية عدم التشبيع=         4.9غ</item>
+        <item>كولسترول=         86م غ</item>
+        <item>صوديوم=        52م غ</item>
+        <item>بوتاسيوم=        216م غ</item>
+        <item>سكريات=    0غ</item>
+        <item>الياف غذائية=     0  غ</item>
+        <item>بروتين=  25  غ</item>
+        <item>فيتامين الف= 234و_د</item>
+        <item>كالسيوم=    15م غ</item>
+        <item>فيتامين دي=  8و_د</item>
+        <item>فيتامين سي=  2.3م غ</item>
+        <item>حديد=  4.4 م غ</item>
+        <item>فيتامين ب =  0.6 م غ</item>
+        <item>مغنسيوم= 22م غ</item>
+    </string-array>
+
+
+
+    <string-array name="Hamberger">
+
+        <item>سعرات حرارية=  294</item>
+        <item>دهن مشبع=   5غ</item>
+        <item>دهن عديد اللاتشبيع=      0.4غ</item>
+        <item>دهون احادية عدم التشبيع=         5غ</item>
+        <item>كولسترول=         47م غ</item>
+        <item>صوديوم=        414م غ</item>
+        <item>بوتاسيوم=        226م غ</item>
+        <item>سكريات=    24غ</item>
+        <item>الياف غذائية=     0.9  غ</item>
+        <item>بروتين=  17  غ</item>
+        <item>فيتامين الف= 0و_د</item>
+        <item>كالسيوم=    102م غ</item>
+        <item>فيتامين دي=  0.2و_د</item>
+        <item>فيتامين سي=  0م غ</item>
+        <item>حديد=  2.9 م غ</item>
+        <item>مغنسيوم= 20م غ</item>
+    </string-array>
+
+
+
+
+    <string-array name="Chickenthighs">
+
+        <item>سعرات حرارية=  177</item>
+        <item>دهن مشبع=   2.3غ</item>
+        <item>دهن عديد اللاتشبيع=      1.6غ</item>
+        <item>دهون احادية عدم التشبيع=         3.4غ</item>
+        <item>كولسترول=         135م غ</item>
+        <item>صوديوم=        87م غ</item>
+        <item>بوتاسيوم=        277م غ</item>
+        <item>سكريات=    0غ</item>
+        <item>الياف غذائية=     0  غ</item>
+        <item>بروتين=  24  غ</item>
+        <item>فيتامين الف= 27و_د</item>
+        <item>كالسيوم=    10م غ</item>
+        <item>فيتامين دي=  7و_د</item>
+        <item>فيتامين سي=  0م غ</item>
+        <item>حديد=  1.1 م غ</item>
+        <item>مغنسيوم= 24م غ</item>
+    </string-array>
+
+
+
+    <string-array name="Chickenbreast">
+
+        <item>سعرات حرارية=  164</item>
+        <item>دهن مشبع=   1غ</item>
+        <item>دهن عديد اللاتشبيع=      0.8غ</item>
+        <item>دهون احادية عدم التشبيع=         1.2غ</item>
+        <item>كولسترول=         85م غ</item>
+        <item>صوديوم=        74م غ</item>
+        <item>بوتاسيوم=        256م غ</item>
+        <item>سكريات=    0غ</item>
+        <item>الياف غذائية=     0  غ</item>
+        <item>بروتين=  31  غ</item>
+        <item>فيتامين الف= 21و_د</item>
+        <item>كالسيوم=    15م غ</item>
+        <item>فيتامين دي=  5و_د</item>
+        <item>فيتامين سي=  0م غ</item>
+        <item>حديد=  1 م غ</item>
+        <item>مغنسيوم= 29م غ</item>
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string-array name="tea">
+
+        <item>سعرات حرارية=  1</item>
+        <item>دهن مشبع=   0غ</item>
+        <item>دهن عديد اللاتشبيع=      0غ</item>
+        <item>دهون احادية عدم التشبيع=         0غ</item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        4م غ</item>
+        <item>بوتاسيوم=        18م غ</item>
+        <item>سكريات=    0.2غ</item>
+        <item>الياف غذائية=     0  غ</item>
+        <item>سكر=     0غ</item>
+        <item>بروتين=  0.1  غ</item>
+        <item>      كافيين=    11م غ</item>
+        <item>فيتامين الف= 0و_د</item>
+        <item>كالسيوم=    3م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي=0  م غ</item>
+        <item>حديد=   0م غ</item>
+        <item>فيتامين ب =  0 م غ</item>
+        <item>مغنسيوم=   2م غ</item>
+    </string-array>
+
+
+    <string-array name="coffee">
+
+        <item>سعرات حرارية=  0</item>
+        <item>دهن مشبع=   0غ</item>
+        <item>دهن عديد اللاتشبيع=      0غ</item>
+        <item>دهون احادية عدم التشبيع=         0غ</item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        2م غ</item>
+        <item>بوتاسيوم=        49م غ</item>
+        <item>سكريات=    0غ</item>
+        <item>الياف غذائية=     0  غ</item>
+        <item>سكر=     0غ</item>
+        <item>بروتين=  0.1  غ</item>
+        <item>      كافيين=    40م غ</item>
+        <item>فيتامين الف= 0و_د</item>
+        <item>كالسيوم=    2م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي= 0 م غ</item>
+        <item>حديد=   0م غ</item>
+        <item>فيتامين ب =  0 م غ</item>
+        <item>مغنسيوم=   3م غ</item>
+    </string-array>
+
+
+
+    <string-array name="water">
+
+        <item>سعرات حرارية=  0</item>
+        <item>صوديوم=        5م غ</item>
+        <item>سكريات=    0غ</item>
+        <item>الياف غذائية=     0  غ</item>
+        <item>بروتين=  0  غ</item>
+        <item>كالسيوم=   3م غ</item>
+        <item>حديد=   0م غ</item>
+        <item>مغنسيوم=   1م غ</item>
+    </string-array>
+
+
+
+    <string-array name="orangejuice">
+
+        <item>سعرات حرارية=  44</item>
+        <item>دهن مشبع=   0غ</item>
+        <item>دهن عديد اللاتشبيع=      0غ</item>
+        <item>دهون احادية عدم التشبيع=         0غ</item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        1م غ</item>
+        <item>بوتاسيوم=        200م غ</item>
+        <item>سكريات=    10غ</item>
+        <item>الياف غذائية=     0.2  غ</item>
+        <item>سكر=     8غ</item>
+        <item>بروتين=  0.7  غ</item>
+        <item>فيتامين الف= 200و_د</item>
+        <item>كالسيوم=    11م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي= 50 م غ</item>
+        <item>حديد=   0.2م غ</item>
+        <item>فيتامين ب =  0 م غ</item>
+        <item>مغنسيوم=   11م غ</item>
+    </string-array>
+
+
+    <string-array name="Applejuice">
+
+        <item>سعرات حرارية=  45</item>
+        <item>دهن مشبع=   0غ</item>
+        <item>دهن عديد اللاتشبيع=      0غ</item>
+        <item>دهون احادية عدم التشبيع=         0غ</item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        4م غ</item>
+        <item>بوتاسيوم=        101م غ</item>
+        <item>سكريات=    11غ</item>
+        <item>الياف غذائية=     0.2  غ</item>
+        <item>سكر=     10غ</item>
+        <item>بروتين=  0.1  غ</item>
+        <item>فيتامين الف= 1و_د</item>
+        <item>كالسيوم=    8م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي= 0.9 م غ</item>
+        <item>حديد=   0.1م غ</item>
+        <item>فيتامين ب =  0 م غ</item>
+        <item>مغنسيوم=   5م غ</item>
+    </string-array>
+
+
+    <string-array name="lemonejuice">
+
+        <item>سعرات حرارية=  21</item>
+        <item>دهن مشبع=   0غ</item>
+        <item>دهن عديد اللاتشبيع=      0غ</item>
+        <item>دهون احادية عدم التشبيع=         0غ</item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        1م غ</item>
+        <item>بوتاسيوم=        103م غ</item>
+        <item>سكريات=    7غ</item>
+        <item>الياف غذائية=     0.3  غ</item>
+        <item>سكر=     2.5غ</item>
+        <item>بروتين=  0.4  غ</item>
+        <item>فيتامين الف= 6و_د</item>
+        <item>كالسيوم=    6م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي= 38.7 م غ</item>
+        <item>حديد=   0.1م غ</item>
+        <item>فيتامين ب =  0 م غ</item>
+        <item>مغنسيوم=   6م غ</item>
+    </string-array>
+
+
+
+
+
+
+    <string-array name="Grapejuice">
+
+        <item>سعرات حرارية=  60</item>
+        <item>دهن مشبع=   0غ</item>
+        <item>دهن عديد اللاتشبيع=      0غ</item>
+        <item>دهون احادية عدم التشبيع=         0غ</item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        5م غ</item>
+        <item>بوتاسيوم=        104م غ</item>
+        <item>سكريات=    15غ</item>
+        <item>الياف غذائية=     0.2  غ</item>
+        <item>سكر=     14غ</item>
+        <item>بروتين=  0.4  غ</item>
+        <item>فيتامين الف= 8و_د</item>
+        <item>كالسيوم=    11م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي= 0.1 م غ</item>
+        <item>حديد=   0.3م غ</item>
+        <item>فيتامين ب =  0 م غ</item>
+        <item>مغنسيوم=   10م غ</item>
+    </string-array>
+
+
+
+    <string-array name="Pineapplejuice">
+
+        <item>سعرات حرارية=  60</item>
+        <item>دهن مشبع=   0غ</item>
+        <item>دهن عديد اللاتشبيع=      0غ</item>
+        <item>دهون احادية عدم التشبيع=         0غ</item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        1م غ</item>
+        <item>بوتاسيوم=        124م غ</item>
+        <item>سكريات=    16غ</item>
+        <item>الياف غذائية=     1.3  غ</item>
+        <item>سكر=     14غ</item>
+        <item>بروتين=  0.5  غ</item>
+        <item>فيتامين الف= 50و_د</item>
+        <item>كالسيوم=    16م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي= 9.4 م غ</item>
+        <item>حديد=   0.3م غ</item>
+        <item>فيتامين ب = 0.1 م غ</item>
+        <item>مغنسيوم=  15م غ</item>
+    </string-array>
+
+    <string-array name="Pomegranatejuic">
+
+        <item>سعرات حرارية=  54</item>
+        <item>دهن مشبع=   0.1غ</item>
+        <item>دهن عديد اللاتشبيع=      0.1غ</item>
+        <item>دهون احادية عدم التشبيع=        0.1غ</item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        9م غ</item>
+        <item>بوتاسيوم=        214م غ</item>
+        <item>سكريات=    13غ</item>
+        <item>الياف غذائية=     0.1  غ</item>
+        <item>سكر=    13غ</item>
+        <item>بروتين=  0.2  غ</item>
+        <item>فيتامين الف= 0و_د</item>
+        <item>كالسيوم=    11م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي= 0.1 م غ</item>
+        <item>حديد=   0.1م غ</item>
+        <item>فيتامين ب =  0 م غ</item>
+        <item>مغنسيوم=   7م غ</item>
+    </string-array>
+
+
+    <string-array name="Alchool">
+
+        <item>سعرات حرارية=  326</item>
+        <item>دهن مشبع=   0.1غ</item>
+        <item>دهن عديد اللاتشبيع=      0.1غ</item>
+        <item>دهون احادية عدم التشبيع=         0غ</item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        8م غ</item>
+        <item>بوتاسيوم=        30م غ</item>
+        <item>سكريات=    47غ</item>
+        <item>الياف غذائية=     0  غ</item>
+        <item>سكر=    46غ</item>
+        <item>بروتين=  0.1  غ</item>
+        <item>      كافيين=    26م غ</item>
+        <item>فيتامين الف= 0و_د</item>
+        <item>كالسيوم=    1م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي= 0 م غ</item>
+        <item>حديد=   0.1م غ</item>
+        <item>فيتامين ب =  0 م غ</item>
+        <item>مغنسيوم=   3م غ</item>
+    </string-array>
+
+
+    <string-array name="Icecream">
+
+        <item>سعرات حرارية=  207</item>
+        <item>دهن مشبع=   7غ</item>
+        <item>دهن عديد اللاتشبيع=      0.5غ</item>
+        <item>دهون احادية عدم التشبيع=        3غ</item>
+        <item>كولسترول=         44م غ</item>
+        <item>صوديوم=        80م غ</item>
+        <item>بوتاسيوم=        199م غ</item>
+        <item>سكريات=    24غ</item>
+        <item>الياف غذائية=     0.7  غ</item>
+        <item>سكر=    21غ</item>
+        <item>بروتين=  3.5  غ</item>
+        <item>فيتامين الف= 421و_د</item>
+        <item>كالسيوم=    128م غ</item>
+        <item>فيتامين دي=   8و_د</item>
+        <item>فيتامين سي= 0.6 م غ</item>
+        <item>حديد=   0.1م غ</item>
+        <item>فيتامين ب =  0 م غ</item>
+        <item>مغنسيوم=   14م غ</item>
+    </string-array>
+
+
+    <string-array name="Tomatojuice">
+
+        <item>سعرات حرارية=  17</item>
+        <item>دهن مشبع=   0غ</item>
+        <item>دهن عديد اللاتشبيع=      0غ</item>
+        <item>دهون احادية عدم التشبيع=        0غ</item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        10م غ</item>
+        <item>بوتاسيوم=        229م غ</item>
+        <item>سكريات=    4.2غ</item>
+        <item>الياف غذائية=     0.4  غ</item>
+        <item>سكر=    3.6غ</item>
+        <item>بروتين=  0.8  غ</item>
+        <item>فيتامين الف= 450و_د</item>
+        <item>كالسيوم=    10م غ</item>
+        <item>فيتامين دي=   8و_د</item>
+        <item>فيتامين سي= 18.3 م غ</item>
+        <item>حديد=   0.4م غ</item>
+        <item>فيتامين ب =  0.1 م غ</item>
+        <item>مغنسيوم=   11م غ</item>
+    </string-array>
+
+
+    <string-array name="Carrotjuice">
+
+        <item>سعرات حرارية=  39</item>
+        <item>دهن مشبع=   0غ</item>
+        <item>دهن عديد اللاتشبيع=      0.1غ</item>
+        <item>دهون احادية عدم التشبيع=        0غ</item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        66م غ</item>
+        <item>بوتاسيوم=        292م غ</item>
+        <item>سكريات=    9غ</item>
+        <item>الياف غذائية=     0.8  غ</item>
+        <item>سكر=    3.9غ</item>
+        <item>بروتين=  1  غ</item>
+        <item>فيتامين الف= 24و_د</item>
+        <item>كالسيوم=    24م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي= 8.5 م غ</item>
+        <item>حديد=   0.5م غ</item>
+        <item>فيتامين ب =  0.2 م غ</item>
+        <item>مغنسيوم=   14م غ</item>
+    </string-array>
+
+
+
+
+
+    <string-array name="Hotchclate">
+
+        <item>سعرات حرارية=  77</item>
+        <item>دهن مشبع=   1.4غ</item>
+        <item>دهن عديد اللاتشبيع=      0.1غ</item>
+        <item>دهون احادية عدم التشبيع=         0.7غ</item>
+        <item>كولسترول=         8م غ</item>
+        <item>صوديوم=        44م غ</item>
+        <item>بوتاسيوم=        197م غ</item>
+        <item>سكريات=    11غ</item>
+        <item>الياف غذائية=     1  غ</item>
+        <item>سكر=     10غ</item>
+        <item>بروتين=  3.5  غ</item>
+        <item>      كافيين=    2م غ</item>
+        <item>فيتامين الف=176و_د</item>
+        <item>كالسيوم=    114م غ</item>
+        <item>فيتامين دي=   45و_د</item>
+        <item>فيتامين سي= 0.2 م غ</item>
+        <item>حديد=   0.4م غ</item>
+        <item>فيتامين ب =  0 م غ</item>
+        <item>مغنسيوم=   23م غ</item>
+    </string-array>
+
+
+
+    <string-array name="Cola">
+
+        <item>سعرات حرارية=  37</item>
+        <item>دهن مشبع=   0غ</item>
+        <item>دهن عديد اللاتشبيع=      0غ</item>
+        <item>دهون احادية عدم التشبيع=         0غ</item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        4م غ</item>
+        <item>بوتاسيوم=        2م غ</item>
+        <item>سكريات=    10غ</item>
+        <item>الياف غذائية=     0  غ</item>
+        <item>سكر=     9غ</item>
+        <item>بروتين=  0.1  غ</item>
+        <item>      كافيين=    8م غ</item>
+        <item>فيتامين الف=0و_د</item>
+        <item>كالسيوم=    2م غ</item>
+        <item>فيتامين دي=   45و_د</item>
+        <item>فيتامين سي= 0 م غ</item>
+        <item>حديد=   0.1م غ</item>
+        <item>فيتامين ب =  0 م غ</item>
+        <item>مغنسيوم=  0م غ</item>
+    </string-array>
+
+
+
+    <string-array name="Redbull">
+
+        <item>سعرات حرارية=  45</item>
+        <item>دهن مشبع=   0غ</item>
+        <item>دهن عديد اللاتشبيع=      0غ</item>
+        <item>دهون احادية عدم التشبيع=         0غ</item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        38م غ</item>
+        <item>بوتاسيوم=        3م غ</item>
+        <item>سكريات=    11غ</item>
+        <item>الياف غذائية=     0  غ</item>
+        <item>سكر=     10غ</item>
+        <item>بروتين=  0.3  غ</item>
+        <item>      كافيين=    30م غ</item>
+        <item>فيتامين الف=0و_د</item>
+        <item>كالسيوم=    13م غ</item>
+        <item>فيتامين دي=   0و_د</item>
+        <item>فيتامين سي= 0 م غ</item>
+        <item>حديد=   0م غ</item>
+        <item>فيتامين ب =  2 م غ</item>
+        <item>مغنسيوم=  3م غ</item>
+    </string-array>
+
+
+
+    <string-array name="Cappuccino">
+
+        <item>سعرات حرارية=  76</item>
+        <item>دهون=   4غ</item>
+        <item>كولسترول=        17م غ</item>
+        <item>صوديوم=        61م غ</item>
+        <item>بروتين=  4  غ</item>
+        <item>      كافيين=    77م غ</item>
+        <item>     الكاربوهيدرات=   6غ</item>
+    </string-array>
+
+
+
+    <string-array name="Molasses">
+
+        <item>سعرات حرارية=  290</item>
+        <item>دهون=   0غ</item>
+        <item>كولسترول=        0م غ</item>
+        <item>الدهون المشبعة=        0م غ</item>
+        <item>بروتين=  0  غ</item>
+        <item>      الالياف=   0م غ</item>
+        <item>     الكاربوهيدرات=   74.75غ</item>
+    </string-array>
+
+
+
+    <string-array name="Mangojuice">
+        <item>سعرات حرارية=  128</item>
+        <item>صوديوم=        13 غ</item>
+        <item>بوتاسيوم=        61 غ</item>
+        <item>كالسيوم=    43 غ</item>
+        <item>حديد=   0م غ</item>
+        <item>فسفور =  5  غ</item>
+        <item>مغنسيوم=  8 غ</item>
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string-array name="wheat">
+
+        <item>سعرات حرارية=  337</item>
+        <item>دهن مشبع=   0.4غ</item>
+        <item>دهن عديد اللاتشبيع=      1.3غ</item>
+        <item>دهون احادية عدم التشبيع=        0.4غ</item>
+        <item>     الكاربوهيدرات=71.13غ</item>
+        <item>      ماء =   91.94غ   </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        8م غ</item>
+        <item>بوتاسيوم=        388م غ</item>
+        <item>سكريات=    70غ</item>
+        <item>الياف غذائية=     11  غ</item>
+        <item>سكر=    7غ</item>
+        <item>بروتين=  15  غ</item>
+        <item>فيتامين الف= 10و_د</item>
+        <item>كالسيوم=    27م غ</item>
+        <item>فيتامين سي= 0 م غ</item>
+        <item>حديد=   4.4م غ</item>
+        <item>فيتامين ب =  0.2 م غ</item>
+        <item>مغنسيوم=   136م غ</item>
+    </string-array>
+
+
+    <string-array name="Barley">
+
+        <item>سعرات حرارية=  354</item>
+        <item>دهن مشبع=   0.5غ</item>
+        <item>دهن عديد اللاتشبيع=      1.1غ</item>
+        <item>دهون احادية عدم التشبيع=        0.3غ</item>
+        <item>     الكاربوهيدرات=77.72غ</item>
+        <item>      ماء =   10.9غ   </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        12م غ</item>
+        <item>بوتاسيوم=        452م غ</item>
+        <item>سكريات=    73غ</item>
+        <item>الياف غذائية=     17  غ</item>
+        <item>سكر=    0.8غ</item>
+        <item>بروتين=  12  غ</item>
+        <item>فيتامين الف= 22و_د</item>
+        <item>كالسيوم=    33م غ</item>
+        <item>فيتامين سي= 0 م غ</item>
+        <item>حديد=   3.6م غ</item>
+        <item>فيتامين ب =  0.3 م غ</item>
+        <item>مغنسيوم=   133م غ</item>
+    </string-array>
+
+
+    <string-array name="Millet">
+
+        <item>سعرات حرارية=  378</item>
+        <item>دهون=  4.22 غ</item>
+        <item>     الكاربوهيدرات=72.85غ</item>
+        <item>      ماء =   8.67غ   </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        15م غ</item>
+        <item>بوتاسيوم=        195م غ</item>
+        <item>الياف غذائية=     8.5  غ</item>
+        <item>بروتين=  11.2  غ</item>
+        <item>فيتامين الف= 0و_د</item>
+        <item>كالسيوم=    8م غ</item>
+        <item>فيتامين سي= 0 م غ</item>
+        <item>حديد=   3م غ</item>
+        <item>فيتامين ب =  0.384 م غ</item>
+        <item>مغنسيوم=   114م غ</item>
+    </string-array>
+
+
+
+    <string-array name="Sunflower">
+
+        <item>سعرات حرارية=  584</item>
+        <item>دهون=  51 غ</item>
+        <item>     الكاربوهيدرات=20غ</item>
+        <item>      ماء =   4.73غ   </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        9م غ</item>
+        <item>بوتاسيوم=        645م غ</item>
+        <item>الياف غذائية=     9  غ</item>
+        <item>بروتين=  21  غ</item>
+        <item>فيتامين الف= 50و_د</item>
+        <item>كالسيوم=    78م غ</item>
+        <item>فيتامين سي= 1.4 م غ</item>
+        <item>حديد=   5.3م غ</item>
+        <item>فيتامين ب =  1.3 م غ</item>
+        <item>مغنسيوم=   325م غ</item>
+    </string-array>
+
+
+    <string-array name="Corn">
+
+        <item>لسعرات الحرارية= 86 </item>
+        <item>الدهون= 1.35غ </item>
+        <item> الكربوهيدرات= 18.7غ</item>
+        <item> الألياف= 2غ</item>
+        <item>  السكر= 6.26غ</item>
+        <item>  البروتينات= 3.27غ</item>
+
+    </string-array>
+
+
+    <string-array name="Groats">
+
+        <item>سعرات حرارية=  342</item>
+        <item>دهن مشبع=   0.2غ</item>
+        <item>دهن عديد اللاتشبيع=      0.5غ</item>
+        <item>دهون احادية عدم التشبيع=        0.2غ</item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        17م غ</item>
+        <item>بوتاسيوم=        410م غ</item>
+        <item>سكريات=    76غ</item>
+        <item>الياف غذائية=     18  غ</item>
+        <item>سكر=    0.4غ</item>
+        <item>بروتين=  12  غ</item>
+        <item>فيتامين الف= 9و_د</item>
+        <item>كالسيوم=    35م غ</item>
+        <item>فيتامين سي= 0 م غ</item>
+        <item>حديد=   2.5م غ</item>
+        <item>فيتامين ب =  0.3 م غ</item>
+        <item>مغنسيوم=   164م غ</item>
+    </string-array>
+
+    <string-array name="Rise">
+    <item>سعرات حرارية=  130</item>
+    <item>دهن مشبع=   0.1غ</item>
+    <item>دهن عديد اللاتشبيع=      0.1غ</item>
+    <item>دهون احادية عدم التشبيع=        0.1غ</item>
+    <item>     الكاربوهيدرات=80غ</item>
+    <item>      ماء =   11.62غ   </item>
+    <item>كولسترول=         0م غ</item>
+    <item>صوديوم=        1م غ</item>
+    <item>بوتاسيوم=        35م غ</item>
+    <item>سكريات=    28غ</item>
+    <item>الياف غذائية=     0.4  غ</item>
+    <item>سكر=    0.81غ</item>
+    <item>بروتين=  2.7  غ</item>
+    <item>فيتامين الف= 0و_د</item>
+    <item>كالسيوم=    10م غ</item>
+    <item>فيتامين سي= 0 م غ</item>
+    <item>حديد=   0.2م غ</item>
+    <item>فيتامين ب =  0.1 م غ</item>
+    <item>مغنسيوم=   12م غ</item>
+</string-array>
+
+    <string-array name="Spaghetti">
+        <item>سعرات حرارية=  131</item>
+        <item>دهن مشبع=   0.2غ</item>
+        <item>دهن عديد اللاتشبيع=      0.4غ</item>
+        <item>دهون احادية عدم التشبيع=        0.1غ</item>
+        <item>كولسترول=        33م غ</item>
+        <item>صوديوم=        6م غ</item>
+        <item>بوتاسيوم=        24م غ</item>
+        <item>سكريات=    25غ</item>
+        <item>بروتين=  5  غ</item>
+        <item>فيتامين الف= 20و_د</item>
+        <item>كالسيوم=    6م غ</item>
+        <item>فيتامين سي= 0 م غ</item>
+        <item>حديد=   1.1م غ</item>
+        <item>فيتامين ب =  0 م غ</item>
+        <item>مغنسيوم=   18م غ</item>
+    </string-array>
+
+
+    <string-array name="Sesame">
+        <item>سعرات حرارية=  572</item>
+        <item>دهن مشبع=   7غ</item>
+        <item>دهن عديد اللاتشبيع=      22غ</item>
+        <item>دهون احادية عدم التشبيع=        19غ</item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        11م غ</item>
+        <item>بوتاسيوم=        468م غ</item>
+        <item>سكريات=    23غ</item>
+        <item>الياف غذائية=     12  غ</item>
+        <item>سكر=    0.3غ</item>
+        <item>بروتين=  18  غ</item>
+        <item>فيتامين الف= 9و_د</item>
+        <item>كالسيوم=    975م غ</item>
+        <item>فيتامين سي= 0 م غ</item>
+        <item>حديد=   14.6م غ</item>
+        <item>فيتامين ب =  0.8 م غ</item>
+        <item>مغنسيوم=   351م غ</item>
+    </string-array>
+
+
+    <string-array name="Blackpepper">
+        <item>سعرات حرارية=  251</item>
+        <item>دهن مشبع=   1.4غ</item>
+        <item>دهن عديد اللاتشبيع=      1غ</item>
+        <item>دهون احادية عدم التشبيع=        0.7غ</item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        20م غ</item>
+        <item>بوتاسيوم=        1329م غ</item>
+        <item>سكريات=    64غ</item>
+        <item>الياف غذائية=     25  غ</item>
+        <item>سكر=    0.6غ</item>
+        <item>بروتين=  10  غ</item>
+        <item>فيتامين الف= 547و_د</item>
+        <item>كالسيوم=    443م غ</item>
+        <item>فيتامين سي= 0 م غ</item>
+        <item>حديد=   9.7م غ</item>
+        <item>فيتامين ب =  0.3 م غ</item>
+        <item>مغنسيوم=   171م غ</item>
+    </string-array>
+
+
+
+
+    <string-array name="Cardamom">
+        <item>سعرات حرارية=  311</item>
+        <item>دهن مشبع=   0.7غ</item>
+        <item>دهن عديد اللاتشبيع=      0.4غ</item>
+        <item>دهون احادية عدم التشبيع=        0.9غ</item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        18م غ</item>
+        <item>بوتاسيوم=        1119م غ</item>
+        <item>سكريات=    68غ</item>
+        <item>الياف غذائية=     28  غ</item>
+        <item>بروتين=  11  غ</item>
+        <item>فيتامين الف= 0و_د</item>
+        <item>كالسيوم=    383م غ</item>
+        <item>فيتامين سي= 21 م غ</item>
+        <item>حديد=   14م غ</item>
+        <item>فيتامين ب =  0.2 م غ</item>
+        <item>مغنسيوم=   229م غ</item>
+    </string-array>
+
+
+
+    <string-array name="Raisin">
+        <item>سعرات حرارية=  299</item>
+        <item>دهن مشبع=   0.1غ</item>
+        <item>دهن عديد اللاتشبيع=      0غ</item>
+        <item>دهون احادية عدم التشبيع=        0.1غ</item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        11م غ</item>
+        <item>بوتاسيوم=        749م غ</item>
+        <item>سكريات=    79غ</item>
+        <item>الياف غذائية=     3.7  غ</item>
+        <item>بروتين=  3.1  غ</item>
+        <item>سكر=    59غ</item>
+        <item>فيتامين الف= 0و_د</item>
+        <item>كالسيوم=    50م غ</item>
+        <item>فيتامين سي= 2.3 م غ</item>
+        <item>حديد=   1.9م غ</item>
+        <item>فيتامين ب =  0.2 م غ</item>
+        <item>مغنسيوم=   32م غ</item>
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string-array name="Lentil">
+        <item>سعرات حرارية=  116</item>
+        <item>دهن مشبع=   0.1غ</item>
+        <item>دهن عديد اللاتشبيع=      0.2غ</item>
+        <item>دهون احادية عدم التشبيع=        0.1غ</item>
+        <item>     الكاربوهيدرات=  63.10غ</item>
+        <item>      ماء =   7.82غ   </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        2م غ</item>
+        <item>بوتاسيوم=        369م غ</item>
+        <item>سكريات=    20غ</item>
+        <item>الياف غذائية=     8  غ</item>
+        <item>سكر=    1.8غ</item>
+        <item>بروتين=  9  غ</item>
+        <item>فيتامين الف=  8و_د</item>
+        <item>كالسيوم=    19م غ</item>
+        <item>فيتامين سي= 1.5 م غ</item>
+        <item>حديد=   3.3م غ</item>
+        <item>فيتامين ب =  0.2 م غ</item>
+        <item>مغنسيوم=   36م غ</item>
+    </string-array>
+
+
+
+    <string-array name="Chickpeas">
+        <item>سعرات حرارية=  364</item>
+        <item>دهن مشبع=   0.6غ</item>
+        <item>دهن عديد اللاتشبيع=      2.7غ</item>
+        <item>دهون احادية عدم التشبيع=        1.4غ</item>
+        <item>     الكاربوهيدرات=  62.95غ</item>
+        <item>      ماء =   7.68غ   </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        24م غ</item>
+        <item>بوتاسيوم=        875م غ</item>
+        <item>سكريات=    61غ</item>
+        <item>الياف غذائية=     17  غ</item>
+        <item>سكر=    11غ</item>
+        <item>بروتين=  19  غ</item>
+        <item>فيتامين الف=  67و_د</item>
+        <item>كالسيوم=    105م غ</item>
+        <item>فيتامين سي= 4 م غ</item>
+        <item>حديد=   6.2م غ</item>
+        <item>فيتامين ب =  0.5 م غ</item>
+        <item>مغنسيوم=   115م غ</item>
+    </string-array>
+
+    <string-array name="Mash">
+        <item>سعرات حرارية=  347</item>
+        <item>دهن مشبع=   0.3غ</item>
+        <item>دهن عديد اللاتشبيع=      0.4غ</item>
+        <item>دهون احادية عدم التشبيع=        0.2غ</item>
+        <item>     الكاربوهيدرات=  62.95غ</item>
+        <item>      ماء =   7.68غ   </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        15م غ</item>
+        <item>بوتاسيوم=        1246م غ</item>
+        <item>سكريات=    63غ</item>
+        <item>الياف غذائية=     16  غ</item>
+        <item>سكر=    7غ</item>
+        <item>بروتين=  24  غ</item>
+        <item>فيتامين الف=  114و_د</item>
+        <item>كالسيوم=    132م غ</item>
+        <item>فيتامين سي= 4.8 م غ</item>
+        <item>حديد=   6.7م غ</item>
+        <item>فيتامين ب =  0.4 م غ</item>
+        <item>مغنسيوم=   189م غ</item>
+    </string-array>
+
+
+
+
+    <string-array name="Blackbeans">
+
+        <item>لسعرات الحرارية= 350 </item>
+        <item>الدهون= 0.90غ </item>
+        <item> الكربوهيدرات= 63.25غ</item>
+        <item> الألياف= 24.9غ</item>
+        <item>  السكر= 2.25غ</item>
+        <item>  البروتينات= 21.25غ</item>
+        <item>      ماء =   11غ   </item>
+
+    </string-array>
+
+
+    <string-array name="Whitebeans">
+        <item>سعرات حرارية=  347</item>
+        <item>دهن مشبع=   0.2غ</item>
+        <item>دهن عديد اللاتشبيع=      0.4غ</item>
+        <item>دهون احادية عدم التشبيع=        0.2غ</item>
+        <item>     الكاربوهيدرات=  60.27غ</item>
+        <item>      ماء =   11.32غ   </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        12م غ</item>
+        <item>بوتاسيوم=        1393م غ</item>
+        <item>سكريات=   63غ</item>
+        <item>الياف غذائية=     16  غ</item>
+        <item>سكر=    2.1غ</item>
+        <item>بروتين=  21  غ</item>
+        <item>فيتامين الف=  0و_د</item>
+        <item>كالسيوم=    113م غ</item>
+        <item>فيتامين سي= 6.3 م غ</item>
+        <item>حديد=   5.1م غ</item>
+        <item>فيتامين ب =  0.5 م غ</item>
+        <item>مغنسيوم=   176م غ</item>
+    </string-array>
+
+
+
+    <string-array name="peanuts">
+        <item>سعرات حرارية=  567</item>
+        <item>دهن مشبع=   7غ</item>
+        <item>دهن عديد اللاتشبيع=      16غ</item>
+        <item>دهون احادية عدم التشبيع=        24غ</item>
+        <item>     الكاربوهيدرات=  16.13غ</item>
+        <item>      ماء =   6.50غ   </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        18م غ</item>
+        <item>بوتاسيوم=        705م غ</item>
+        <item>سكريات=   16غ</item>
+        <item>الياف غذائية=     9  غ</item>
+        <item>سكر=    4غ</item>
+        <item>بروتين=  26  غ</item>
+        <item>فيتامين الف=  0و_د</item>
+        <item>كالسيوم=    92م غ</item>
+        <item>فيتامين سي= 0 م غ</item>
+        <item>حديد=   4.6م غ</item>
+        <item>فيتامين ب =  0.3 م غ</item>
+        <item>مغنسيوم=   168م غ</item>
+    </string-array>
+
+
+
+    <string-array name="Soybeans">
+        <item>سعرات حرارية=  446</item>
+        <item>دهن مشبع=   2.9غ</item>
+        <item>دهن عديد اللاتشبيع=     11غ</item>
+        <item>دهون احادية عدم التشبيع=        4.4غ</item>
+        <item>     الكاربوهيدرات= 30.16غ</item>
+        <item>      ماء =   8.54غ   </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        2م غ</item>
+        <item>بوتاسيوم=        1797م غ</item>
+        <item>سكريات=   30غ</item>
+        <item>الياف غذائية=     9  غ</item>
+        <item>سكر=    7غ</item>
+        <item>بروتين=  36  غ</item>
+        <item>فيتامين الف=  22و_د</item>
+        <item>كالسيوم=    277م غ</item>
+        <item>فيتامين سي= 6 م غ</item>
+        <item>حديد=   15.7م غ</item>
+        <item>فيتامين ب =  0.4 م غ</item>
+        <item>مغنسيوم=   280م غ</item>
+    </string-array>
+
+
+
+    <string-array name="Cumin">
+        <item>سعرات حرارية=  374</item>
+        <item>دهن مشبع=   1.5غ</item>
+        <item>دهن عديد اللاتشبيع=     3.3غ</item>
+        <item>دهون احادية عدم التشبيع=        14غ</item>
+        <item>     الكاربوهيدرات= 44.24غ</item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        168م غ</item>
+        <item>بوتاسيوم=        1788م غ</item>
+        <item>سكريات=   44غ</item>
+        <item>الياف غذائية=     11  غ</item>
+        <item>سكر=    2.3غ</item>
+        <item>بروتين=  18  غ</item>
+        <item>فيتامين الف=  70و_د</item>
+        <item>كالسيوم=    931م غ</item>
+        <item>فيتامين سي= 7.7 م غ</item>
+        <item>حديد=   66.4م غ</item>
+        <item>فيتامين ب =  0.4 م غ</item>
+        <item>مغنسيوم=   366م غ</item>
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string-array name="boiledeggs">
+        <item>سعرات حرارية=  155</item>
+        <item>دهن مشبع=   3.3غ</item>
+        <item>دهن عديد اللاتشبيع=     1.4غ</item>
+        <item>دهون احادية عدم التشبيع=        4.1غ</item>
+        <item>كولسترول=         373م غ</item>
+        <item>صوديوم=        124م غ</item>
+        <item>بوتاسيوم=        126م غ</item>
+        <item>سكريات=   1.1غ</item>
+        <item>الياف غذائية=     0  غ</item>
+        <item>سكر=    1.1غ</item>
+        <item>بروتين=  13  غ</item>
+        <item>فيتامين الف=  520و_د</item>
+        <item>كالسيوم=    50م غ</item>
+        <item>فيتامين سي= 0 م غ</item>
+        <item>حديد=   1.2م غ</item>
+        <item>فيتامين ب =  0.1 م غ</item>
+        <item>مغنسيوم=   10م غ</item>
+    </string-array>
+
+
+
+    <string-array name="friedeggs">
+        <item>سعرات حرارية=  195</item>
+        <item>دهن مشبع=   4.29غ</item>
+        <item>دهن عديد اللاتشبيع=     0غ</item>
+        <item>دهون احادية عدم التشبيع=        0غ</item>
+        <item>كولسترول=         457م غ</item>
+        <item>صوديوم=        204م غ</item>
+        <item>بوتاسيوم=        147م غ</item>
+        <item>سكريات=  0.83غ</item>
+        <item>الياف غذائية=     0  غ</item>
+        <item>بروتين=  13.62  غ</item>
+        <item>فيتامين الف=  729و_د</item>
+        <item>كالسيوم=    59م غ</item>
+        <item>فيتامين سي= 0 م غ</item>
+        <item>حديد=   0.98م غ</item>
+        <item>فيتامين ب =  0.16 م غ</item>
+        <item>مغنسيوم=   13م غ</item>
+    </string-array>
+
+
+
+    <string-array name="Duckeggs">
+    <item>سعرات حرارية=  180</item>
+    <item>دهون=   13.77غ</item>
+    <item>كولسترول=         884م غ</item>
+    <item>صوديوم=        146م غ</item>
+    <item>بوتاسيوم=        222م غ</item>
+    <item>سكريات=  0.93غ</item>
+    <item>الياف غذائية=     0  غ</item>
+    <item>بروتين=  12.81  غ</item>
+    <item>فيتامين الف=  674و_د</item>
+    <item>كالسيوم=    64م غ</item>
+    <item>فيتامين سي= 0 م غ</item>
+    <item>حديد=   3.85م غ</item>
+    <item>فيتامين ب =  0.25 م غ</item>
+    <item>مغنسيوم=   17م غ</item>
+</string-array>
+
+
+
+    <string-array name="honey">
+        <item>سعرات حرارية=  304</item>
+        <item>دهن مشبع=   0غ</item>
+        <item>دهن عديد اللاتشبيع=     0غ</item>
+        <item>دهون احادية عدم التشبيع=        0غ</item>
+        <item>     الكاربوهيدرات= 82.4غ</item>
+        <item>      ماء =   17.10غ   </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        4م غ</item>
+        <item>بوتاسيوم=        52م غ</item>
+        <item>سكريات=   82غ</item>
+        <item>الياف غذائية=     0.2  غ</item>
+        <item>سكر=    82غ</item>
+        <item>بروتين=  0.3  غ</item>
+        <item>فيتامين الف=  0و_د</item>
+        <item>كالسيوم=    6م غ</item>
+        <item>فيتامين سي= 0.5 م غ</item>
+        <item>حديد=   0.4م غ</item>
+        <item>فيتامين ب =  0 م غ</item>
+        <item>مغنسيوم=   2م غ</item>
+    </string-array>
+
+
+    <string-array name="Buttermilk">
+        <item>سعرات حرارية=  40</item>
+        <item>دهن مشبع=   0.5غ</item>
+        <item>دهن عديد اللاتشبيع=     0غ</item>
+        <item>دهون احادية عدم التشبيع=        0.3غ</item>
+        <item>كولسترول=         4م غ</item>
+        <item>صوديوم=        105م غ</item>
+        <item>بوتاسيوم=        151م غ</item>
+        <item>سكريات=   4.8غ</item>
+        <item>الياف غذائية=     0  غ</item>
+        <item>سكر=    4.8غ</item>
+        <item>بروتين=  3.3  غ</item>
+        <item>فيتامين الف=  47و_د</item>
+        <item>كالسيوم=    116م غ</item>
+        <item>فيتامين سي= 1 م غ</item>
+        <item>حديد=   0.1م غ</item>
+        <item>فيتامين ب =  0 م غ</item>
+        <item>مغنسيوم=   11م غ</item>
+    </string-array>
+
+
+    <string-array name="milk">
+        <item>سعرات حرارية=  42</item>
+        <item>دهن مشبع=   0.6غ</item>
+        <item>دهن عديد اللاتشبيع=     0غ</item>
+        <item>دهون احادية عدم التشبيع=        0.3غ</item>
+        <item>     الكاربوهيدرات= 4.78غ</item>
+        <item>      ماء =   88.13غ   </item>
+        <item>كولسترول=         5م غ</item>
+        <item>صوديوم=        44م غ</item>
+        <item>بوتاسيوم=        150م غ</item>
+        <item>سكريات=   5غ</item>
+        <item>الياف غذائية=     0  غ</item>
+        <item>سكر=    5غ</item>
+        <item>بروتين=  3.4  غ</item>
+        <item>فيتامين الف=  47و_د</item>
+        <item>كالسيوم=    125م غ</item>
+        <item>فيتامين سي= 0 م غ</item>
+        <item>حديد=   0م غ</item>
+        <item>فيتامين ب =  0 م غ</item>
+        <item>مغنسيوم=   11م غ</item>
+    </string-array>
+
+
+
+    <string-array name="Mothermilk">
+        <item>سعرات حرارية=  69</item>
+        <item>دهن مشبع=   2غ</item>
+        <item>دهن عديد اللاتشبيع=     0.5غ</item>
+        <item>دهون احادية عدم التشبيع=        1.7غ</item>
+        <item>     الكاربوهيدرات= 6.89غ</item>
+        <item>      ماء =   87.50غ   </item>
+        <item>كولسترول=         14م غ</item>
+        <item>صوديوم=        17م غ</item>
+        <item>بوتاسيوم=        51م غ</item>
+        <item>سكريات=   7غ</item>
+        <item>الياف غذائية=     0  غ</item>
+        <item>سكر=    7غ</item>
+        <item>بروتين=  1  غ</item>
+        <item>فيتامين الف=  212و_د</item>
+        <item>كالسيوم=    32م غ</item>
+        <item>فيتامين سي= 5 م غ</item>
+        <item>حديد=   0م غ</item>
+        <item>فيتامين ب =  0 م غ</item>
+        <item>مغنسيوم=   3م غ</item>
+    </string-array>
+
+
+    <string-array name="Cheese">
+        <item>سعرات حرارية=  402</item>
+        <item>دهن مشبع=   21غ</item>
+        <item>دهن عديد اللاتشبيع=     0.9غ</item>
+        <item>دهون احادية عدم التشبيع=        9غ</item>
+        <item>كولسترول=         105م غ</item>
+        <item>صوديوم=        621م غ</item>
+        <item>بوتاسيوم=        98م غ</item>
+        <item>سكريات=   1.3غ</item>
+        <item>الياف غذائية=     0  غ</item>
+        <item>سكر=    0.5غ</item>
+        <item>بروتين=  25  غ</item>
+        <item>فيتامين الف=  2و_د</item>
+        <item>كالسيوم=    721م غ</item>
+        <item>فيتامين سي= 5 م غ</item>
+        <item>حديد=   0.7م غ</item>
+        <item>فيتامين ب =  0.1 م غ</item>
+        <item>مغنسيوم=   28م غ</item>
+    </string-array>
+
+
+    <string-array name="Shapemilk">
+        <item>سعرات حرارية=  107</item>
+        <item>دهن مشبع=   4.6غ</item>
+        <item>دهن عديد اللاتشبيع=     0.3غ</item>
+        <item>دهون احادية عدم التشبيع=        1.7غ</item>
+        <item>     الكاربوهيدرات= 5.1غ</item>
+        <item>      ماء =   83غ   </item>
+        <item>كولسترول=         27م غ</item>
+        <item>صوديوم=        44م غ</item>
+        <item>بوتاسيوم=        137م غ</item>
+        <item>سكريات=   5غ</item>
+        <item>الياف غذائية=     0  غ</item>
+        <item>بروتين= 6  غ</item>
+        <item>فيتامين الف=  147و_د</item>
+        <item>كالسيوم=    193م غ</item>
+        <item>فيتامين سي= 4.2 م غ</item>
+        <item>حديد=   0.1م غ</item>
+        <item>مغنسيوم=   18م غ</item>
+    </string-array>
+
+
+
+
+    <string-array name="Butter">
+        <item>سعرات حرارية=  716</item>
+        <item>دهن مشبع=   51غ</item>
+        <item>دهن عديد اللاتشبيع=     3غ</item>
+        <item>دهون احادية عدم التشبيع=        21غ</item>
+        <item>     الكاربوهيدرات= 0غ</item>
+        <item>كولسترول=         215م غ</item>
+        <item>صوديوم=        1م غ</item>
+        <item>بوتاسيوم=        24م غ</item>
+        <item>سكريات=   0.1غ</item>
+        <item>الياف غذائية=     0  غ</item>
+        <item>بروتين= 0.9  غ</item>
+        <item>فيتامين الف=  99و_د</item>
+        <item>كالسيوم=    24م غ</item>
+        <item>فيتامين سي= 0 م غ</item>
+        <item>حديد=   0م غ</item>
+        <item>مغنسيوم=   2م غ</item>
+    </string-array>
+
+
+
+
+    <string-array name="peanutbutter">
+        <item>سعرات حرارية=  588</item>
+        <item>دهن مشبع=   10غ</item>
+        <item>دهن عديد اللاتشبيع=     14غ</item>
+        <item>دهون احادية عدم التشبيع=        24غ</item>
+        <item>كولسترول=         5م غ</item>
+        <item>صوديوم=        17م غ</item>
+        <item>بوتاسيوم=        649م غ</item>
+        <item>سكريات=   20غ</item>
+        <item>الياف غذائية=     6  غ</item>
+        <item>سكر=    9غ</item>
+        <item>بروتين=  25  غ</item>
+        <item>فيتامين الف=  0و_د</item>
+        <item>كالسيوم=    43م غ</item>
+        <item>فيتامين سي= 0 م غ</item>
+        <item>حديد=  1.9م غ</item>
+        <item>فيتامين ب =  0.5 م غ</item>
+        <item>مغنسيوم=   154م غ</item>
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string-array name="Oil">
+        <item>سعرات حرارية=  884</item>
+        <item>دهن مشبع=   13غ</item>
+        <item>دهن عديد اللاتشبيع=     36غ</item>
+        <item>دهون احادية عدم التشبيع=        46غ</item>
+        <item>     الكاربوهيدرات= 0غ</item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        0م غ</item>
+        <item>بوتاسيوم=        0م غ</item>
+        <item>سكريات=   0غ</item>
+        <item>الياف غذائية=     0  غ</item>
+        <item>بروتين= 0  غ</item>
+        <item>فيتامين الف=  0و_د</item>
+        <item>كالسيوم=    0م غ</item>
+        <item>فيتامين سي= 0 م غ</item>
+        <item>حديد=   0م غ</item>
+        <item>مغنسيوم=   0م غ</item>
+    </string-array>
+
+
+    <string-array name="FishOil">
+        <item>سعرات حرارية=  902</item>
+        <item>دهن مشبع=   12غ</item>
+        <item>دهن عديد اللاتشبيع=     16غ</item>
+        <item>دهون احادية عدم التشبيع=        57غ</item>
+        <item>كولسترول=         766م غ</item>
+        <item>صوديوم=        0م غ</item>
+        <item>بوتاسيوم=        0م غ</item>
+        <item>سكريات=   0غ</item>
+        <item>الياف غذائية=     0  غ</item>
+        <item>بروتين= 0  غ</item>
+        <item>فيتامين الف=  0و_د</item>
+        <item>كالسيوم=    0م غ</item>
+        <item>فيتامين سي= 0 م غ</item>
+        <item>حديد=   0م غ</item>
+        <item>مغنسيوم=   0م غ</item>
+    </string-array>
+
+
+    <string-array name="Salt">
+        <item>سعرات حرارية=  0</item>
+        <item>دهن مشبع=   0غ</item>
+        <item>دهن عديد اللاتشبيع=     0غ</item>
+        <item>دهون احادية عدم التشبيع=        0غ</item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        38758م غ</item>
+        <item>بوتاسيوم=        8م غ</item>
+        <item>سكريات=   0غ</item>
+        <item>الياف غذائية=     0  غ</item>
+        <item>بروتين= 0  غ</item>
+        <item>فيتامين الف=  0و_د</item>
+        <item>كالسيوم=    24م غ</item>
+        <item>فيتامين سي= 0 م غ</item>
+        <item>حديد=   0م غ</item>
+        <item>مغنسيوم=   1م غ</item>
+    </string-array>
+
+
+    <string-array name="Sugar">
+        <item>سعرات حرارية=  386</item>
+        <item>دهن مشبع=   0غ</item>
+        <item>دهن عديد اللاتشبيع=     0غ</item>
+        <item>دهون احادية عدم التشبيع=        0غ</item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        1م غ</item>
+        <item>بوتاسيوم=        2م غ</item>
+        <item>سكريات=   100غ</item>
+        <item>الياف غذائية=     0  غ</item>
+        <item>سكر=100غ   </item>
+        <item>بروتين= 0  غ</item>
+        <item>فيتامين الف=  0و_د</item>
+        <item>كالسيوم=    1م غ</item>
+        <item>فيتامين سي= 0 م غ</item>
+        <item>حديد=   0م غ</item>
+        <item>مغنسيوم=   0م غ</item>
+    </string-array>
+
+
+    <string-array name="cinnamon">
+        <item>سعرات حرارية=  247</item>
+        <item>دهن مشبع=   0.3  غ</item>
+        <item>دهن عديد اللاتشبيع=     0.1غ</item>
+        <item>دهون احادية عدم التشبيع=        0.2غ</item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        10م غ</item>
+        <item>بوتاسيوم=       431م غ</item>
+        <item>سكريات=   81غ</item>
+        <item>الياف غذائية=     53  غ</item>
+        <item>سكر=2.2غ   </item>
+        <item>بروتين= 4  غ</item>
+        <item>فيتامين الف=  295و_د</item>
+        <item>كالسيوم=    2م غ</item>
+        <item>فيتامين سي= 3.8 م غ</item>
+        <item>حديد=   8.3م غ</item>
+        <item>مغنسيوم=   60م غ</item>
+    </string-array>
+
+
+    <string-array name="spices">
+        <item>سعرات حرارية=  251</item>
+        <item>دهن مشبع=   1.4  غ</item>
+        <item>دهن عديد اللاتشبيع=     1غ</item>
+        <item>دهون احادية عدم التشبيع=        0.7غ</item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        20م غ</item>
+        <item>بوتاسيوم=       1329م غ</item>
+        <item>سكريات=   64غ</item>
+        <item>الياف غذائية=     25  غ</item>
+        <item>سكر=0.6غ   </item>
+        <item>بروتين= 10  غ</item>
+        <item>فيتامين الف=  547و_د</item>
+        <item>كالسيوم=    443م غ</item>
+        <item>فيتامين سي= 0 م غ</item>
+        <item>حديد=   9.7م غ</item>
+        <item>مغنسيوم=   171م غ</item>
+    </string-array>
+
+
+
+    <string-array name="Sesameoil">
+        <item>سعرات حرارية=  884</item>
+        <item>دهن مشبع=   14  غ</item>
+        <item>دهن عديد اللاتشبيع=     42غ</item>
+        <item>دهون احادية عدم التشبيع=       40غ</item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        0م غ</item>
+        <item>بوتاسيوم=       0م غ</item>
+        <item>سكريات=  0غ</item>
+        <item>الياف غذائية=     0  غ</item>
+        <item>سكر=0غ   </item>
+        <item>بروتين= 0  غ</item>
+        <item>فيتامين الف=  0و_د</item>
+        <item>كالسيوم=    0م غ</item>
+        <item>فيتامين سي= 0 م غ</item>
+        <item>حديد=   0م غ</item>
+        <item>مغنسيوم=   0م غ</item>
+    </string-array>
+
+
+    <string-array name="oliveoil">
+        <item>سعرات حرارية=  884</item>
+        <item>دهن مشبع=   14  غ</item>
+        <item>دهن عديد اللاتشبيع=     1غ</item>
+        <item>دهون احادية عدم التشبيع=       73غ</item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        2م غ</item>
+        <item>بوتاسيوم=       1م غ</item>
+        <item>سكريات=  0غ</item>
+        <item>الياف غذائية=     0  غ</item>
+        <item>سكر=0غ   </item>
+        <item>بروتين= 0  غ</item>
+        <item>فيتامين الف=  0و_د</item>
+        <item>كالسيوم=    1م غ</item>
+        <item>فيتامين سي= 0 م غ</item>
+        <item>حديد=   0.6م غ</item>
+        <item>مغنسيوم=   0م غ</item>
+    </string-array>
+
+
+    <string-array name="almonds">
+        <item>سعرات حرارية=  576</item>
+        <item>دهن مشبع=   3.73  غ</item>
+        <item>دهون=     49.42غ</item>
+        <item>كاربوهيدرات=       21ز7غ</item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        1م غ</item>
+        <item>بوتاسيوم=       705م غ</item>
+        <item>الياف غذائية=     0  غ</item>
+        <item>سكر=3.89غ   </item>
+        <item>بروتين= 21.22  غ</item>
+        <item>فيتامين الف=  1و_د</item>
+        <item>كالسيوم=    264م غ</item>
+        <item>حديد=   3.72م غ</item>
+        <item>مغنسيوم=   268م غ</item>
+    </string-array>
+
+
+
+
+    <string-array name="Nut">
+        <item>سعرات حرارية=  654</item>
+        <item>دهن مشبع=   6  غ</item>
+        <item>دهن عديد اللاتشبيع=     47غ</item>
+        <item>دهون احادية عدم التشبيع=       9غ</item>
+        <item>     الكاربوهيدرات= 13.71غ</item>
+        <item>      ماء =   4.7غ   </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        2م غ</item>
+        <item>بوتاسيوم=       441م غ</item>
+        <item>سكريات=  14غ</item>
+        <item>الياف غذائية=     7  غ</item>
+        <item>سكر=2.6غ   </item>
+        <item>بروتين= 15  غ</item>
+        <item>فيتامين الف=  20و_د</item>
+        <item>كالسيوم=    98م غ</item>
+        <item>فيتامين سي= 1.3 م غ</item>
+        <item>حديد=   2.9م غ</item>
+        <item>مغنسيوم=   158م غ</item>
+    </string-array>
+
+
+
+    <string-array name="Pistachio">
+        <item>سعرات حرارية=  562</item>
+        <item>دهن مشبع=   6  غ</item>
+        <item>دهن عديد اللاتشبيع=     14غ</item>
+        <item>دهون احادية عدم التشبيع=       24غ</item>
+        <item>     الكاربوهيدرات= 27.17غ</item>
+        <item>      ماء =   4.37غ   </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        1م غ</item>
+        <item>بوتاسيوم=       1025م غ</item>
+        <item>سكريات=  28غ</item>
+        <item>الياف غذائية=     10  غ</item>
+        <item>سكر=8غ   </item>
+        <item>بروتين= 20  غ</item>
+        <item>فيتامين الف=  415و_د</item>
+        <item>كالسيوم=    105م غ</item>
+        <item>فيتامين سي= 5.6 م غ</item>
+        <item>حديد=   3.9م غ</item>
+        <item>مغنسيوم=   121م غ</item>
+    </string-array>
+
+
+    <string-array name="Hazelnut">
+        <item>سعرات حرارية=  628</item>
+        <item>دهن مشبع=   4.5  غ</item>
+        <item>دهن عديد اللاتشبيع=    8غ</item>
+        <item>دهون احادية عدم التشبيع=       46غ</item>
+        <item>     الكاربوهيدرات= 16.7غ</item>
+        <item>      ماء =   5.31غ   </item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=        0م غ</item>
+        <item>بوتاسيوم=       680م غ</item>
+        <item>سكريات=  17غ</item>
+        <item>الياف غذائية=     10  غ</item>
+        <item>سكر=4.3غ   </item>
+        <item>بروتين= 15  غ</item>
+        <item>فيتامين الف=  20و_د</item>
+        <item>كالسيوم=    114م غ</item>
+        <item>فيتامين سي= 6.3 م غ</item>
+        <item>حديد=   4.7م غ</item>
+        <item>مغنسيوم=   163م غ</item>
+    </string-array>
+
+
+    <string-array name="Vinger">
+        <item>سعرات حرارية=  18</item>
+        <item>دهن مشبع=   0  غ</item>
+        <item>دهن عديد اللاتشبيع=    0غ</item>
+        <item>دهون احادية عدم التشبيع=       0غ</item>
+        <item>     الكاربوهيدرات= 0.81غ</item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=       2م غ</item>
+        <item>بوتاسيوم=       2م غ</item>
+        <item>سكريات=  0غ</item>
+        <item>الياف غذائية=     0  غ</item>
+        <item>سكر=0غ   </item>
+        <item>بروتين= 0  غ</item>
+        <item>فيتامين الف=  0و_د</item>
+        <item>كالسيوم=    6م غ</item>
+        <item>فيتامين سي= 0 م غ</item>
+        <item>حديد=   0م غ</item>
+        <item>مغنسيوم=   1م غ</item>
+    </string-array>
+
+
+
+    <string-array name="Pizza">
+        <item>سعرات حرارية=  266</item>
+        <item>دهن مشبع=   4.5  غ</item>
+        <item>دهن عديد اللاتشبيع=    1.7غ</item>
+        <item>دهون احادية عدم التشبيع=       2.6غ</item>
+        <item>     الكاربوهيدرات= 14غ</item>
+        <item>كولسترول=         17م غ</item>
+        <item>صوديوم=       598م غ</item>
+        <item>بوتاسيوم=       172م غ</item>
+        <item>سكريات=  33غ</item>
+        <item>الياف غذائية=     2.3  غ</item>
+        <item>سكر=3.6غ   </item>
+        <item>بروتين= 11  غ</item>
+        <item>فيتامين الف=  358و_د</item>
+        <item>كالسيوم=    188م غ</item>
+        <item>فيتامين سي= 1.4 م غ</item>
+        <item>حديد=   2.5م غ</item>
+        <item>مغنسيوم=   24م غ</item>
+    </string-array>
+
+
+
+    <string-array name="Falafel">
+        <item>سعرات حرارية=  332</item>
+        <item>دهن مشبع=   2.4  غ</item>
+        <item>دهن عديد اللاتشبيع=    4.2غ</item>
+        <item>دهون احادية عدم التشبيع=       10غ</item>
+        <item>     الكاربوهيدرات= 28غ</item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=       294م غ</item>
+        <item>بوتاسيوم=       585م غ</item>
+        <item>سكريات=  32غ</item>
+        <item>بروتين= 13  غ</item>
+        <item>فيتامين الف=  13و_د</item>
+        <item>كالسيوم=    54م غ</item>
+        <item>فيتامين سي= 1.6 م غ</item>
+        <item>حديد=   3.4م غ</item>
+        <item>مغنسيوم=   82م غ</item>
+    </string-array>
+
+
+
+
+    <string-array name="PotatoChips">
+        <item>سعرات حرارية= 536</item>
+        <item>دهن مشبع=   11  غ</item>
+        <item>دهن عديد اللاتشبيع=    12غ</item>
+        <item>دهون احادية عدم التشبيع=       10غ</item>
+        <item>كولسترول=         0م غ</item>
+        <item>صوديوم=       8م غ</item>
+        <item>بوتاسيوم=       1275م غ</item>
+        <item>سكريات=  53غ</item>
+        <item>الياف غذائية=     4.8  غ</item>
+        <item>سكر=0.2غ   </item>
+        <item>بروتين= 7  غ</item>
+        <item>فيتامين الف=  0و_د</item>
+        <item>كالسيوم=    24م غ</item>
+        <item>فيتامين سي= 31.1 م غ</item>
+        <item>حديد=   1.6م غ</item>
+        <item>مغنسيوم=   67م غ</item>
+    </string-array>
+
+
+
+
+    <string-array name="chocolate">
+        <item>سعرات حرارية=   545</item>
+        <item>دهن مشبع=   19  غ</item>
+        <item>دهن عديد اللاتشبيع=    1.1غ</item>
+        <item>دهون احادية عدم التشبيع=       10غ</item>
+        <item>كولسترول=         8م غ</item>
+        <item>صوديوم=       24م غ</item>
+        <item>بوتاسيوم=       595م غ</item>
+        <item>سكريات=  61غ</item>
+        <item>الياف غذائية=     7  غ</item>
+        <item>سكر=48غ   </item>
+        <item>بروتين= 4.9  غ</item>
+        <item>       كافيين=   43م غ   </item>
+        <item>فيتامين الف=  50و_د</item>
+        <item>كالسيوم=    56م غ</item>
+        <item>فيتامين سي= 0 م غ</item>
+        <item>حديد=   8م غ</item>
+        <item>مغنسيوم=   146م غ</item>
+    </string-array>
+
+
+    <string-array name="caviar">
+        <item>سعرات حرارية=  264</item>
+        <item>دهن مشبع=   4.1  غ</item>
+        <item>دهن عديد اللاتشبيع=   7غ</item>
+        <item>دهون احادية عدم التشبيع=       4.6غ</item>
+        <item>     الكاربوهيدرات= 4غ</item>
+        <item>كولسترول=         588م غ</item>
+        <item>صوديوم=        1500م غ</item>
+        <item>بوتاسيوم=       181م غ</item>
+        <item>سكريات=  4غ</item>
+        <item>الياف غذائية=     0  غ</item>
+        <item>سكر=0غ   </item>
+        <item>بروتين= 25  غ</item>
+        <item>فيتامين الف=  905و_د</item>
+        <item>كالسيوم=    275م غ</item>
+        <item>فيتامين سي= 0 م غ</item>
+        <item>حديد=   11.9م غ</item>
+        <item>مغنسيوم=   300م غ</item>
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
